@@ -1,5 +1,5 @@
-# flp
+# flp Fundacion Lanta Papiamento
 Projecto pa e Diccionario Splicativo di Papiamento
-Fundacion Lanta Papiamento
+
 
 # Online Resources
