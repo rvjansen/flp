@@ -6,3 +6,5 @@ Projecto pa e Diccionario Splicativo di Papiamento
 [Project Activities Planning](https://github.com/users/rvjansen/projects/1/views/1)
 
 [Project Wiki](https://github.com/rvjansen/flp/wiki)
+
+[Issues and Activities List](https://github.com/rvjansen/flp/issues)
