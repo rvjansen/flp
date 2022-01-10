@@ -10,7 +10,7 @@ Projecto pa lanta e Corpus y Diccionario Splicativo di Papiamento
 2) Produci un Diccionario Splicativo den varios edicion, den formal digital y buki tradicional
 
 ## Online Resources
-[Planificaion di e actividadonan](https://github.com/users/rvjansen/projects/1/views/1)
+[Planificacion di e actividadonan](https://github.com/users/rvjansen/projects/1/views/1)
 
 [Project Wiki](https://github.com/rvjansen/flp/wiki)
 
