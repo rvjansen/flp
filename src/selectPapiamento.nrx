@@ -1,0 +1,101 @@
+package com.rvjansen
+/**
+ * Class selectPapiamento gets the papiamento words from the repository
+ * and formats them for the pap-eng dictionary part.  
+ * Created on: ma, 30, sep 2013 22:44:16 +0200
+ */
+class selectPapiamento
+  lista = TreeMap()
+  defMap = TreeMap()
+  all  = 1
+  nofont = 0
+  client = KBClient('')
+  /**
+   * Default constructor
+   */
+  method selectPapiamento()
+    say Date() 'selectPapiamento started'
+    outFileName = '../tex/book/Papiamento-English.tex'
+    out = PrintWriter(BufferedWriter(FileWriter(outFileName)))
+    out.println('\\twocolumn')
+    out.println('\\chapter{Papiamento-English}')
+    out.println('\\small')
+
+    a = client.request('pap(X),nm(X,Y)')
+    i = a.iterator()
+    loop while i.hasNext()
+      rs = Rexx i.next()
+      lista.put(rs['Y'].translate('',"'").strip(),rs['X'])
+    end
+    say Date() a.size() 'Papiamento Lemmata available'
+    total  = a.size(); totalstart = total
+    
+    i = lista.keySet().iterator()
+    loop while i.hasNext()
+      rs = Rexx i.next()
+      uid = lista.get(rs)
+      a = client.request("lemmasynset("uid",Number),synsetnumber(Synset,Number),def(Synset,Definition).")
+      if a.size() = 0 then total = total - 1
+      j = a.iterator()
+      defSet = TreeSet()
+      loop while j.hasNext()
+	def = Rexx j.next()
+	defSet.add(def['Definition'])
+      end
+      defMap.put(uid,defSet)
+    end -- loop while i
+    say Date() total 'defined lemmata found'
+    say Date() totalstart - total 'definitions to go.'
+    say Date() 'Writing Papiamento lexicon to' outFileName
+    
+    i = lista.keySet.iterator()
+    loop while i.hasNext()
+      lemma = Rexx i.next()
+      defuid = lista.get(lemma)
+      definition = TreeSet defMap.get(defuid)
+      if this.all then nop
+      else if definition.size() = 0 then iterate
+      out.print('\\textbf{'lemma'}')
+
+      -- parts of speech
+      if isTrue("noun("defuid").") then out.print(' \\emph{n} ')
+      if isTrue("verb("defuid").") then out.print(' \\emph{v} ')
+      if isTrue("adjective("defuid").") then out.print(' \\emph{adj} ')
+      if isTrue("adverb("defuid").") then out.print(' \\emph{adv} ')
+      if isTrue("interjection("defuid").") then out.print(' \\emph{int} ')
+
+      -- papiamento variants including government lists
+      if isTrue("cur_official("defuid").") then out.print(' 'fs('\\fontspec{Lucida Sans Unicode}')'\u241d'fs('\\fontspec{Calibri-Italic}')'ϲ ')
+      else if isTrue("cur("defuid").") then out.print( 'c'fs('\\fontspec{Calibri-Italic}')'ϲ')
+      if isTrue("aru_official("defuid").") then out.print(' 'fs('\\fontspec{Lucida Sans Unicode}')'\u241d'fs('\\fontspec{Arial Narrow}')'α ')
+      else if isTrue("aru("defuid").") then out.print(' 'fs('\\fontspec{Arial Narrow}')'α ')
+      printDefinitions(definition,out)
+    end
+    out.close()
+    say Date() 'selectPapiamento ready'
+    
+  method main(args=String[]) static
+    selectPapiamento()
+
+  method isTrue(req) returns boolean signals java.rmi.RemoteException
+    return client.isTrue(req)
+
+  method printDefinitions(def=TreeSet,out=PrintWriter)
+    out.print('\\fontspec{Minion Pro}')
+    i = def.iterator(); count = 1
+    loop while i.hasNext()
+      meaning = Rexx i.next()
+      meaning = texSafe(meaning)
+      if def.size() > 1 then out.print(count'.')
+      out.print(meaning.translate(' ','\u2019').changestr('^','\\^{}').strip('b',"'"))
+      count = count + 1
+    end
+    out.println('\\\\')
+
+  method texSafe(s)
+    s = s.changestr('$','\\$')
+    return s
+
+  method fs(f)
+    if this.nofont then return ''
+    else return f

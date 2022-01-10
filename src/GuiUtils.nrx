@@ -1,0 +1,81 @@
+package com.rvjansen
+import javax.swing.
+/**
+ * Class GuiUtils implements... 
+ * <BR>
+ * Created on: vr, 11, okt 2013 21:42:20 +0200
+ */
+class GuiUtils
+  properties private
+  client = KBClient('')
+  
+  /**
+   * Default constructor
+   */
+  method GuiUtils()
+
+  method isTrue(req) returns boolean signals java.rmi.RemoteException
+    return client.isTrue(req)
+    
+  method getDefinitionForLemma(uid=Object) returns String
+    rs = ''
+    do
+      line = Rexx uid.toString()
+      parse line . "'"id"'"
+      id = "'"id"'"
+      a = client.request("lemmasynset("id",Number),synsetnumber(Synset,Number),def(Synset,Definition).")
+      j = a.iterator()
+      loop while j.hasNext()
+	def = Rexx j.next()
+	rs = def['Number'] def['Definition'] def['Synset'] '\n'
+      end
+    catch java.rmi.RemoteException
+      say 'exception in getDefinitionForLemma'
+      return ''
+    end -- do
+    return rs
+
+  method getDefinitionsForLemma(uid=Object) returns java.util.List
+    al = ArrayList()
+    do
+      line = Rexx uid.toString()
+      parse line . "'"id"'"
+      id = "'"id"'"
+      a = client.request("lemmasynset("id",Number),synsetnumber(Synset,Number),def(Synset,Definition).")
+      j = a.iterator()
+      loop while j.hasNext()
+	def = Rexx j.next()
+	al.add(def['Definition'].translate('  ','[]'))
+      end
+    catch java.rmi.RemoteException
+      say 'exception in getDefinitionForLemma'
+      return al
+    end -- do
+    return al
+
+  method linkDefinitions(pap=Object, def=String)
+    do
+      line = Rexx pap.toString()
+      parse line . "'"current_pap_uuid"'"
+      current_pap_uuid = "'"current_pap_uuid"'"
+      defuuid = Rexx(def)
+      synsetnumber = defuuid.word(1)
+      defuuid = defuuid.right(40)
+      /* add synset number to lemma uuid */
+      f = Fact() -- its synset
+      f.setPred('3B365C30-22FF-11E3-80E8-E0F847277696')
+      f.setSubj(current_pap_uuid)
+      f.setObj(synsetnumber)
+      f.assertz(this.client)
+    catch java.rmi.RemoteException
+      say 'exception in linkDefinitions'
+    end -- do
+
+  method setDefinitionsList(j=DefaultListModel,uid=String)
+    uid = (Rexx uid).reverse().left(38).reverse()
+    i = getDefinitionsForLemma(uid).iterator()
+    loop while i.hasNext()
+      def = Rexx i.next()
+      j.addElement(def.toString())
+    end
+    

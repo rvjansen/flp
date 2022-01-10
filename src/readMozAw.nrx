@@ -1,0 +1,86 @@
+package com.rvjansen
+/**
+ * Class readMozAw implements... 
+ * <BR>
+ * Created on: vr, 27, sep 2013 20:38:27 +0200
+ */
+class readMozAw extends Bint
+
+  properties static
+  client                      = setClient()
+  lemma_type                  = setUUID('Lemma')
+  isclassifiedbylanguage      = query("cl(Y,X),nm(X,'Lemma'),nm(Y,'Language Name').",'Y')
+  isclassifiedbyPapiamentType = query("cl(Y,X),nm(X,'pap'),nm(Y,'Papiamento local variant').",'Y')
+
+  /**
+   * Default constructor
+   */
+  method readMozAw()
+    
+    client = KBClient('')
+    
+    in = BufferedReader(FileReader('../files/sources/moz_aw.txt'))
+    loop forever
+      word_ = Rexx in.readLine()
+      if word_ = null then leave
+      word_ = word_.changestr('/P','')
+      a = client.request("nm(X,'"word_"').")
+      if a.size() == 0 then do
+        lemma_uuid = Rexx this.newUUID()
+	-- create the lemma
+	f = Fact() -- the lemma object
+	f.setPred(this.ob_uuid)
+	f.setSubj(lemma_uuid)
+	f.setObj(lemma_type)
+	f.assertz(client)
+	
+	f = Fact() -- its name
+	f.setPred(this.nm_uuid)
+	f.setSubj(lemma_uuid)
+	f.setObj(word_)
+	f.assertz(client)
+	
+	f = Fact() -- the language
+	f.setPred(isclassifiedbylanguage)
+	f.setSubj(lemma_uuid)
+	f.setObj('3B60C790-22FF-11E3-80E8-E0F847277696')
+	f.assertz(client)
+	
+	-- it is an Aruban Papiamento variant lemma
+	f = Fact() -- 
+	f.setPred(isclassifiedbyPapiamentType)
+	f.setSubj(lemma_uuid)
+	f.setObj('3B6D98D0-22FF-11E3-80E8-E0F847277696')
+	f.assertz(client)
+	
+      -- its source system
+	f = Fact() -- 
+	f.setPred('39CE19A0-22FF-11E3-B3FD-E0F847277696') -- src system
+	f.setSubj(lemma_uuid)
+	f.setObj('6A35FE10-27A4-11E3-9474-E0F847277696') -- this
+	f.assertz(client)
+      end	 -- if a
+    end -- loop forever
+
+  method main(args=String[]) static
+    readMozAw()
+      method setUUID(s) static returns Rexx
+    do
+      return client.getIDForName(s)
+    catch java.rmi.RemoteException
+      say 'setting UUID failed'
+      return ''
+    end
+    
+  method setClient() static returns KBClient
+    return KBClient('')
+    
+  method query(s,atom) static returns Rexx
+    do
+      a = client.request(s)
+      rs = Rexx a.get(0)
+      return rs[atom]
+    catch java.rmi.RemoteException
+      say 'querying knowledge base failed'
+      return ''
+    end

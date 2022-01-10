@@ -1,0 +1,137 @@
+package com.rvjansen
+import java.rmi
+/**
+ * Class readArubaOfficial adds the offcial Aruba wordlist to the repository
+ * <BR>
+ * Created on: wo, 25, sep 2013 14:32:56 +0200
+ */
+class readArubaOfficial extends Bint
+  properties private
+  wordsMap = TreeMap()
+  wordIDMap = TreeMap()
+  
+  properties static
+  client                      = setClient()
+  lemma_type                  = setUUID('Lemma')
+  isclassifiedbylanguage      = query("cl(Y,X),nm(X,'Lemma'),nm(Y,'Language Name').",'Y')
+  isclassifiedbyPapiamentType = query("cl(Y,X),nm(X,'pap'),nm(Y,'Papiamento local variant').",'Y')
+  /**
+   * Default constructor
+   */
+  method readArubaOfficial()
+
+    -- define a scheme on Lemma for 'see lemma...'
+
+    scopeUUID = this.client.getIDForName('Dictionary')
+    see = this.addDescriptor(lemma_type,"see Lemma",scopeUUID)
+    
+    in = BufferedReader(FileReader('../files/sources/aruba_official.txt'))
+    loop forever
+      line = Rexx in.readLine()
+      if line = null then leave
+      if line.pos('[')>0 then do
+	parse line lemma '['alternate']'
+	lemma = lemma.translate("\u2019","'")
+	lemma = lemma.translate("\u2019","'")
+	this.wordsMap.put(lemma, alternate)
+	this.wordsMap.put(alternate, lemma)
+      end
+      else do
+	parse line word_
+	word_ = word_.translate("\u2019","'")
+	this.wordsMap.put(word_, '')
+      end
+    end  
+    
+    i = this.wordsMap.keySet().iterator()
+    loop while i.hasNext()
+      word_ = Rexx i.next()
+      lemma_uuid = Rexx this.newUUID()
+      -- create the lemma
+      f = Fact() -- the lemma object
+      f.setPred(this.ob_uuid)
+      f.setSubj(lemma_uuid)
+      f.setObj(lemma_type)
+      f.assertz(client)
+      
+      f = Fact() -- its name
+      f.setPred(this.nm_uuid)
+      f.setSubj(lemma_uuid)
+      f.setObj(word_)
+      f.assertz(client)
+      
+      f = Fact() -- the language
+      f.setPred(isclassifiedbylanguage)
+      f.setSubj(lemma_uuid)
+      f.setObj('3B60C790-22FF-11E3-80E8-E0F847277696')
+      f.assertz(client)
+
+      -- it is an Aruban Papiamento variant lemma
+      f = Fact() -- 
+      f.setPred(isclassifiedbyPapiamentType)
+      f.setSubj(lemma_uuid)
+      f.setObj('3B6D98D0-22FF-11E3-80E8-E0F847277696')
+      f.assertz(client)
+
+      -- classified by Papiamento official spelling
+      f = Fact() -- 
+      f.setPred('3B6E3510-22FF-11E3-80E8-E0F847277696') -- pap off sp
+      f.setSubj(lemma_uuid)
+      f.setObj('3B70CD20-22FF-11E3-80E8-E0F847277696') -- aruba off sp
+      f.assertz(client)
+
+      -- its source system
+      f = Fact() -- 
+      f.setPred('39CE19A0-22FF-11E3-B3FD-E0F847277696') -- src system
+      f.setSubj(lemma_uuid)
+      f.setObj('BADF8F00-26BB-11E3-BECE-E0F847277696') -- this
+      f.assertz(client)
+
+      this.wordIDMap.put(word_.toString(),lemma_uuid.toString())
+    end -- loop while i
+
+    -- now set the see ... relationship
+    i = this.wordsMap.keySet().iterator()
+    loop while i.hasNext()
+      word_ = Rexx i.next()
+      alternate_ = this.wordsMap.get(word_)
+      if alternate_ <> '' then do
+      f = Fact() -- 
+	f.setPred(see) -- the see ... Lemma predicate
+	f.setSubj(String this.wordIDMap.get(word_.toString()))
+	temp = String this.wordIDMap.get(alternate_.toString())
+	if temp == null, temp = '' then iterate
+      f.setObj(String this.wordIDMap.get(alternate_.toString()))
+      f.assertz(client)
+      end
+    end
+
+    
+  /**
+   * Method setUUID is a static initializer
+   * @param s is a Rexx
+   */
+  method setUUID(s) static returns Rexx
+    do
+      return client.getIDForName(s)
+    catch RemoteException
+      say 'setting UUID failed'
+      return ''
+    end
+    
+  method main(args=String[]) static
+    readArubaOfficial()
+    
+  method setClient() static returns KBClient
+    return KBClient('')
+    
+  method query(s,atom) static returns Rexx
+    do
+      a = client.request(s)
+      rs = Rexx a.get(0)
+      return rs[atom]
+    catch RemoteException
+      say 'querying knowledge base failed'
+      return ''
+    end
+    

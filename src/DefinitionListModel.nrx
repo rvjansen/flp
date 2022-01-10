@@ -1,0 +1,44 @@
+package com.rvjansen
+import javax.swing.
+
+class DefinitionListModel extends AbstractListModel implements ComboBoxModel
+
+  properties public
+  DefinitionWords = ArrayList()
+  selection = String
+
+  properties private
+  client = KBClient
+  
+  method DefinitionListModel()
+    client = KBClient('')
+    
+  method getElementAt(index=int) returns Object
+    return DefinitionWords.get(index) 
+
+  method getSize() returns int
+    return DefinitionWords.size()
+
+  method setSelectedItem(anItem=Object)
+    selection = Rexx anItem  --to select and register an item from the pull down list
+
+  -- Methods implemented from the interface ComboBoxModel
+  method getSelectedItem() returns Object
+    return selection -- to add the selection to the combo box
+
+  method setDefinitions(uid=Object)
+    this.DefinitionWords.clear()
+    do
+    line = Rexx uid.toString()
+    parse line . "'"id"'"
+    id = "'"id"'"
+    a = client.request("lemmasynset("id",Number),synsetnumber(Synset,Number),def(Synset,Definition).")
+    j = a.iterator()
+    loop while j.hasNext()
+      def = Rexx j.next()
+      this.DefinitionWords.add(def['Definition'] def['Synset'])
+    end
+    catch java.rmi.RemoteException
+      say 'exception in setDefinitions'
+    end -- do
+    

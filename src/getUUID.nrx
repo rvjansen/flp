@@ -1,0 +1,8 @@
+package com.rvjansen
+import com.eaio.uuid.UUID
+
+u = UUID()
+w = UUID.nilUUID()
+say Rexx(u.toString()).upper()
+say Rexx(w.toString()).upper()
+

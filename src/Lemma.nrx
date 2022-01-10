@@ -1,0 +1,153 @@
+package com.rvjansen
+import java.rmi.
+/**
+ * Class Lemma implements a Lemma, the atomic unit of a Dictionary
+ * <BR>
+ * Created on: di, 17, sep 2013 18:30:40 +0200
+ */
+class Lemma implements Comparable extends Bint
+
+  properties indirect
+  chars
+  lemma_uuid
+  synset
+
+  properties private
+  language
+  partOfSpeech
+  
+  properties static
+  client                      = setClient()
+  languages		      = setSchemeDomains('Language Name')
+  partsofspeech		      = setSchemeDomains('Parts of Speech')
+  synsetnumber		      = setUUID('synset number')
+  lemma_type                  = setUUID('Lemma')
+  isclassifiedbylanguage      = query("cl(Y,X),nm(X,'Lemma'),nm(Y,'Language Name').",'Y')
+  isclassifiedbypartsofspeech = query("cl(Y,_X),nm(_X,'Lemma'),nm(Y,'Parts of Speech').",'Y')
+  
+  /**
+   * Default constructor
+   */
+  method Lemma()
+
+  method setClient() static returns KBClient
+    return KBClient('')
+    
+  method query(s,atom) static returns Rexx
+    do
+      a = client.request(s)
+      rs = Rexx a.get(0)
+      return rs[atom]
+    catch RemoteException
+      say 'querying knowledge base failed'
+      return ''
+    end
+  /**
+   * Method setUUID is a static initializer
+   * @param s is a Rexx
+   */
+  method setUUID(s) static returns Rexx
+    do
+    return client.getIDForName(s)
+    catch RemoteException
+      say 'setting UUID failed'
+      return ''
+    end
+	
+  method setSchemeDomains(s=String) static returns TreeMap
+   do
+    return client.getNameDomainsForSchemeName(s)
+    catch RemoteException
+      say 'returning scheme domaines failed'
+      return TreeMap()
+    end
+    
+  method setPartOfSpeech(s)
+    select
+      when s = 'n' then this.partOfSpeech = Rexx partsofspeech.get(Rexx 'noun')
+      when s = 'a' then this.partOfSpeech = Rexx partsofspeech.get(Rexx 'adjective')
+      when s = 'v' then this.partOfSpeech = Rexx partsofspeech.get(Rexx 'verb')
+      when s = 'r' then this.partOfSpeech = Rexx partsofspeech.get(Rexx 'adverb')
+      when s = 's' then this.partOfSpeech = Rexx partsofspeech.get(Rexx 'adjective') -- adjective satellite
+      otherwise
+	say 'could not identify part-of-speech' s
+    end
+
+  method setLanguage(s)
+    this.language = Rexx languages.get(s)
+    if this.language = null then say 'language lookup failed'
+    
+  method compareTo(l=Object) returns int
+    select
+      when (Lemma l).getChars > this.getChars() then return 1
+      when (Lemma l).getChars < this.getChars() then return -1
+      otherwise
+	return 0
+    end
+    
+  method persist() signals RemoteException
+    f = Fact() -- the lemma object
+    f.setPred(this.ob_uuid)
+    f.setSubj(lemma_uuid)
+    f.setObj(lemma_type)
+    f.assertz(this.client)
+
+    f = Fact() -- its name
+    f.setPred(this.nm_uuid)
+    f.setSubj(lemma_uuid)
+    f.setObj(chars)
+    f.assertz(this.client)
+
+    f = Fact() -- the language
+    f.setPred(isclassifiedbylanguage)
+    f.setSubj(lemma_uuid)
+    f.setObj(language)
+    f.assertz(this.client)
+
+    f = Fact() -- its part-of-speech type
+    f.setPred(isclassifiedbypartsofspeech)
+    f.setSubj(lemma_uuid)
+    f.setObj(partOfSpeech)
+    f.assertz(this.client)
+
+    f = Fact() -- its synset
+    f.setPred(synsetnumber)
+    f.setSubj(lemma_uuid)
+    f.setObj(synset)
+    f.assertz(this.client)
+
+  method write(of=PrintWriter)
+    f = Fact() -- the lemma object
+    f.setPred(this.ob_uuid)
+    f.setSubj(lemma_uuid)
+    f.setObj(lemma_type)
+    f.write(of)
+
+    f = Fact() -- its name
+    f.setPred(this.nm_uuid)
+    f.setSubj(lemma_uuid)
+    f.setObj(chars)
+    f.write(of)
+
+    f = Fact() -- the language
+    f.setPred(isclassifiedbylanguage)
+    f.setSubj(lemma_uuid)
+    f.setObj(language)
+    f.write(of)
+
+    f = Fact() -- its part-of-speech type
+    f.setPred(isclassifiedbypartsofspeech)
+    f.setSubj(lemma_uuid)
+    f.setObj(partOfSpeech)
+    f.write(of)
+
+    f = Fact() -- its synset
+    f.setPred(synsetnumber)
+    f.setSubj(lemma_uuid)
+    f.setObj(synset)
+    f.write(of)
+    
+
+  method main(args=String[]) static
+    Lemma()
+    say languages

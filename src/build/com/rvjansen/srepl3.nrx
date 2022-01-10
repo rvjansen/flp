@@ -1,0 +1,144 @@
+package com.rvjansen
+/**
+ * class srepl3 is the most recent incarnation of the commandline interface
+ * to the KBServer server application, it enables Prolog queries to
+ * the knowledgebase and some extra commands. It is stopped with "halt."
+ */    
+import java.rmi.
+import org.jline.reader.
+import org.jline.terminal.
+
+options binary strictcase
+
+--trace results
+class srepl3
+
+  properties public static
+
+  ANSI_RESET  = '\u001B[0m'
+  ANSI_BLUE   = '\u001B[34m'
+  ANSI_RED    = '\u001B[31m'  
+  ANSI_YELLOW = '\u001B[33m'
+  
+  properties static private
+  -- jline things
+  reader = LineReader
+  -- end of jline things
+  starttime = long 0
+  stoptime  = long 0
+  -- instances = Hashtable()
+  -- instance = int 0
+  filter = FilteringOutputStream
+  printStream = PrintStream
+  ID = Long.toHexString(System.currentTimeMillis())
+  nl = System.getProperty('line.separator')
+  initialDirectory = System.getProperty('user.dir')
+  client = KBClient
+  
+  method main(args = String[]) static
+    init()
+    srepl3().logo()
+    say ANSI_BLUE||'srepl 3.0 connecting'
+    arg = Rexx(args)
+    parse arg one
+    client = KBClient(one)
+    say ANSI_RED||'ready.'
+    ws = srepl3()
+    ws.start()
+    
+  method init static signals IOException 
+    filter   = FilteringOutputStream(System.out)
+    printStream	 = PrintStream(filter)
+    System.setOut(printStream)
+    terminal = TerminalBuilder.builder().jansi(1).build()
+    historyFile	= 'srepl3.history'
+    reader   = LineReaderBuilder.builder().terminal(terminal).history(DefaultHistory()).variable(LineReader.HISTORY_FILE, historyFile).build()
+    
+  method start signals RemoteException
+    loop forever
+      eval(read())
+    end
+    
+  method read
+    l = ''
+    prompt = String
+    rightprompt = String
+    line = String null
+    stoptime = System.nanoTime()
+    duration=(stoptime-starttime)/1000000000 -- seconds
+    rightprompt = ANSI_BLUE||(Rexx(duration)).left(5)' s'.toString()
+    
+    prompt = ANSI_BLUE||'?'.toString()
+    do
+      line = Rexx(this.reader.readLine(prompt' ',-
+      		  rightprompt,-
+      		  null,null))
+    catch ux = UserInterruptException
+      nop
+    catch eofx = EndOfFileException
+      return 'eof'
+    end -- do
+    return line
+    
+  method eval(line) signals RemoteException
+    starttime=System.nanoTime()
+    select
+          when line = 'halt.' then do -- when halt., then halt.
+            say 'Exiting.' 
+            exit
+          end
+	  -- when line.pos('checkpoint.') then client.checkPoint()
+	  otherwise -- execute the request
+	    a = client.request(line)
+	    if a = null then do
+	      say 'false.'
+	      return
+	    end
+	    i = a.iterator()
+	    loop while i.hasNext()
+	      rs = Rexx i.next()
+	      loop j over rs
+		say j'='rs[j]';\-'
+	      end
+	      say
+	    end
+	    say a.size()
+	end
+    
+    
+  method logo()
+    say ANSI_YELLOW'Prolog Workspace for Dictionary'
+    
+class srepl3.FilteringOutputStream extends OutputStream
+  
+  status = Hashtable
+  old	 = OutputStream
+  
+  method FilteringOutputStream(previous = OutputStream)
+    old = previous
+    
+  method push() protect
+    if status = null then
+      status = Hashtable()
+    
+    o = status.get(Thread.currentThread())
+    if o = null then
+      status.put(Thread.currentThread(), Integer(1))
+    else
+      status.put(Thread.currentThread(), Integer((Integer o).intValue() + 1))
+    
+  method pop()
+    o = Integer status.get(Thread.currentThread())
+    if o.intValue() = 1 then
+      status.remove(Thread.currentThread())
+    else
+      status.put(Thread.currentThread(), Integer(o.intValue() - 1))
+    
+  method write(b = int) signals IOException
+    if status = null, \ status.containsKey(Thread.currentThread()) then
+      old.write(b)
+    
+  method flush() signals IOException
+    if status = null, \ status.containsKey(Thread.currentThread()) then
+      old.flush()
+    

@@ -1,0 +1,124 @@
+package com.rvjansen
+/**
+ * Class DictionaryModel implements the repository model for a dictionary
+ * <BR>
+ * Created on: wo, 11, sep 2013 19:54:43 +0200
+ */
+class DictionaryModel extends Bint
+
+  /**
+   * Default constructor
+   */
+  method DictionaryModel()
+    -- add the scope for the dictionary
+    scopeUUID = this.addScope("Dictionary")
+    classification_uuid = this.client.getIDForName('Classification')
+
+    -- add the subtypes of Classification
+    domains    = ''
+    domains[1] = 'SynSet: a synonym set, the meaning of a word'
+    domains[2] = 'Lemma: a word as represented in a Dictionary'
+    -- add the scheme
+    this.addScheme(classification_uuid,"Classification Type",domains,scopeUUID)
+
+    -- add schemes to lemma
+    lemma_uuid = this.client.getIDForName('Lemma')
+
+    -- add the synset descriptor
+    addDescriptor(lemma_uuid,"synset number",scopeUUID)
+    
+    -- parts of speech
+    domains    = ''
+    domains[1] = 'noun:Nouns are a part of speech typically denoting a person, place, thing, animal or idea. In linguistics, a noun is a member of a large, open lexical category whose members can occur as the main word in the subject of a clause, the object of a verb, or the object of a preposition.'
+    domains[2] = 'verb:A verb is a word (part of speech) that in syntax conveys an action (bring, read, walk, run, learn), an occurrence (happen, become), or a state of being (be, exist, stand). In the usual description of English, the basic form, with or without the particle to, is the infinitive.'
+    domains[3] = 'adjective:an adjective is a describing word; the main syntactic role of which is to qualify a noun or noun phrase, giving more information about the object signified'
+    domains[4] = 'adverb:typically modify verbs (or verb phrases), adjectives (or adjectival phrases), or other adverbs (or adverbial phrases). However, adverbs also sometimes qualify noun phrases (only the boss; quite a lovely place); pronouns and determiners (almost all); prepositional phrases (halfway through the movie); or whole sentences, to provide contextual comment or indicate an attitude'
+    domains[5] = 'pronoun:a pronoun is a word or form that substitutes for a noun or noun phrase'
+    domains[6] = 'preposition:Prepositions (or more generally adpositions, see below) are a grammatically distinct class of words whose most central members characteristically express spatial or temporal relations (such as the English words in, under, toward, before) or serve to mark various syntactic functions and semantic roles (such as the English words of, for).'
+    domains[7] = 'conjunction:connects two words, sentences, phrases or clauses. A discourse connective is a conjunction joining sentences. This definition may overlap with that of other parts of speech, so what constitutes a "conjunction" must be defined for each language. In general, a conjunction is an invariable grammatical particle, and it may or may not stand between the items it conjoins.'
+    domains[8] = 'interjection:an interjection or exclamation may be a word used to express an emotion or sentiment on the part of the speaker (although most interjections have clear definitions). Filled pauses such as uh, er, um are also considered interjections. Interjections are often placed at the beginning of a sentence.'
+    domains[9] = 'article:The articles in English are the definite article the and the indefinite articles a and an (and sometimes some). Use of the definite article implies that the speaker assumes the listener knows the identity of the referent (because it is obvious, because it is common knowledge, or because it was mentioned in the same sentence or an earlier sentence). Use of an indefinite article implies that the speaker assumes the listener does not have to know the identity of the referent. In some noun phrases no article is used.'
+    this.addScheme(lemma_uuid,"Parts of Speech",domains,scopeUUID)
+    
+    -- add verb type
+    verb_uuid = this.client.getIDForName('verb')
+    domains    = ''
+    domains[1] = 'intransitive:'
+    domains[2] = 'linking:'
+    domains[3] = 'transitive:'
+    domains[4] = 'to be verb:'
+    this.addScheme(verb_uuid,"Verb Type",domains,scopeUUID)
+
+    -- add noun type
+    noun_uuid = this.client.getIDForName('noun')
+    domains    = ''
+    domains[1] = 'proper noun:'
+    domains[2] = 'common noun:'
+    domains[3] = 'collective noun:'
+    domains[4] = 'countable noun:'
+    domains[5] = 'uncountable noun:'
+    domains[6] = 'concrete noun:'
+    domains[7] = 'abstract noun:'
+    this.addScheme(noun_uuid,"Noun Type",domains,scopeUUID)
+
+    -- gender classifies noun
+    noun_uuid = this.client.getIDForName('noun')
+    domains    = ''
+    domains[1] = 'masculin:'
+    domains[2] = 'feminin:'
+    domains[3] = 'neuter:'
+    domains[4] = 'animate:'
+    domains[5] = 'inanimate:'
+    this.addScheme(noun_uuid,"Noun Gender",domains,scopeUUID)
+
+    
+    -- language - follows iso 639-3
+    domains	= ''
+    domains[1]	= 'als:albanian'
+    domains[2]	= 'cat:catalunyan'
+    domains[3]	= 'cmn:chinese'
+    domains[4]	= 'dan:danish'
+    domains[5]	= 'eng:english'
+    domains[6]	= 'eus:basque'
+    domains[7]	= 'fas:farsi'
+    domains[8]	= 'fin:finnish'
+    domains[9]	= 'fra:french'
+    domains[10]	= 'glg:galician'
+    domains[11]	= 'heb:hebrew'
+    domains[12]	= 'ind:bahasa indonesian'
+    domains[13]	= 'ita:italian'
+    domains[14]	= 'jpn:japan'
+    domains[15]	= 'nno:norwegian nynorsk'
+    domains[16]	= 'nob:norwegian bokmål'
+    domains[17]	= 'pol:polish'
+    domains[18]	= 'por:portuguese'
+    domains[19]	= 'spa:spanish'
+    domains[20]	= 'tha:thai'
+    domains[21]	= 'zsm:standard malay'
+    domains[22]	= 'pap:papiamento'
+    this.addScheme(lemma_uuid,"Language Name",domains,scopeUUID)
+
+    -- abc variant classifies papiamento
+    pap_uuid = this.client.getIDForName('pap')
+    domains    = ''
+    domains[1] = 'Aruba variant:Aruba usage'
+    domains[2] = 'Bonaire variant:Boneiru usage'
+    domains[3] = 'Curaçao variant:Korsou usage'
+    this.addScheme(pap_uuid,"Papiamento local variant",domains,scopeUUID)
+
+    -- official variant classifies papiamento
+    pap_uuid = this.client.getIDForName('pap')
+    domains    = ''
+    domains[1] = 'Aruba Official Spelling:The official spelling of Aruba Papiamento following the governmental list'
+    domains[2] = 'Bonaire Official Spelling:The official spelling of Antillean Papiamen following the lista FPI'
+    domains[3] = 'Curaçao Official Spelling:The official spelling of Antillean Papiamentu following the lista FPI'
+    domains[4] = 'Proposed Merged Spelling:An unofficial attempt to merge the divergent orthographies'
+    
+    this.addScheme(pap_uuid,"Papiamento Official Spelling",domains,scopeUUID)
+
+    -- this.client.checkpoint()
+
+  method main(args=String[]) static
+    DictionaryModel()
+
+    

@@ -1,0 +1,78 @@
+package com.rvjansen
+import javax.swing.
+/**
+ * Class EditTableModel implements... 
+ * <BR>
+ * Created on: vr, 18, okt 2013 14:04:23 +0200
+ */
+class EditTableModel extends AbstractTableModel
+  properties private
+  p = PapWordsListModel
+  ut = GuiUtils
+  /**
+   * Default constructor
+   */
+  method EditTableModel()
+    return
+
+  method EditTableModel(p_=PapWordsListModel,ut_=GuiUtils)
+    p = p_
+    ut = ut_
+    
+  method getRowCount() returns int
+    return p.PapWords.size()
+    
+  method getColumnCount() returns int
+    return 4
+
+  -- method getColumnClass(column=int) returns Class
+  --   if column=3 then return JComboBox.class
+  --   return String.class
+    
+  method getColumnName(column=int) returns String
+    select
+      when column=0 then return 'A/C'
+      when column=1 then return 'Official'
+      when column=2 then return 'Lemma'
+      otherwise
+	return ''
+    end
+    
+  method getValueAt(row=int, column=int) returns java.lang.Object
+    do
+      select
+	when column=0 then do
+	  uid = Rexx p.PapWords.get(row)
+	  uid = uid.reverse().left(38).reverse
+	  rs = ''
+	  if ut.isTrue("cur("uid").") then rs = rs||'C'
+	  if ut.isTrue("aru("uid").") then rs = rs||'A'
+	  return rs
+	end -- when column
+	when column=1 then do
+	  uid = Rexx p.PapWords.get(row)
+	  uid = uid.reverse().left(38).reverse
+	  rs = ''
+	  if ut.isTrue("cur_official("uid").") then rs = rs||'GS C'
+	  if ut.isTrue("aru_official("uid").") then rs = rs||'GS A'
+	  return rs
+	end
+	when column=2 then do
+	  uid = Rexx p.PapWords.get(row)
+	  uid = uid.reverse().left(38).reverse
+	  lemma = Rexx p.PapWords.get(row)
+          lemma = lemma.reverse().substr(40).reverse()
+	  return lemma
+	end
+	when column=3 then do
+	  uid = Rexx p.PapWords.get(row)
+	  uid = uid.reverse().left(38).reverse
+	  a = ut.getDefinitionsForLemma(uid)
+	  return a
+	end
+	otherwise
+	  return Object()
+      end -- select
+    catch java.rmi.RemoteException
+      return Object()
+    end

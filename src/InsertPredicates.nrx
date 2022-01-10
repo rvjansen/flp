@@ -1,0 +1,39 @@
+package com.rvjansen
+import java.sql.
+
+/**
+ *  class InsertPredicates takes the predicates from a file and
+ *  inserts them into the database table predicate
+ */  
+class InsertPredicates
+
+  properties inheritable
+  d = DBAccess
+  istmt = preparedStatement
+  
+  /**
+   * Method InsertPredicates ...
+   */
+  method InsertPredicates(fileName)
+    say fileName
+    d = DBAccess.getInstance()
+    istmt = d.prepareInsertStatement()
+    RexxIO().File(fileName).forEachline(this.handler())
+    d.closeInsertStatement(istmt)
+    
+  /**
+   * Method main instantiates the object
+   * @param args is a String[]
+   */
+  method main(args=String[]) static
+    parse args[0] fileName
+    InsertPredicates(fileName)
+    
+  class InsertPredicates.handler dependent implements LineHandler
+  method handle(in)
+    if in.left(11) == ":- dynamic'" then return
+    parse in predicate'('subject','object
+    parent.d.insertLine(parent.istmt,predicate,subject,object)
+    
+
+    

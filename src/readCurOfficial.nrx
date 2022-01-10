@@ -1,0 +1,131 @@
+package com.rvjansen
+import java.rmi
+/**
+ * Class readCurOfficial adds the offcial Cur wordlist to the repository
+ * <BR>
+ * Created on: wo, 25, sep 2013 14:32:56 +0200
+ */
+class readCurOfficial extends Bint
+  properties private
+  wordsMap = TreeMap()
+  
+  properties static
+  client                      = setClient()
+  lemma_type                  = setUUID('Lemma')
+  isclassifiedbylanguage      = query("cl(Y,X),nm(X,'Lemma'),nm(Y,'Language Name').",'Y')
+  isclassifiedbyPapiamentType = query("cl(Y,X),nm(X,'pap'),nm(Y,'Papiamento local variant').",'Y')
+  partsofspeech		      = setSchemeDomains('Parts of Speech')
+  isclassifiedbypartsofspeech = query("cl(Y,_X),nm(_X,'Lemma'),nm(Y,'Parts of Speech').",'Y')
+  /**
+   * Default constructor
+   */
+  method readCurOfficial()
+    in = BufferedReader(FileReader('../files/sources/curacao_official.txt'))
+    loop forever
+      line = Rexx in.readLine()
+      if line = null then leave
+      word_ = line.word(1)
+      word_ = word_.translate("\u2019","'")
+      p_o_s = ''
+      select
+	when line.wordpos('(v.)') > 0 then p_o_s = 'verb'
+	when line.wordpos('(atv.)') > 0 then p_o_s = 'adverb'
+	when line.wordpos('(ath.)') > 0 then p_o_s = 'adjective'
+	when line.wordpos('(int.)') > 0 then p_o_s = 'interjection'
+	when line.wordpos('(sus.)') > 0 then p_o_s = 'noun'
+	otherwise
+	  nop
+      end -- select
+      partOfSpeech = Rexx partsofspeech.get(p_o_s)
+      this.wordsMap.put(word_, partOfSpeech)
+    end  
+    
+    i = this.wordsMap.keySet().iterator()
+    loop while i.hasNext()
+      word_ = Rexx i.next()
+      lemma_uuid = Rexx this.newUUID()
+      partOfSpeech = Rexx this.wordsMap.get(word_)
+      -- create the lemma
+      f = Fact() -- the lemma object
+      f.setPred(this.ob_uuid)
+      f.setSubj(lemma_uuid)
+      f.setObj(lemma_type)
+      f.assertz(client)
+      
+      f = Fact() -- its name
+      f.setPred(this.nm_uuid)
+      f.setSubj(lemma_uuid)
+      f.setObj(word_)
+      f.assertz(client)
+      
+      f = Fact() -- the language
+      f.setPred(isclassifiedbylanguage)
+      f.setSubj(lemma_uuid)
+      f.setObj('3B60C790-22FF-11E3-80E8-E0F847277696')
+      f.assertz(client)
+
+      f = Fact() -- its part-of-speech type
+      f.setPred(isclassifiedbypartsofspeech)
+      f.setSubj(lemma_uuid)
+      f.setObj(partOfSpeech)
+      f.assertz(this.client)
+
+      -- it is an Curacao Papiamento variant lemma
+      f = Fact() -- 
+      f.setPred(isclassifiedbyPapiamentType)
+      f.setSubj(lemma_uuid)
+      f.setObj('3B6D23A0-22FF-11E3-80E8-E0F847277696')
+      f.assertz(client)
+
+      -- classified by Papiamento official spelling
+      f = Fact() -- 
+      f.setPred('3B6E3510-22FF-11E3-80E8-E0F847277696') -- pap off sp
+      f.setSubj(lemma_uuid)
+      f.setObj('3B6FBBB0-22FF-11E3-80E8-E0F847277696') -- curacao off sp
+      f.assertz(client)
+
+      -- its source system
+      f = Fact() -- 
+      f.setPred('39CE19A0-22FF-11E3-B3FD-E0F847277696') -- src system
+      f.setSubj(lemma_uuid)
+      f.setObj('265B9250-2771-11E3-9107-E0F847277696') -- this
+      f.assertz(client)
+
+    end -- loop while i
+
+  /**
+   * Method setUUID is a static initializer
+   * @param s is a Rexx
+   */
+  method setUUID(s) static returns Rexx
+    do
+      return client.getIDForName(s)
+    catch RemoteException
+      say 'setting UUID failed'
+      return ''
+    end
+    
+  method main(args=String[]) static
+    readCurOfficial()
+    
+  method setClient() static returns KBClient
+    return KBClient('')
+    
+  method query(s,atom) static returns Rexx
+    do
+      a = client.request(s)
+      rs = Rexx a.get(0)
+      return rs[atom]
+    catch RemoteException
+      say 'querying knowledge base failed'
+      return ''
+    end
+
+  method setSchemeDomains(s=String) static returns TreeMap
+    do
+      return client.getNameDomainsForSchemeName(s)
+    catch RemoteException
+      say 'returning scheme domaines failed'
+      return TreeMap()
+    end
+    

@@ -1,0 +1,195 @@
+package com.rvjansen
+import org.jpl7.
+import java.rmi.
+import com.eaio.uuid.UUID
+import org.apache.log4j.Logger
+import org.apache.log4j.PropertyConfigurator
+
+class KBServer extends UnicastRemoteObject implements KBServerInterface
+  properties private
+  db=DBAccess
+  
+  properties constant
+  serialVersionUID = long 991920422323
+  logger_	   = Logger.getLogger(KBServer.class.getName()) -- instantiate a logger called log4j.logger.KBserver
+  /**
+   * Method KBserver constructs the Knowledge Base.
+   * It first writes the facts.prolog file from persistent storage (here: dbms table)
+   * Then it fires up the prolog engine by consulting the load.pl file
+   * and checks for a result. After that it returns to main that will wait
+   * for incoming requests over the RMI port.
+   *
+   * In relaxed mode, it can write out the prolog database to disk using the checkpoint() call,
+   * while in production mode, it implements integrity by writing an update first to the dbms storage,
+   * and only asserting after a succesful commit. When the subsequent assertion fails, the tuple is
+   * deleted so the prolog database is matched. In production mode the startup has to be from a
+   * serialized database table.       
+   */
+  method KBserver()
+    -- load the prolog part including data and code
+    t = TimeIt()
+    factsFileName='factsTest.pl'
+    db=DBAccess.getInstance()
+    say Date() 'writing predicates file'
+    db.getPredicatesAndWrite(factsFileName)
+    say Date() 'written' factsFileName
+    Thread.sleep(1000)
+    PropertyConfigurator.configure("log4j.properties")
+    logger_.info( "KBserver Constructing Repository: start load")
+    -- q = Query("consult('hbom-load.pl')")
+    -- if q.hasSolution() then 
+    -- else say "Problem in loading facts.pl with hbom-load.pl"
+
+    q = Query("consult('"factsFileName"').")
+    if q.hasSolution() then say Date() factsFileName 'loaded'
+    else say "Problem in loading" factsFileName
+
+    q = Query("consult('dynamics.prolog').")
+    if q.hasSolution() then say Date() 'dynamics.prolog loaded'
+    else say "Problem in loading dynamics.prolog"
+
+    q = Query("consult('code.prolog').")
+    if q.hasSolution() then say Date() 'code.prolog loaded'
+    else say "Problem in loading code.prolog."
+
+    say Date() 'Control is being given to KBServer.'
+    logger_.info('KBServer load took' t.getDiff())
+
+
+  /**
+   * Method main establishes the RMI server part of this application
+   * and constructs the Knowledge Base. We have a non standard RMI port
+   * (1199) because we might not be able to control the J2EE container.   
+   * @param args is a String[]
+   */
+  method main(args=String[]) static
+    say
+    say Date() "KBServer starting."
+    logger_.info("KBServer starting.")
+    say Date() 'Using:'
+    say
+    'swipl --version'
+    'psql --version'
+    say 'JVM' System.getProperty("java.runtime.version") System.getProperty("java.vendor")
+    say 'NetRexx' org.netrexx.process.NRVersion().getFullVersion()
+    say org.netrexx.process.NRVersion().getPipesVersion()
+    say 
+    do
+      java.rmi.registry.LocateRegistry.createRegistry(1199)
+    catch e = Exception
+      e.printStackTrace()
+      logger_.error(e.getMessage())
+      exit
+    end
+    listener = KBServer()
+    do
+      addr = Rexx InetAddress.getLocalHost().toString()
+      addr = addr.substr(addr.pos('/')+1)
+    catch java.net.UnknownHostException
+      addr = '127.0.0.1'
+    end
+    addr = addr":1199"
+    do    
+      Naming.rebind('rmi://'addr'/KBServer',listener) -- bind Listener
+      logger_.info( 'Control is being given to KBServer.')
+    catch e=Exception
+      logger_.error('Exception (' e ') caught:')
+      logger_.error(e.getMessage())
+    end
+    
+    loop forever
+      Thread.sleep(10000000) -- keep the server alive
+    end
+    
+  /**
+   * Method request is the gateway to the clients. It receives a prolog query and
+   * returns an Array of Rexx packaged in a KBResponse that comprises the result set 
+   * @param s is a Rexx containing the query
+   * @return ArrayList containing the resultset
+   */
+  method request(s=KBRequest) protect returns KBResponse
+    rs = ArrayList()
+    do
+      q = Query(s.getRequest)
+      logger_.trace("Request" s.getRequest() "started")
+      if s.getRequest().pos('assertz') = 1 then
+	do
+	  in = s.getRequest()
+	  parse in 'assertz(' predicate'('subject','object ').'
+	  object=object||'.'
+	  -- do the database insert
+	  istmt = db.prepareInsertStatement()
+	  db.insertLine(istmt,predicate,subject,object)
+	  db.closeInsertStatement(istmt)
+	  -- log the assert to the logfile
+	  logger_.info(s.getRequest())
+	end -- if do
+      if s.getRequest().pos('retract') = 1 then
+	do
+	  -- in = s.getRequest()
+	  -- parse in predicate'('subject','object
+	  logger_.info(s.getRequest())
+	end
+      loop while q.hasNext()
+	row = Rexx ''
+	r = q.next()
+	i = r.keySet().iterator()
+	loop while i.hasNext() -- we need to do this because jpl.Atom is not serializable
+	  key = i.next()
+	  row[key.toString()] = r.get(key).toString()
+	end
+	rs.add(row)
+      end -- loop while q
+      q.close()
+      response = KBResponse(rs)
+      logger_.trace("Request ended")
+      return response
+    catch PrologException
+      say "Error: an exception occurred for " s
+      q.close()
+      logger_.trace("Request ended")
+      return KBResponse()
+    end -- do
+
+    
+  /**
+   * method newUUID produces a new time-based uuid
+   */  
+  method newUUID() returns String static
+    return UUID().toString.toUpperCase
+    
+  /**
+   * method checkPoint writes out the current set of facts and then adds in the single quotes that
+   * the engine seems to lose along the way
+   * @param time_s is a timestamp to be infixed into the saved checkpoint file.
+   */
+  -- method checkPoint(time_s)
+  --   do
+  --     q = Query("tell('facts.pl').")
+  --     loop while q.hasNext()
+  --     	r = q.nextsolution()
+  --     	say r
+  --     end
+  --     q = Query("listing.")
+  --     loop while q.hasNext()
+  --     	r = q.nextsolution()
+  --     	say r
+  --     end
+  --     q = Query('told.')
+  --     loop while q.hasNext()
+  --     	r = q.nextsolution()
+  --     	say r
+  --     end
+  --     catch PrologException
+  --     say 'exception in checkpoint'
+  --   end -- do
+
+  method isTrue(req) returns boolean
+    do
+      q=Query(req)
+      return q.hasSolution()
+    catch PrologException
+      say "Error: an exception occurred for " req
+      q.close()
+    end -- do
+    return 0

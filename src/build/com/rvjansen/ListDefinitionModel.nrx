@@ -1,0 +1,14 @@
+package com.rvjansen
+
+/**
+ * Class listDefinitionModel implements... 
+ * <BR>
+ * Created on: zo, 20, okt 2013 18:37:41 +0200
+ */
+class ListDefinitionModel extends DefaultListModel
+
+  /**
+   * Default constructor
+   */
+  method ListDefinitionModel()
+    return

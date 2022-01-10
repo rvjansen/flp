@@ -1,0 +1,50 @@
+package com.rvjansen
+options decimal
+  /**
+   * * class timeit is a small program for supporting benchmarking tools
+   * * and applications. It runs its commandline argument and displays the
+   * * time difference between start and end in milliseconds, seconds and
+   * * minutes
+   * */
+class TimeIt
+
+  properties indirect
+  st1 = int
+  st2 = int
+
+  method TimeIt()
+    this.st1 = int System.currentTimeMillis()
+    return
+
+  method main(args=String[]) static
+    t = timeit()
+    say "running" args[0]
+    t.st1 = int System.currentTimeMillis()
+    child = Runtime.getRuntime().exec(args[0])
+    in   = BufferedReader(InputStreamReader(child.getInputStream()))
+
+    line = in.readline
+    loop while line \= null
+      say line
+      line = in.readline()
+    end
+
+    child.waitFor()
+    t.st2 = int System.currentTimeMillis()
+    say t.st2 - t.st1 "millisecs ="  (t.st2 - t.st1) / 1000 "seconds (" (t.st2 - t.st1) / 60000 "minutes)"
+    return
+
+  method getDiff()
+    this.st2   = int System.currentTimeMillis()
+    tDelta     = this.st2 - this.st1
+    return Datum.getDisplayTime(tDelta)
+    
+  /**
+   *   * Displays the difference in readable format
+   *   */
+  method sayDiff()
+    this.st2 = int System.currentTimeMillis()
+    say this.st2 - this.st1 "millisecs ="  (this.st2 - this.st1) / 1000 "seconds (" (this.st2 - this.st1) / 60000 "minutes)"
+
+  method reset()
+        this.st1 = int System.currentTimeMillis()

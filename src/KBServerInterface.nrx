@@ -1,0 +1,11 @@
+package com.rvjansen
+import java.rmi.
+
+class KBServerInterface interface implements Remote
+
+  method request(s=KBRequest) signals RemoteException returns KBResponse
+  -- method isCurrent(s=KBRequest) signals RemoteException returns boolean
+  -- method obviate(s=KBRequest) signals RemoteException returns boolean
+  -- method checkPoint(s) signals RemoteException, IOException
+  method isTrue(s) signals RemoteException returns boolean
+    

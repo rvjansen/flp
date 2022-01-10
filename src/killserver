@@ -1,0 +1,3 @@
+kill $(ps aux | grep 'java -Xms2G -Xmx2G com.rvjansen.KBServer' | grep -v grep | awk '{print$2}')
+sleep 10
+

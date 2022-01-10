@@ -1,0 +1,32 @@
+package com.rvjansen
+
+/**
+ * Class ModelObject implements... 
+ * <BR>
+ * Created on: zo, 13, okt 2013 18:37:36 +0200
+ */
+class ModelObject implements Comparable
+  properties indirect
+  iD
+  name
+  
+  /**
+   * Default constructor
+   */
+  method ModelObject()
+    return
+
+  method ModelObject(id_=String,name_=String)
+    this.setID(id_)
+    this.setName(name_)
+
+  method toString() returns String
+    return this.getName
+
+  method compareTo(o=Object) returns int
+    ro = ModelObject o
+    if ro.getName() > this.getName() then return 1
+    if ro.getName() < this.getName() then return -1
+    if ro.getName() = this.getName() then return 0
+    return 0
+    

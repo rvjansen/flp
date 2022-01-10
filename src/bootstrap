@@ -1,0 +1,7 @@
+kill $(ps | grep 'java -Xms2G -Xmx2G KBServer' | grep -v grep | awk '{print$1}')
+sleep 1
+java -Xms2G -Xmx2G KBServer&
+# sleep 2
+# java StarterSet
+# sleep 2
+# java DictionaryModel
