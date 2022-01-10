@@ -1,0 +1,89 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: book.aux
+The style file: cslipubs-natbib.bst
+A level-1 auxiliary file: preface.aux
+A level-1 auxiliary file: aboutbook.aux
+A level-1 auxiliary file: legenda.aux
+A level-1 auxiliary file: grammatica.aux
+A level-1 auxiliary file: Papiamento-English.aux
+A level-1 auxiliary file: pap-cat.aux
+A level-1 auxiliary file: cat-pap.aux
+A level-1 auxiliary file: pap-cmn.aux
+A level-1 auxiliary file: cmn-pap.aux
+A level-1 auxiliary file: pap-dan.aux
+A level-1 auxiliary file: dan-pap.aux
+A level-1 auxiliary file: pap-eng.aux
+A level-1 auxiliary file: eng-pap.aux
+A level-1 auxiliary file: pap-eus.aux
+A level-1 auxiliary file: eus-pap.aux
+A level-1 auxiliary file: pap-fas.aux
+A level-1 auxiliary file: fas-pap.aux
+A level-1 auxiliary file: pap-fin.aux
+A level-1 auxiliary file: fin-pap.aux
+A level-1 auxiliary file: pap-fra.aux
+A level-1 auxiliary file: fra-pap.aux
+A level-1 auxiliary file: pap-glg.aux
+A level-1 auxiliary file: glg-pap.aux
+A level-1 auxiliary file: pap-ind.aux
+A level-1 auxiliary file: ind-pap.aux
+A level-1 auxiliary file: pap-ita.aux
+A level-1 auxiliary file: ita-pap.aux
+A level-1 auxiliary file: pap-jpn.aux
+A level-1 auxiliary file: jpn-pap.aux
+A level-1 auxiliary file: pap-nno.aux
+A level-1 auxiliary file: nno-pap.aux
+A level-1 auxiliary file: pap-nob.aux
+A level-1 auxiliary file: nob-pap.aux
+A level-1 auxiliary file: pap-pol.aux
+A level-1 auxiliary file: pol-pap.aux
+A level-1 auxiliary file: pap-por.aux
+A level-1 auxiliary file: por-pap.aux
+A level-1 auxiliary file: pap-spa.aux
+A level-1 auxiliary file: spa-pap.aux
+A level-1 auxiliary file: pap-tha.aux
+A level-1 auxiliary file: tha-pap.aux
+A level-1 auxiliary file: pap-zsm.aux
+A level-1 auxiliary file: zsm-pap.aux
+Database file #1: biblio.bib
+You've used 3 entries,
+            2811 wiz_defined-function locations,
+            681 strings with 5456 characters,
+and the built_in function-call counts, 1046 in all, are:
+= -- 95
+> -- 33
+< -- 3
++ -- 12
+- -- 9
+* -- 61
+:= -- 208
+add.period$ -- 13
+call.type$ -- 3
+change.case$ -- 16
+chr.to.int$ -- 3
+cite$ -- 3
+duplicate$ -- 53
+empty$ -- 90
+format.name$ -- 12
+if$ -- 208
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 5
+newline$ -- 20
+num.names$ -- 12
+pop$ -- 20
+preamble$ -- 1
+purify$ -- 15
+quote$ -- 0
+skip$ -- 41
+stack$ -- 0
+substring$ -- 33
+swap$ -- 3
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 21
+warning$ -- 0
+while$ -- 9
+width$ -- 0
+write$ -- 42

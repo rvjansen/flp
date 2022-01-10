@@ -1,0 +1,21 @@
+\begin{thebibliography}{3}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[Holm(1988)]{holm1988}
+Holm, John. 1988.
+\newblock {\em Pidgins and Creoles\/}.
+\newblock Cambridge: Cambridge University Press.
+\newblock ISBN 0-521-27108-8.
+
+\bibitem[Sanchez(2005)]{sanchez2005}
+Sanchez, Tara~Savannah. 2005.
+\newblock {\em Constraints on structural borrowing in a multilingual contact
+  situation\/}.
+\newblock Philadelphia: University of Pennsylvania.
+
+\bibitem[Thijsen-Trimon(2013)]{thijsentrimon2013}
+Thijsen-Trimon, Hiacintha. 2013.
+\newblock Nos papiamento ta na filingrana.
+\newblock {\em Awe Mainta\/} Diahuebs 18 di April.
+
+\end{thebibliography}

@@ -1,0 +1,42 @@
+Dictionary project
+
+(1) representational design
+    prolog facts file for relations and (maybe) literal lemmata - no history
+    git for text - uuid as a filename for working dir and sha1 object storage for history (use git as intended, not experiments)
+    xelatex for text processing and layout
+
+(2) dictionary layout
+
+lemma
+	symbol for official Aruba or Curaçao spelling
+	pronunciation in IPA, including stress
+      	(if noun) -plural
+      	[archaic | vulgar]
+      	verb, noun, adverb -parts of speech
+      	lexical sematics - antonym, homonym, meronym
+      	definition - starts out with wordnet definition of english word but will evolve
+      	usage example with ~ instead of lemma
+
+      if verb
+      	 declinations if irrregular
+
+'core' flag - use wordnet core (+-) 5000 synsets
+additional relationships (not printed)
+	   source system source file - 1 uuid (1:n)
+	   	   official aruban spelling
+		   official curaçao spelling
+		   wordnet
+		   erotical dictionary
+		   plants of aruba
+		   joubert
+		   dijkhoff
+		   florimon van putte
+		   e.f. goilo
+		   hetty kook
+
+bibliografie (bibtex)
+
+language code - 3 vs 4 letter ISO code and inhibitions that causes
+
+
+	   

@@ -1,0 +1,76 @@
+\input{../boilerplate/preamble}
+\begin{document}    
+\renewcommand{\isbn}{978-90-819090-2-0}    
+\setcounter{tocdepth}{1}
+\title{\fontspec{Bodoni URW Light}\pap{}}
+\author{René Vincent Jansen}
+\date{Version \bookversion{} of \today}
+\maketitle
+\pagenumbering{Roman}
+\pagestyle{plain}
+\frontmatter
+\pagenumbering{Roman}
+\pagestyle{plain}
+\input{../boilerplate/bookmeta}
+\tableofcontents
+\newpage
+\pagenumbering{arabic}
+\frontmatter
+\large
+\include{preface}
+\mainmatter
+\include {aboutbook}
+\include {legenda}
+\include{grammatica}
+\include{Papiamento-English}
+\include{pap-cat}
+\include{cat-pap}
+\include{pap-cmn}
+\include{cmn-pap}
+\include{pap-dan}
+\include{dan-pap}
+\include{pap-eng}
+\include{eng-pap}
+\include{pap-eus}
+\include{eus-pap}
+\include{pap-fas}
+\include{fas-pap}
+\include{pap-fin}
+\include{fin-pap}
+\include{pap-fra}
+\include{fra-pap}
+\include{pap-glg}
+\include{glg-pap}
+\include{pap-ind}
+\include{ind-pap}
+\include{pap-ita}
+\include{ita-pap}
+\include{pap-jpn}
+\include{jpn-pap}
+\include{pap-nno}
+\include{nno-pap}
+\include{pap-nob}
+\include{nob-pap}
+\include{pap-pol}
+\include{pol-pap}
+\include{pap-por}
+\include{por-pap}
+\include{pap-spa}
+\include{spa-pap}
+\include{pap-tha}
+\include{tha-pap}
+\include{pap-zsm}
+\include{zsm-pap}
+\backmatter
+\onecolumn
+\bibliography{biblio}
+% \listoffigures
+% \listoftables
+% \lstlistoflistings
+\printindex
+\clearpage
+\psset{unit=1in}
+\begin{pspicture}(3.5,1in)
+  \psbarcode{\isbn}{includetext guardwhitespace}{isbn}
+\end{pspicture}
+\end{document} 

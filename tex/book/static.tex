@@ -1,0 +1,59 @@
+\input{../boilerplate/preamble}
+\begin{document}    
+\renewcommand{\isbn}{978-90-819090-2-0}    
+\setcounter{tocdepth}{1}
+\title{\fontspec{Bodoni URW Light}\pap{}}
+\author{René Vincent Jansen}
+\date{Version \bookversion{} of \today}
+\maketitle
+\pagenumbering{Roman}
+\pagestyle{plain}
+\frontmatter
+\pagenumbering{Roman}
+\pagestyle{plain}
+\input{../boilerplate/bookmeta}
+\tableofcontents
+\newpage
+\pagenumbering{arabic}
+\frontmatter
+\large
+\include{preface}
+\mainmatter
+\include {aboutbook}
+\include{grammatica}
+\include{legenda}
+%\include{Papiamento-English}
+% \include{pap-cat}
+\include{cat-pap}
+% \include{pap-cmn}
+% \include{pap-dan}
+% \include{pap-eng}
+% \include{pap-eus}
+% \include{pap-fas}
+ % \include{pap-fin}
+% \include{pap-fra}
+% \include{pap-glg}
+% \include{pap-ind}
+% \include{pap-ita}
+% \include{pap-jpn}
+% \include{pap-nno}
+% \include{pap-nob}
+% \include{pap-pol}
+% \include{pap-por}
+% \include{pap-spa}
+% \include{pap-tha}
+% \include{pap-zsm}
+\backmatter
+\onecolumn
+\bibliography{biblio}
+\include{colofon}
+% \listoffigures
+% \listoftables
+% \lstlistoflistings
+\printindex
+\clearpage
+\psset{unit=1in}
+\begin{pspicture}(3.5,1in)
+  \psbarcode{\isbn}{includetext guardwhitespace}{isbn}
+\end{pspicture}
+\end{document} 

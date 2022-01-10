@@ -1,0 +1,91 @@
+\documentclass[10pt]{book}
+\usepackage[FINAL]{../boilerplate/creole} 
+\usepackage{hyperref}
+\usepackage{ragged2e}
+\usepackage{graphics}
+\usepackage{fontspec}
+% \fontspec
+%      [ Path = /Users/rvjansen/Fonts/,
+%        BoldFont       = MinionPro-Bold.otf ,
+%        ItalicFont     = MinionPro-It.otf ,
+%        BoldItalicFont = MinionPro-BoldIt.otf ]
+%      {MinionPro-Regular.otf}
+% \fontspec
+%      [ Path = /Users/rvjansen/Fonts/,
+%        BoldFont       = SourceCodePro-Bold.otf ]
+%      {SoureCodePro-Regular.otf}
+
+\setmainfont[Mapping=tex-text]{Minion Pro}
+\setmonofont[Mapping=tex-text,Scale=0.80]{Source Code Pro}
+\usepackage{tabularx}
+\usepackage{booktabs}
+\usepackage{makeidx}
+\usepackage[all]{xy}
+\usepackage[comma]{natbib}           % CSLI Pubs favored bibliography package.
+\bibliographystyle{cslipubs-natbib}  % CSLI Pubs bibliography format.
+
+%\usepackage{lingmacros}
+\usepackage{color}
+\usepackage{xcolor}
+\usepackage{listings}
+\usepackage{caption}
+\usepackage{longtable}
+\usepackage{colortbl}
+\usepackage{framed}
+\usepackage{fancyvrb}
+\definecolor{shadecolor}{rgb}{0.9,0.9,0.9}
+\usepackage{alltt}
+\DeclareCaptionFont{white}{\color{white}}
+\DeclareCaptionFormat{listing}{\colorbox{gray}{\parbox{\textwidth}{#1#2#3}}}
+\captionsetup[lstlisting]{format=listing,labelfont=white,textfont=white}
+\usepackage{listings}
+\usepackage[official]{eurosym}
+\makeatletter
+\lst@CCPutMacro\lst@ProcessOther {"2D}{\lst@ttfamily{-{}}{-{}}}
+\@empty\z@\@empty
+\makeatother
+\input{../boilerplate/netrexxformat}
+\usepackage{../boilerplate/rail}
+\usepackage{pst-barcode,pstricks-add}
+\usepackage{bashful}
+\usepackage{metalogo}
+\usepackage{marginnote}
+\hyphenation{Me-so-po-ta-mi-a}
+\hyphenpenalty=100
+\makeindex
+\DeclareGraphicsExtensions{.jpg,.png}
+\setlength{\parskip}{4pt}
+\setlength{\parindent}{0pt}
+\usepackage{enumitem}
+% defined macro's begin
+\newcommand{\nr}{Net\textsc{Rexx}}
+\newcommand{\Rexx}{R\textsc{exx}}
+\newcommand{\bookversion}{0.01}
+\newcommand{\nrpackagename}{NetRexx-\nrversion{}RC1.zip}
+\newcommand{\minimalJVMversion}{1.6}
+\newcommand{\keyword}[1]{\texttt{#1}}
+\newcommand{\pap}{Papiamento}
+% defined macro's end
+% Alter some LaTeX defaults for better treatment of figures:
+% See p.105 of "TeX Unbound" for suggested values.
+% See pp. 199-200 of Lamport's "LaTeX" book for details.
+% General parameters, for ALL pages:
+\renewcommand{\topfraction}{0.9}	% max fraction of floats at top
+\renewcommand{\bottomfraction}{0.8}	% max fraction of floats at bottom
+% Parameters for TEXT pages (not float pages):
+\setcounter{topnumber}{2}
+\setcounter{bottomnumber}{2}
+\setcounter{totalnumber}{4}     % 2 may work better
+\setcounter{dbltopnumber}{2}    % for 2-column pages
+\renewcommand{\dbltopfraction}{0.9}	% fit big float above 2-col. text
+\renewcommand{\textfraction}{0.07}	% allow minimal text w. figs
+% Parameters for FLOAT pages (not text pages):
+\renewcommand{\floatpagefraction}{0.7}	% require fuller float pages
+% N.B.: floatpagefraction MUST be less than topfraction !!
+\renewcommand{\dblfloatpagefraction}{0.7}	% require fuller float pages
+% remember to use [htp] or [htpb] for placement
+
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: t
+%%% End: 
