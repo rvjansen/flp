@@ -4,4 +4,5 @@ Projecto pa e Diccionario Splicativo di Papiamento
 
 ## Online Resources
 [Project Activities Planning](https://github.com/users/rvjansen/projects/1/views/1)
+
 [Project Wiki](https://github.com/rvjansen/flp/wiki)
