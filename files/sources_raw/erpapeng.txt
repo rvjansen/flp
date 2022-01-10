@@ -1,0 +1,4230 @@
+Afganistan: 1. Afghanistan 
+Afrika: 1. Africa 
+Albania: 1. Albania 
+Aleksandria: 1. Alexandria 
+Alemania: 1. Germany 
+Algeria: 1. Algeria 
+Angola: 1. Angola 
+Antia: 1. Antilles 
+Antigua: 1. Antigua 
+Anunsiashon: 1. Annunciation, Lady Day 
+Arabia: 1. Arabia 
+Argentina: 1. Argentina 
+Aruba: 1. Aruba 
+Asenshon: 1. Ascension | 2. Ascension Day 
+Asia: 1. Asia 
+Asunshon: 1. Ascension 
+Babilonia: 1. Babylonia 
+Barbados: 1. Barbados 
+Beibel: 1. Bible 
+Benesuela: 1. Venezuela 
+Berlin: 1. Berlin 
+Biernasanto: 1. Good Friday 
+Biernèsantu: 1. Good Friday 
+Bolivia: 1. Bolivia 
+Brasil: 1. Brazil 
+Buda: 1. Buddha 
+Bulgaria: 1. Bulgaria 
+Bélgika: 1. Belgium 
+Bètlehèm: 1. Bethlehem 
+Chekoslovakia: 1. Czechoslovakia 
+Chili: 1. Chile 
+China: 1. China 
+Dinamarka: 1. Denmark 
+Djos: 1. God 
+Día di Aña Nobo: 1. New Year's Day 
+Día di tur Difuntu: 1. All Souls' Day 
+Día di tur Santu: 1. All Hallows, All Saints' Day 
+Egipto: 1. Egypt 
+Ekuador: 1. Ecuador 
+Etiopia: 1. Abyssinia, Ethiopia 
+Filipina: 1. Philippine Islands, Philippines 
+Finnlandia: 1. Finland 
+Fransha: 1. France 
+Fransia: 1. France 
+Galisia: 1. Galicia 
+Gresia: 1. Greece 
+Guatemala: 1. Guatemala 
+Haiti: 1. Haiti 
+Hamaika: 1. Jamaica 
+Hapon: 1. Japan 
+Hesukristo: 1. Jesus Christ 
+Hesuktristu: 1. Jesus Christ 
+Honduras: 1. Honduras 
+Huebes santu: 1. Maundy Thursday 
+Hulanda: 1. Holland | 2. Holland, the Netherlands 
+India: 1. India 
+Indonesia: 1. Indonesia 
+Inglatera: 1. England | 2. England 
+Irak: 1. Iraq 
+Iran: 1. Iran, Persia 
+Israel: 1. Israel | 2. Israel 
+Italia: 1. Italy 
+Kanada: 1. Canada 
+Kaprikornio: 1. Capricorn 
+Kastia: 1. Castile 
+Kenia: 1. Kenya 
+Kolombia: 1. Colombia 
+Korea: 1. Korea 
+Kosta Rika: 1. Costa Rica 
+Kristo: 1. Christ 
+Kristu: 1. Christ 
+Kuba: 1. Cuba 
+Kòrsou: 1. Curaçao 
+Laman Karibe: 1. Caribbean Sea 
+Lamá Karibe: 1. Caribbean Sea 
+Maroko: 1. Morocco 
+Mars: 1. Mars 
+Merka: 1. United States of America, USA 
+Mèksiko: 1. Mexico 
+Nigeria: 1. Nigeria 
+Nikaragua: 1. Nicaragua 
+Noruega: 1. Norway 
+Oropa: 1. Europa 
+Osean Atlántiko: 1. Atlantic, Atlantic Ocean 
+Oustralia: 1. Australia 
+Panamá: 1. Panama 
+Paraguai: 1. Paraguay 
+Pasko: 1. Christmas, Yule 
+Pasko Grandi: 1. Easter 
+Pasku: 1. Christmas, Yule 
+Pasku Grandi: 1. Easter 
+Pentekòste: 1. Pentecost, Whitsunday 
+Perú: 1. Peru 
+Pirineo: 1. Pyrenees 
+Polonia: 1. Poland 
+Portugal: 1. Portugal 
+Repúblika Dominikano: 1. Dominican Republic 
+Repúblika Dominikanu: 1. Dominican Republic 
+Roma: 1. Rome 
+Ruba: 1. Aruba 
+Rumania: 1. Romania | 2. Romania 
+Rusia: 1. Russia 
+Sahara: 1. Sahara 
+Spaña: 1. Spain 
+Suisa: 1. Switzerland 
+Sur-Afrika: 1. South Africa 
+Sürnam: 1. Surinam 
+Tunesia: 1. Tunisia 
+Turkia: 1. Turkey 
+Ulanda: 1. Holland | 2. Holland, the Netherlands 
+Uruguai: 1. Uruguay 
+Vatikano: 1. Vatican, the Vatican 
+Venus: 1. Venus | 2. Evening Star, Venus 
+Viena: 1. Vienna 
+Viètnam: 1. Vietnam 
+Yava: 1. Java 
+Yehova: 1. Jehovah 
+Yerusalèm: 1. Jerusalem 
+Yugoslavia: 1. Yugoslavia 
+Yupiter: 1. Jupiter | 2. Jove, Jupiter 
+Zambia: 1. Zambia 
+Zelandia: 1. Zealand 
+aanmaning: 1. admonition, exhortation 
+abatuar: 1. abattoir, slaughterhouse 
+abdikashon: 1. abdication 
+abestrus: 1. ostrich 
+abismo: 1. abyss, chasm, gulf, precipice 
+abla: 1. language, tongue 
+abolishon: 1. abolition, abrogation | 2. abolition, abrogation 
+abolí: 1. abolish, abrogate 
+abominabel: 1. abhorrent, abominable, alien, awful, hideous, horrible, gruesome | 2. abhorrent, abominable, alien, disgusting, nasty, nauseous 
+abonado: 1. subscriber 
+abono: 1. subscription 
+abou: 1. down | 2. below, underneath | 3. down, underneath 
+abou di: 1. below, beneath, under, underneath 
+abreviashon: 1. abbreviation 
+abreviá: 1. abbreviate, abridge, shorten 
+abrupta: 1. abrupt, sudden 
+abundansha: 1. abundance, plenty 
+abundansia: 1. abundance, plenty 
+abuso: 1. abuse 
+acercá: 1. advance, come close, come closer, come on 
+adaptabel: 1. of use, suitable 
+adaptashon: 1. adaptation, adjustment 
+adaptá: 1. apply, practice 
+adekuá: 1. of use, suitable 
+ademas di: 1. apart from, besides, except, except for 
+aden: 1. inside 
+ader: 1. vein 
+adoptashon: 1. adoption 
+adorabel: 1. adorable 
+adorá: 1. adore, worship 
+adresá: 1. address 
+adrès: 1. address 
+adulto: 1. adult, full-grown 
+aeroplanu: 1. aircraft 
+afabel: 1. affable, friendly, good-natured, kind 
+afabilidat: 1. kindness 
+afecto: 1. affection 
+afirmashon: 1. assent 
+afirmativo: 1. affirmative 
+afirmá: 1. affirm, assent, say yes 
+afligí: 1. afflict, grieve 
+aflikshon: 1. affliction 
+afrikanchi: 1. African marigold 
+afrikanu: 1. African | 2. African 
+afzènder: 1. sender 
+afèr: 1. affair, business, business deal, case, matter 
+agensia: 1. agency 
+agente: 1. agent 
+agitashon: 1. agitation, excitement, flutter 
+agonia: 1. agony, death throes 
+agradabel: 1. agreeable, enjoyable, lovely, nice, pleasant 
+agradesidu: 1. thankful | 2. thankful 
+agrario: 1. agrarian, agricultural, farm- 
+agregashon: 1. addition, adjunct 
+agregá: 1. add 
+agreshon: 1. aggression, aggro 
+agresivo: 1. aggressive 
+agresor: 1. aggressor, attacker, assailant | 2. aggressor, assailant, attacker 
+agrikultor: 1. agrarian, farmer 
+agrikultura: 1. agriculture, farming, tillage | 2. agriculture 
+agènda: 1. agenda, appointment book 
+aira: 1. air 
+aire: 1. air 
+airodinámika: 1. aerodynamics 
+aironouta: 1. aeronaut 
+airoplano: 1. aeroplane, airplane, plane 
+airopuerto: 1. airport 
+airu: 1. air 
+akademia: 1. academy 
+akadémiko: 1. academic 
+akaso: 1. several times, sometimes 
+aki: 1. here, hither, this way 
+aklarashon: 1. account, explanation | 2. account, explanation 
+aklará: 1. account for, explain | 2. account for, clarify, explain 
+aklimatisá: 1. acclimatize 
+akohé: 1. get, have, receive 
+akomodashon: 1. accommodation 
+akomodá: 1. accomodate 
+akontesimientu: 1. chance, event, occurence, opportunity 
+akontesé: 1. come about, happen, occur 
+akordeon: 1. accordion 
+akordeonista: 1. accordionist 
+akrobat: 1. acrobat 
+akseins: 1. excise, excise-duty 
+akseptabel: 1. acceptable 
+akseptá: 1. accept, receive, take, take in 
+akshon: 1. action, activity | 2. achievement, act, action | 3. accomplishment, achievement, act, action 
+aksidental: 1. accidental, adventitious, chance, random 
+aksidentalmente: 1. by accident, by chance 
+aksidente: 1. accident 
+aksènt: 1. accent, stress 
+aktitut: 1. attitude 
+aktividat: 1. activity, vigour 
+aktivo: 1. active, in action 
+aktivá: 1. activate, put on, start, swotch on, turn on | 2. advance 
+akto: 1. achievement, act, action | 2. accomplishment, achievement, act, action 
+aktor: 1. actor 
+aktris: 1. actress 
+aktua: 1. act, take action | 2. act 
+aktual: 1. current, present, present-day, topical, up-to-date 
+aktualidat: 1. topicality 
+akuario: 1. aquarium 
+akuedukto: 1. aqueduct 
+akumulashon: 1. accumulation 
+akumulá: 1. accumulate, heap, pile up, stack 
+akusado: 1. accused, defendant 
+akusadó: 1. accuser 
+akusashon: 1. accusal, accusation 
+akusativo: 1. accusative 
+akusá: 1. accuse 
+ala: 1. wing | 2. fin 
+alabansa: 1. praise 
+alabaster: 1. alabaster 
+alabá: 1. commend, laud, praise 
+alafin: 1. at last, at long last 
+alakran: 1. scorpion 
+alarm: 1. alarm 
+alarmante: 1. alarming 
+alarmá: 1. alarm, raise the alarm, sound the alarm 
+albem: 1. album 
+alegre: 1. cheerful, gay, merry | 2. happy, glad 
+alegria: 1. gladness, joy 
+alegría: 1. gladness, joy 
+alein: 1. alum 
+aleman: 1. German | 2. German 
+alfabétiko: 1. alphabetical 
+alfabèt: 1. alphabet 
+algebráiko: 1. algebraic 
+algu: 1. anything, something 
+algun: 1. a few, any, some 
+aliansa: 1. alliance 
+aliento: 1. respiration | 2. breath 
+alimentashon: 1. alimony 
+alimento: 1. food, nourishment 
+alimentá: 1. feed, nourish 
+aliterashon: 1. alliteration 
+alkansabel: 1. accessible 
+alkansá: 1. accomplish, achieve, attain, get, reach 
+alkoholismo: 1. alcoholism 
+alkoholista: 1. alcoholic 
+alkohóliko: 1. alcoholic 
+alkohòl: 1. alcohol 
+alma: 1. soul 
+almanak: 1. almanac 
+almender: 1. almond 
+almendra: 1. almond 
+almuerso: 1. lunch, snack 
+alopiá: 1. gallop 
+aloé: 1. aloe 
+alsera: 1. pavement, sidewalk 
+altamente: 1. quite, very, very much 
+altar: 1. altar 
+alternativo: 1. alternative, option 
+altu: 1. high, lofty, tall 
+altura: 1. height | 2. altitude, height 
+altá: 1. altar 
+aluminio: 1. aluminium, aluminum 
+alérgiko: 1. allergic 
+alòp: 1. gallop 
+amabel: 1. dainty, kind, nice, pretty 
+amaka: 1. hammock 
+amandel: 1. almond | 2. tonsil 
+amanesé: 1. morning | 2. dawn, daybreak 
+amante: 1. lover | 2. lover 
+amargura: 1. acerbity, bitterness | 2. acerbity, bitterness 
+amatùr: 1. amateur, fancier 
+amazona: 1. Amazon 
+ambei: 1. haemorhoids 
+ambishon: 1. ambition 
+ambisioso: 1. ambitious 
+ambos: 1. both 
+amenasa: 1. menace, threat 
+amenasá: 1. menace, threaten 
+amiga: 1. friend 
+amigu: 1. friend 
+amikal: 1. friendly 
+amistat: 1. friendship 
+amoniak: 1. ammonia 
+amor: 1. affection, love 
+amplia: 1. aggrandize, augment, enlarge, increase 
+amputashon: 1. amputation | 2. amputation 
+amputá: 1. amputate 
+amtenar: 1. officer, official 
+amèn: 1. amen 
+analfabeto: 1. illiterate 
+analfabétiko: 1. illiterate 
+analisá: 1. analyse 
+analogia: 1. analogy 
+analítiko: 1. analytic, analytical 
+analógiko: 1. analogous 
+anarkia: 1. anarchic, anarchical, anarchist 
+anarkismo: 1. anarchism 
+anarkista: 1. anarchist 
+anasa: 1. pineapple 
+anatomia: 1. anatomy 
+anatómiko: 1. anatomical | 2. anatomist | 3. anatomist 
+anchu: 1. broad 
+anchura: 1. width | 2. width 
+anemia: 1. anaemia 
+anfiteatro: 1. amphitheatre 
+angel: 1. angel 
+angelikal: 1. angelic 
+anglikano: 1. Anglican | 2. Anglican 
+angua: 1. needle 
+anhelo: 1. longing 
+anhelá: 1. ache | 2. ache, long for, yearn 
+animal: 1. animal | 2. animal, beast 
+anis: 1. anise 
+anke: 1. though, although 
+anker: 1. anchor 
+anochi: 1. at night, by night, during the night | 2. in the evening 
+anos: 1. us, we 
+ansia: 1. fear 
+anskun: 1. glove, mitten 
+antayera: 1. the day before yesterday 
+antes: 1. ahead, formerly, previously 
+antes cu: 1. before, previous to 
+anti: 1. across from, against, in exchange for, opposed to, opposite, upon 
+antiano: 1. Antillian 
+antibiótika: 1. antibiotic 
+antifas: 1. mask 
+antiguo: 1. old-fashioned, out of date 
+antik: 1. ancient, antique 
+antikuado: 1. old-fashioned, out of date 
+antikuá: 1. old-fashioned, out of date 
+antipatia: 1. aversion, dislike 
+antipátiko: 1. nasty 
+antiséptiko: 1. antiseptic 
+antiwa: 1. old-fashioned, out of date 
+anto: 1. then 
+antoho: 1. desire, want, wish 
+antologia: 1. anthology | 2. chrestomathy 
+antorcha: 1. torch 
+antropologia: 1. anthropology 
+antropólogo: 1. anthropologist 
+antèna: 1. aerial, antenna 
+anual: 1. annual, yearly 
+anulashon: 1. abolition, abrogation 
+anulá: 1. abjure, abolish, abrogate, annul, cancel, remit 
+anuncía: 1. advertise, announce, give notice 
+anunsio: 1. ad, advertisement 
+anzué: 1. hook 
+análisis: 1. analysis 
+anékdota: 1. anecdote 
+anónimo: 1. anonymous | 2. anonymous, nameless, without a name 
+aparato: 1. apparatus, device, set 
+aparensia: 1. appearance 
+aparentemente: 1. apparently, seemingly 
+aparesé: 1. appear, emerge, perform 
+aparishon: 1. appearance 
+apart: 1. apart, particular, separate, special 
+apartamento: 1. apartment, flat 
+apartá: 1. divide, separate 
+apatia: 1. apathy 
+apel: 1. apple 
+apelashon: 1. appeal 
+apelmus: 1. apple-sauce 
+apelsina: 1. orange 
+apelá: 1. appeal 
+apenas: 1. barely, hardly, only just, scarcely 
+aperitivo: 1. dram, nip, peg, snifter, snorter 
+apertura: 1. aperture, opening 
+apesar: 1. despite, in spite of, notwithstanding 
+apetit: 1. appetite 
+aplasá: 1. adjourn, delay, postpone 
+aplikashon: 1. application, employment, use 
+apliká: 1. apply, practice 
+aplo: 1. apple 
+aploudí: 1. acclaim, applaud, clap 
+aplouso: 1. acclaim, acclamation, approval 
+apnormal: 1. abnormal 
+apostròf: 1. apostrophe 
+apostóliko: 1. apostolic 
+apoyá: 1. lean, support, sustain | 2. encourage 
+apreciado: 1. dear 
+apreciá: 1. appreciate | 2. appreciate 
+aprel: 1. April 
+aprikòt: 1. apricot 
+aprobashon: 1. acclaim, approval 
+aprobá: 1. approve 
+aproksimadamente: 1. about, approximately 
+apsolutamente: 1. absolutely 
+apstrakshon: 1. abstraction 
+apstrakto: 1. abstract 
+apsurdo: 1. absurd 
+apusina: 1. orange 
+apátiko: 1. apathetic 
+apèndisítis: 1. appendicitis 
+apòstel: 1. apostle 
+ara: 1. plough 
+arabir: 1. Arabian, Arabic | 2. Arab 
+araña: 1. spider 
+archipiélago: 1. archipelago | 2. archipelago | 3. archipelago 
+arena: 1. arena 
+arestá: 1. arrest 
+argentinero: 1. Argentine 
+argif: 1. archive, archives, files, records 
+argumentashon: 1. argumentation 
+argumento: 1. argument, plea 
+argumentá: 1. maintain 
+ariba: 1. above, over | 2. above, on top, overhead, upstairs | 3. on, upon 
+aristokrasia: 1. aristocracy | 2. aristocracy 
+aristokrat: 1. aristocrat 
+aristokrátiko: 1. aristocratic 
+aritmétika: 1. arithmetic 
+ariña: 1. flour, meal 
+arkaismo: 1. archaism 
+arkangel: 1. archangel 
+arkeologia: 1. archaeology 
+arkeológiko: 1. archaeological 
+arkeólogo: 1. archaeologist 
+arkitekto: 1. architect 
+arkitektura: 1. architecture 
+arkitektóniko: 1. architectonic, architectural 
+arma: 1. arm 
+armbant: 1. bracelet | 2. bracelet 
+armonia: 1. harmony 
+armonioso: 1. harmonious 
+armonisá: 1. accord, fit together, harmonize 
+arogante: 1. arrogant 
+arohá: 1. throw up, vomit 
+aroma: 1. aroma, flavour 
+aromátiko: 1. aromatic, fragrant, nutty 
+aros: 1. rice 
+arpa: 1. harp 
+arshitèkt: 1. architect 
+arsobispu: 1. archbishop 
+arséniko: 1. arsenic 
+arte: 1. art 
+arteria: 1. artery 
+artifisial: 1. artificial 
+artista: 1. artist 
+arubano: 1. Aruban 
+arubiano: 1. Aruban 
+as: 1. ace | 2. bait 
+asbak: 1. ashtray 
+asbèst: 1. asbestos 
+asbèstro: 1. asbestos 
+aseituna: 1. olive 
+aseptabel: 1. acceptable 
+aseptá: 1. accept, receive, take, take in 
+asera: 1. pavement, sidewalk 
+aserka: 1. nearby 
+asesino: 1. murderer | 2. murderer 
+asesiná: 1. murder 
+asfalt: 1. asphalt 
+asfaltá: 1. asphalt 
+asil: 1. asylum 
+asimilashon: 1. assimilation 
+asimilá: 1. assimilate 
+asina: 1. so, such, thus 
+asistensia: 1. aid, help | 2. aid, help 
+asistent: 1. aid, assistent, helper 
+asistí: 1. abet, aid, assist, help | 2. accomodate, aid, assist, help | 3. attend, be present, witness 
+asistènt: 1. aid, assistant, helper 
+asiátiko: 1. Asian, Asiatic | 2. Asian 
+asma: 1. asthma, shortness of breath, wheeziness 
+asmátiko: 1. asthmatic, wheezy 
+asombro: 1. astonishment, wonder, surprise 
+asombroso: 1. amazing, astonishing 
+asombrá: 1. marvel, marvel at, wonder 
+aspekto: 1. appearance, aspect, look, sight, view 
+aspirashon: 1. ambition, aspiration 
+aspirin: 1. aspirin 
+aspirá: 1. aspire, aspire to, hope for 
+asta: 1. even 
+asta la vista: 1. bye, goodbye, so long 
+astrologia: 1. astrology 
+astronomia: 1. astronomy 
+astronómiko: 1. astronomic, astronomical 
+asuntu: 1. affair, business, business deal, case, matter 
+ata: 1. behold, here is, here are, look, there 
+ataka: 1. access, aggression, attack 
+atakadó: 1. aggressor, assailant, attacker 
+ataká: 1. assault, attack 
+atardi: 1. afternoon 
+ateismo: 1. atheism 
+atenshon: 1. acuity, advertence, advertency, attention 
+atento: 1. attentive 
+athetivo: 1. adjectival | 2. adjective 
+atkirí: 1. achieve, acquire, attain, get, obtain 
+atkisishon: 1. accession, acquisition, gain 
+atleta: 1. athlete 
+atletismo: 1. athletics 
+atlétiko: 1. athletic | 2. athlete 
+atministradó: 1. administrator, manager | 2. administrator 
+atministrashon: 1. administration, management | 2. administration, management 
+atministrativo: 1. administrative | 2. administrative 
+atministrá: 1. administer, manage 
+atmirabel: 1. admirable 
+atmiradora: 1. admirer, female admirer 
+atmiradó: 1. admirer 
+atmiral: 1. admiral 
+atmirashon: 1. admiration 
+atmirá: 1. admire 
+atmosfer: 1. atmosphere 
+atom: 1. atom 
+atombòm: 1. atom bomb 
+atraktivo: 1. attractive 
+atras: 1. behind 
+atraé: 1. attract, draw 
+atributo: 1. attribute 
+atrobe: 1. afresh, again, all over again, anew | 2. afresh, again, once more 
+atverbial: 1. adverbial 
+atverbio: 1. adverb 
+atvertensia: 1. ad, advertisement 
+atómiko: 1. atomic 
+aunke: 1. though, although 
+autor: 1. author, writer 
+autora: 1. authoress, writer, woman writer 
+aventura: 1. adventure 
+aventurero: 1. adventurer 
+aventurá: 1. adventurous 
+aviashon: 1. aeronautics, aviation 
+avion: 1. aeroplane, airplane, plane | 2. aircraft 
+aviso: 1. ad, advertisement 
+avisá: 1. caution, warn 
+awa: 1. water 
+awasá: 1. salt water 
+awe: 1. today 
+awendía: 1. currently, nowadays, these days 
+awor: 1. at present, now | 2. currently, nowadays, these days 
+awó: 1. at present, now 
+aya: 1. over there, yon, yonder 
+ayera: 1. yesterday 
+ayo: 1. adieu, farewell, bye, goodbye 
+ayuda: 1. aid, help | 2. aid, help 
+ayudo: 1. aid, help | 2. aid, help 
+aério: 1. aerial, overground, overhead 
+aínda: 1. still, yet 
+a kousa di: 1. because of, for, for sake of, on account of, owing to, through 
+aña: 1. year 
+añadí: 1. add 
+aña bisiesto: 1. leap-year 
+baba: 1. salivate | 2. saliva 
+babel: 1. ado, din, noise | 2. chaos, tangle 
+babun: 1. baboon 
+bachi: 1. coat, overcoat 
+bacoba: 1. banana 
+bagamunderia: 1. ado, din, noise 
+bagatèl: 1. trifle 
+baha: 1. descend, get off, go down 
+baho: 1. low | 2. abject, base, low, nasty, vile 
+bai: 1. go 
+bailadó: 1. dancer 
+bailarina: 1. dancer 
+baile: 1. ball, dance 
+bais: 1. bike, cycle, bicycle 
+baiskel: 1. bike, cycle, bicycle 
+bai abou: 1. descend, get off, go down 
+baka: 1. cow 
+bakalou: 1. cod, codfish 
+bakianu: 1. expert, specialist 
+bakiou: 1. cod, codfish 
+bakiá: 1. expert, specialist 
+bakteria: 1. bacterium 
+baké: 1. expert, specialist 
+bal: 1. cost | 2. bullet 
+bala: 1. ball 
+balansa: 1. equilibrium | 2. scales 
+balaster: 1. ballast 
+balia: 1. dance 
+baliamentu: 1. ball, dance 
+balki: 1. beam, girder 
+balkon: 1. balcony 
+balon: 1. balloon 
+balor: 1. value, worth | 2. value, worth 
+balorá: 1. appraise, estimate, rate 
+balotá: 1. appraise, estimate, rate 
+bals: 1. chewing-gum 
+balsem: 1. balm, balsam 
+balsemá: 1. embalm 
+baluá: 1. appraise, estimate, rate 
+baló: 1. value, worth | 2. value, worth 
+balèt: 1. ballet 
+bambu: 1. bamboo 
+banda: 1. side 
+bandera: 1. banner, flag 
+bandidu: 1. bandit 
+bankero: 1. bank clerk, bank official 
+banki: 1. bench 
+banko: 1. bank 
+bankrut: 1. bankrupt 
+bant: 1. binding, strip, tape 
+bapor: 1. steamship | 2. ship, vessel 
+bara: 1. pole, rod 
+barak: 1. barrack, barn, shack, shanty, shed 
+baranka: 1. rock 
+barata: 1. cheap, inexpensive 
+barba: 1. beard 
+barbero: 1. barber | 2. barber, hairdresser 
+barbulèt: 1. butterfly 
+barbulètè: 1. butterfly 
+bari: 1. sweep 
+bariga: 1. abdomen, belly, tummy 
+barika: 1. abdomen, belly, tummy 
+barikada: 1. barricade 
+barikadiá: 1. barricade 
+bario: 1. district, neighbourhood, quarter 
+barometer: 1. barometer 
+baron: 1. baron 
+baronesa: 1. baroness 
+baronia: 1. barony 
+barí: 1. barrel 
+basha: 1. pour, scatter, shed 
+bashí: 1. empty, void 
+basketbòl: 1. basketball 
+basora: 1. broom 
+basta: 1. enough, quite, rather, sufficiently 
+bastante: 1. enough, quite, rather, sufficiently 
+baston: 1. baton, cane, stick 
+bastòn: 1. baton, cane, stick 
+batata: 1. potato 
+bataya: 1. action, battle, scuffle, struggle 
+batayon: 1. battalion 
+batbruk: 1. swimming trunks 
+bateria: 1. accumulator, battery, storage battery | 2. battery | 3. battery 
+bati: 1. beat, hit, strike 
+bayena: 1. whale 
+bayonèt: 1. bayonet 
+bazar: 1. bazaar, fair, market 
+baúl: 1. trunk 
+baño: 1. bath | 2. bathroom 
+be: 1. occasion, time 
+beako: 1. ghost, phantom 
+bebe: 1. drink 
+bebi: 1. baby 
+bebibel: 1. drinkable 
+bebida: 1. beverage, drink 
+beheit: 1. ado, din, noise 
+bei: 1. bee 
+beibel: 1. bible 
+beibi: 1. baby 
+beinam: 1. byname, nickname, sobriquet 
+beishi: 1. berry 
+beitel: 1. chisel 
+beker: 1. goblet 
+bel: 1. thigh 
+bela: 1. candle 
+belasting: 1. tax 
+belga: 1. Belgian 
+bena: 1. vein 
+bende: 1. dispose of, sell, vend 
+bendedora: 1. saleswoman 
+bendedó: 1. salesman 
+bendibel: 1. for sale 
+bendishon: 1. blessing, boon 
+bendishoná: 1. bless 
+benefishi: 1. advantage, benefit 
+benefisio: 1. advantage, benefit 
+benesolanu: 1. Venezuelan | 2. Venezuelan 
+benidero: 1. future 
+benta: 1. throw 
+bentaha: 1. advantage, benefit 
+bentana: 1. window 
+ber: 1. bear 
+berdat: 1. truth | 2. reality, truth 
+berdura: 1. vegetable 
+berdá: 1. truth | 2. reality, truth 
+berdè: 1. mature, ripe | 2. green 
+bergonsoso: 1. ashamed 
+bergwensa: 1. shame 
+bes: 1. occasion, time 
+beskein: 1. mold, mould 
+beskem: 1. mold, mould 
+bestia: 1. animal, beast 
+betòn: 1. concrete 
+bewarskol: 1. nursery school 
+beyesa: 1. beauty 
+bia: 1. travel | 2. journey, trip, voyage 
+biaha: 1. travel | 2. journey, trip, voyage 
+biar: 1. billiards 
+biba: 1. dwell, live | 2. be alive, live 
+biblioteka: 1. library 
+bibliotekario: 1. librarian 
+bich: 1. pleasure 
+bichi: 1. caterpillar | 2. worm 
+bida: 1. life 
+biehita: 1. gammer, old woman 
+biehito: 1. old man 
+biento: 1. wind 
+bientu: 1. wind 
+bieu: 1. old | 2. old 
+bifstek: 1. steak, beefsteak 
+biga: 1. beam, girder 
+bigoti: 1. moustache 
+bikini: 1. bikini 
+bin: 1. come 
+binager: 1. vinegar 
+bini: 1. come 
+binimentu: 1. arrival 
+binti: 1. twenty 
+biná: 1. deer 
+bira: 1. become, come about, grow, happen | 2. become, get, grow 
+birada: 1. bend, curve 
+bisa: 1. say, tell 
+bisabuelo: 1. great-grandfather 
+bisanieta: 1. granddaughter 
+bisanieto: 1. grandson 
+bisawela: 1. great-grandmother 
+bisawelo: 1. great-grandfather 
+bisañetu: 1. grandson 
+bishita: 1. visit 
+bishitá: 1. attend, call on, see, visit 
+bishé: 1. calf 
+bisio: 1. custom, habit, way 
+bisiña: 1. neighbour 
+bison: 1. bison, buffalo 
+bispou: 1. clever, cunning, sly, smart 
+bista: 1. view | 2. sight, view 
+bistek: 1. steak, beefsteak 
+bisti: 1. clothe, dress | 2. dress 
+bistí: 1. costume, outfit, suit | 2. dress, gown, robe 
+bisé: 1. calf 
+bit: 1. exceed, surpass 
+biuda: 1. widow 
+biudo: 1. widower 
+biólogo: 1. biologist 
+biña: 1. wine 
+blachi: 1. leaf, sheet | 2. page 
+blafon: 1. ceiling 
+blanko: 1. white 
+blanku: 1. white 
+blar: 1. blister 
+blas: 1. blow 
+blek: 1. pale, sallow 
+bleki: 1. can, tin, tin can 
+blenchi: 1. hummingbird 
+blent: 1. blind | 2. dazzle 
+blet: 1. razor 
+blokeo: 1. blockade 
+blou: 1. blue | 2. blue 
+blusa: 1. blouse 
+blèndu: 1. dazzle 
+blòf: 1. boast, brag 
+blòki: 1. block, pad 
+blònchi: 1. cunt, pussy 
+blònt: 1. blond, fair 
+bo: 1. your | 2. your 
+bobo: 1. addled, foolish, stupid 
+bochincha: 1. ado, din, noise | 2. chaos, tangle 
+bodega: 1. basement, cellar 
+bog: 1. arc, bow 
+boka: 1. beak, bill 
+bokal: 1. goblet | 2. vowel 
+bolbe: 1. go back, return | 2. come back, return 
+bolcheviki: 1. Bolshevik 
+boletin: 1. bulletin 
+boliviano: 1. Bolivian 
+bolo: 1. pie, tart 
+boluntariamente: 1. voluntary 
+boluntat: 1. will, willingness, wish 
+bombardeo: 1. shelling 
+bombardiá: 1. bombard 
+bon: 1. good, nice, okay | 2. okay, well 
+bonchi: 1. bean | 2. haricot 
+bondad: 1. goodness 
+bonochi: 1. good evening 
+bontardi: 1. good afternoon 
+bonèchi: 1. cap 
+bor: 1. bore, drill | 2. bore 
+bora: 1. bore, drill 
+boroto: 1. ado, din, noise 
+bos: 1. thunder | 2. voice | 3. vote 
+boso: 1. your 
+bota: 1. boot | 2. vote 
+botika: 1. chemist's shop, drugstore 
+botikario: 1. chemist 
+botikin: 1. café, coffee-house 
+boto: 1. boat | 2. voice 
+boton: 1. button 
+botánika: 1. botany 
+bouksit: 1. bauxite 
+boutismo: 1. baptism, christening 
+bou di: 1. below, beneath, under, underneath 
+brabu: 1. savage, wild 
+brankar: 1. stretcher 
+brasa: 1. arm | 2. embrace | 3. embrace, hug 
+brasileño: 1. Brazilian | 2. Brazilian 
+brazièr: 1. bra 
+brek: 1. brake | 2. brake 
+brel: 1. glasses, spectacles 
+brel di bista: 1. glasses, spectacles 
+brel di solo: 1. sun-glasses 
+bres: 1. break 
+bria: 1. shine 
+brievenbesteller: 1. postman 
+brigada: 1. brigade 
+brilia: 1. shine 
+bringa: 1. fight, struggle 
+bringamentu: 1. action, battle, scuffle, struggle 
+brio: 1. diligent, hardworking, industrious | 2. energetic | 3. brave, courageous, valiant | 4. courage 
+brisa: 1. breeze 
+broma: 1. gag, joke 
+bros: 1. breakable, brittle, fragile 
+bruder: 1. brother 
+bruheria: 1. sorcery 
+brui: 1. incubate, sit 
+bròmer: 1. moped 
+bròns: 1. bronze 
+bròsh: 1. brush | 2. brush 
+brùg: 1. bridge 
+brùidehòm: 1. bridegroom 
+brùin: 1. brown | 2. brown 
+brùit: 1. bride 
+bubè: 1. addled, foolish, stupid 
+budismo: 1. Buddhism 
+budista: 1. Buddhist 
+bui: 1. buoy 
+buki: 1. book 
+bula: 1. jump, leap, spring 
+bulada: 1. jump, leap 
+bulamento: 1. jump, leap 
+bulamentu: 1. jump, leap 
+bulevar: 1. boulevard 
+bulá: 1. jump, leap 
+bunita: 1. beautiful, fine, handsome, lovely | 2. pretty 
+buracheria: 1. drunkenness, inebriety 
+burachi: 1. sober 
+buraché: 1. boozer, alcoholic 
+burako di tonto: 1. vagina 
+buraku di tonto: 1. vagina 
+burdugu: 1. hangman, executioner 
+buriko: 1. ass, donkey 
+buriku: 1. ass, donkey 
+buro: 1. ass, donkey 
+buska: 1. look for, seek 
+buta: 1. lay down, place, put, put down 
+buyon: 1. bouillon 
+bírgen: 1. virgin 
+búlgaro: 1. Bulgar, Bulgarian 
+búngalo: 1. bungalow 
+bèl: 1. thigh | 2. telephone 
+bèshi: 1. berry 
+bèt: 1. bet, wager 
+bòdi: 1. body 
+bòksdó: 1. boxer 
+bòm: 1. bomb | 2. bottom, foundation, ground 
+bòmbòshi: 1. ado, din, noise 
+bòrchi: 1. board, plank 
+bòrstel: 1. brush 
+bòs: 1. boss, chief, leader 
+bòt: 1. blunt 
+bòter: 1. bottle 
+bòtro: 1. bottle 
+bùs: 1. bus, autobus, omnibus 
+caba: 1. end, come to an end, end up, expire 
+cabai machu: 1. stallion 
+cabritu: 1. she-goat 
+cachu: 1. cluster 
+cachó: 1. dog 
+caha: 1. box, chest 
+cambia: 1. change, turn | 2. change 
+camion: 1. lorry, truck | 2. lorry, truck 
+camna: 1. march, walk 
+cana: 1. march, walk 
+capricho: 1. caprice, whim 
+carni' porco: 1. pork 
+causa: 1. cause, reason 
+cera: 1. close, shut 
+cerá: 1. closed, shut 
+chabalito: 1. boy, lad, laddie 
+chabalitu: 1. boy, lad, laddie 
+chambòn: 1. addled, foolish, stupid | 2. fool 
+chansa: 1. jest, joke 
+charada: 1. enigma, puzzle, riddle 
+chaskero: 1. amusing, entertaining, funny 
+chasko: 1. gag, joke 
+chek: 1. girl, lass, wench 
+chekoslovako: 1. Czechoslovak, Czechoslovakian | 2. Czechoslovak, Czechoslovakian 
+chif: 1. chief, boss 
+chifla: 1. flatter 
+chiflá: 1. fool 
+chikito: 1. diminutive, little, small 
+chikitu: 1. diminutive, little, small 
+chiké: 1. sty 
+chikí: 1. diminutive, little, small 
+chileno: 1. Chilean | 2. Chilean 
+chimpansé: 1. chimpanzee 
+chines: 1. Chinese | 2. Chinaman, Chinese 
+chispa: 1. spark | 2. spark 
+chiste: 1. gag, joke 
+chistoso: 1. amusing, entertaining, funny 
+choka: 1. choke, strangle 
+chubatu: 1. he-goat 
+chufùr: 1. chauffeur, driver 
+chukulati: 1. chocolate 
+chula: 1. flatter 
+chulia: 1. flatter 
+chuliamento: 1. flattery 
+chuliamentu: 1. flattery 
+chumbo: 1. lead 
+chumbu: 1. lead 
+chupa: 1. suck 
+chèk: 1. audit, check, check up on, supervise, verify | 2. check, cheque 
+chèkdó: 1. checker, controller 
+chèker: 1. checker, controller 
+chèns: 1. chance, luck 
+chèpèchèpè: 1. mud 
+chèri: 1. cherry 
+chòis: 1. choice, election 
+ciboyo: 1. onion 
+ciertamente: 1. certainly 
+cincu: 1. five 
+cincuenta: 1. fifty 
+cine: 1. cinema, movie theatre 
+circo: 1. circus 
+ciudadanu: 1. middleclass citizen 
+colombianu: 1. Colombian 
+como: 1. because, for the reason that | 2. because, for the reason that 
+confirmá: 1. acknowledge, confirm, corroborate 
+conta: 1. count | 2. narrate, relate, tell 
+corta: 1. clip, cut, shear | 2. cut, slice 
+corticu: 1. short | 2. brief, short 
+cuminsamentu: 1. beginning, commencement, start | 2. beginning, commencement, start 
+cuminsá: 1. begin, commence, start 
+cumpleaño: 1. birthday 
+cumpli: 1. accomplish, achieve, keep, observe, perform 
+cunbai: 1. hello 
+curá: 1. court, yard, courtyard 
+cuá: 1. who 
+cuántu: 1. how many 
+cón: 1. how, in what way 
+cón ta bai?: 1. how are you?, how do you do? 
+dadel: 1. date 
+dak: 1. roof 
+dakue: 1. basket 
+dal: 1. beat, hit, strike 
+dalakochi: 1. grasshopper, locust 
+dalia: 1. dahlia 
+dal un baño: 1. bathe, have a bath 
+dama: 1. lady 
+damp: 1. steam, vapor, vapour 
+danes: 1. Danish | 2. Dane 
+danki: 1. thank you, thanks 
+dashi: 1. tie, necktie 
+daña: 1. damage 
+daño: 1. damage 
+debat: 1. debate 
+debe: 1. owe | 2. debt 
+deber: 1. duty, obligation 
+debil: 1. faint, light, weak 
+debolbé: 1. give back, return 
+deboto: 1. pious 
+debí na: 1. because of, for, for sake of, on account of, owing to, through 
+debòr: 1. abhorrence, abomination, horror | 2. disgust, nausea 
+decameter: 1. decametre 
+dede: 1. finger 
+defekto: 1. damage 
+defendé: 1. defend 
+defensa: 1. defence, defense 
+definishon: 1. definition 
+definitivamente: 1. definitely, positively 
+definitivo: 1. definite, definitive 
+definí: 1. define, determine 
+degenerá: 1. degenerate 
+degradá: 1. degrade 
+deha: 1. careless, negligent 
+deit: 1. appointment, date, rendezvous 
+dek: 1. pregnant, with young 
+dekel: 1. blanket 
+deklamá: 1. declaim, recite 
+deklarashon: 1. declaration, proclamation, statement 
+deklará: 1. declare, state 
+deklo: 1. blanket 
+dekreto: 1. decree 
+delaster: 1. last 
+delegado: 1. delegate 
+delegashon: 1. delegation 
+delegá: 1. gaunt, lean, meager, skimpy, skinny, thin | 2. gaunt, lean, slender, thin | 3. slender, slim 
+delikado: 1. dainty, delicate, fine, refined 
+delikadu: 1. dainty, delicate, fine, refined 
+delisia: 1. fun, pleasure 
+demokrasia: 1. democracy 
+demokrat: 1. democrat 
+demokrátiko: 1. democratic 
+demontá: 1. take apart 
+demoño: 1. demon 
+den: 1. a, in, inside, into, on, per, within | 2. below, beneath, under, underneath 
+dentista: 1. dentist 
+denunsiá: 1. accuse, denounce 
+den esei: 1. all the time, in the meantime, meanwhile | 2. all the while, meanwhile 
+dependensia: 1. dependence 
+dependiente: 1. dependent 
+dependé: 1. depend 
+deplorabel: 1. regrettable 
+deplorá: 1. be sorry about, regret 
+deponé: 1. deposit 
+deporte: 1. sport 
+depositá: 1. deposit 
+depresivo: 1. depressed 
+dera: 1. bury | 2. bury, entomb, inter 
+deramento: 1. burial, funeral, interment | 2. burial, funeral, interment 
+derota: 1. defeat 
+derotá: 1. defeat, win over 
+desafortunadamente: 1. unfortunately 
+desagradabel: 1. bleak, dismal, dreary, horrible, ghastly, grisly, nasty 
+desagradesido: 1. thankless, ungrateful, unthankful 
+desaparesé: 1. disappear 
+desaparishon: 1. disappearance 
+desaprobashon: 1. censure, condemnation, disapprobation, disapproval 
+desaprobá: 1. condemn, disapprove, disapprove of, rebuke 
+desapuntá: 1. disappoint, set straight 
+desarmá: 1. take apart 
+desaster: 1. catastrophe 
+desastroso: 1. catastrophic, miserable 
+desayuno: 1. breakfast 
+desbentaha: 1. disadvantage 
+desbentahoso: 1. adverse, detrimental 
+desde: 1. from, since 
+desempleo: 1. unemployment 
+desempleá: 1. unemployed 
+desengaño: 1. swindle 
+deseo: 1. desire, want, wish 
+desepshon: 1. disappointment 
+desepshoná: 1. disappoint, set straight 
+desesperashon: 1. despair 
+desesperá: 1. desperate | 2. despair 
+deseá: 1. desire, wish 
+desgrasia: 1. accident 
+desgrasiado: 1. cheat, crook, rogue 
+desgrasiadu: 1. cheat, crook, rogue 
+desgusto: 1. disgust, nausea 
+desierto: 1. desert 
+desigual: 1. different 
+desilushon: 1. disappointment 
+desilushoná: 1. disappoint, set straight 
+desimeter: 1. decimetre 
+desimetro: 1. decimetre 
+desishon: 1. decision 
+desisivo: 1. decisive 
+deskanso: 1. repose, rest 
+deskansá: 1. repose, rest 
+deskonfiansa: 1. suspicion | 2. suspicion 
+deskonfiá: 1. distrust, suspect 
+deskonosí: 1. unknown 
+deskonsehá: 1. advise against, dissuade from 
+deskribí: 1. describe 
+deskripshon: 1. account, description 
+deskubrí: 1. discover, uncover 
+desmaña: 1. faint, swoon 
+desmañá: 1. faint, swoon 
+desmintí: 1. deny 
+desobediente: 1. disobedient, insubordinate 
+desonesto: 1. nasty 
+despedida: 1. farewell, goodbye, good-bye 
+despedí: 1. say goodbye, say goodbye to, take leave, take leave from 
+despensá: 1. apologize 
+despresiabel: 1. abject 
+despresio: 1. contempt 
+despresiá: 1. despise 
+despótiko: 1. despotic 
+destilá: 1. distil 
+destinashon: 1. destiny, fate 
+destino: 1. destiny, fate | 2. destiny, fate, fortune, luck 
+destinu: 1. destiny, fate 
+destiná: 1. destine, earmark, ordain 
+destrosá: 1. destroy, quash 
+destrukshon: 1. destruction 
+destruí: 1. destroy, quash 
+desviá: 1. turn 
+desèmber: 1. December 
+desòrden: 1. ado, din, noise | 2. chaos, tangle 
+detaya: 1. detail 
+di: 1. of | 2. from, of 
+dia: 1. day 
+diabel: 1. devil 
+diabetes: 1. diabetes 
+diabóliko: 1. diabolical, devilish 
+dialekto: 1. dialect 
+diameter: 1. diameter 
+diariamente: 1. daily 
+diario: 1. daily paper, journal, newspaper 
+dibertido: 1. amusing, entertaining, funny 
+dibino: 1. divine | 2. holy, sacred 
+diborsio: 1. divorce 
+diet: 1. diet 
+dieta: 1. diet 
+diete: 1. diet 
+diferensha: 1. difference 
+diferenshá: 1. differ, be different 
+diferensia: 1. difference 
+diferensiá: 1. differ, be different 
+diferente: 1. different 
+difísil: 1. difficult, hard, inconvenient 
+digestion: 1. digestion 
+diki: 1. bold, corpulent, fat, thick | 2. thickness 
+dikshonario: 1. dictionary, vocabulary 
+diktador: 1. dictator 
+diktadura: 1. dictatorship 
+diktadó: 1. dictator 
+dilanti: 1. ahead, formerly, previously 
+dinamit: 1. dynamite 
+diploma: 1. diploma 
+diplomátiko: 1. diplomat 
+direkshon: 1. direction 
+direktor: 1. director, manager 
+direpiente: 1. all of a sudden, suddenly 
+direpientemente: 1. all of a sudden, suddenly 
+diseño: 1. design, drawing 
+disgusto: 1. disgust, nausea 
+disgustu: 1. sadness, sorrow | 2. disgust, nausea 
+disidí: 1. decide 
+disko: 1. dial, disc, record 
+diskriminashon: 1. discrimination 
+diskulpá: 1. excuse | 2. apologize 
+diskutí: 1. discuss | 2. discuss 
+dispidí: 1. say goodbye, say goodbye to, take leave, take leave from | 2. waste 
+displina: 1. discipline 
+disponibel: 1. available 
+disponé: 1. absorb, have at one's disposal 
+distansha: 1. distance, offset 
+distansia: 1. distance, offset 
+distinguí: 1. distinguish 
+distinshon: 1. distinction, renown 
+distinto: 1. different 
+distribushon: 1. distribution 
+distribuí: 1. distribute 
+distrikto: 1. district 
+dividí: 1. divide, separate, share 
+diálogo: 1. dialogue 
+di aki: 1. from here, hence 
+di bròns: 1. bronze 
+di cón: 1. what for, why 
+di únda: 1. from where, whence 
+djabel: 1. devil 
+djabièrna: 1. Friday 
+djabièrnè: 1. Friday 
+djablo: 1. devil 
+djadomingo: 1. Sunday 
+djadumingu: 1. Sunday 
+djaka: 1. rat 
+djaluna: 1. Monday 
+djamanta: 1. diamond 
+djamars: 1. Tuesday 
+djarason: 1. Wednesday 
+djasabra: 1. Saturday 
+djaweps: 1. Thursday 
+djente: 1. tooth 
+djes: 1. ten 
+djesdos: 1. twelve 
+djeseis: 1. sixteen 
+djeshete: 1. seventeen 
+djesinko: 1. fifteen 
+djesinku: 1. fifteen 
+djeskuater: 1. fourteen 
+djesnuebe: 1. nineteen 
+djesocho: 1. eighteen 
+djestres: 1. thirteen 
+djesun: 1. eleven 
+djipopo: 1. fungus, mushroom 
+djis: 1. exclusively, just, only 
+djispou: 1. clever, cunning, sly, smart 
+djuku: 1. pitch black 
+djus: 1. sperm | 2. juice, sap | 3. sperm 
+djòdjò: 1. delight in, enjoy 
+djòin: 1. associate, come together, join, pool | 2. associate, join, pool 
+djòki: 1. drawers, panties, underpants 
+dobla: 1. fold | 2. bend 
+doblabel: 1. flexible 
+doblá: 1. fold 
+doktor: 1. doctor 
+doktorandus: 1. master 
+dokumento: 1. document, paper 
+doloroso: 1. painful 
+doló: 1. ache, pain 
+dolór: 1. ache, pain 
+domi: 1. pastor 
+dori: 1. toad | 2. frog 
+dos: 1. two 
+dosein: 1. dozen 
+doshen: 1. two hundred 
+doshi: 1. cunt, pussy | 2. box 
+dou: 1. die 
+dozèn: 1. dozen 
+doño: 1. owner 
+dragon: 1. dragon 
+drai: 1. turn, turn around, turn round | 2. turn 
+drama: 1. drama | 2. pour out 
+drecha: 1. fix, repair 
+drechi: 1. on the right 
+drenta: 1. go in, enter, perform | 2. come into, enter 
+drentada: 1. entrance, portal 
+drif: 1. float 
+drispidí: 1. waste 
+dromedario: 1. dromedary 
+drumi: 1. be asleep, sleep 
+drástiko: 1. drastic 
+drèmpi: 1. sill, threshold 
+drùif: 1. grape 
+drùm: 1. barrel 
+duana: 1. customs 
+ducha: 1. shower 
+duda: 1. doubt | 2. hesitate 
+dudoso: 1. doubtful 
+due: 1. ache, pain 
+duele: 1. have compassion on, pity 
+duke: 1. duke 
+duna: 1. give 
+duo: 1. pair 
+dupliká: 1. double 
+dura: 1. continue, endure, keep on, last 
+durabel: 1. abiding, lasting 
+durante: 1. for, during, whereas, while, whilst 
+duru: 1. hard | 2. strong | 3. hard 
+dush: 1. shower 
+dushi: 1. gentle, soft, sweet, tender 
+dèk: 1. deck 
+dòbel: 1. double, dual 
+dògma: 1. dogma 
+dòkter: 1. doctor, physician 
+dòkto: 1. doctor, physician 
+dòlfein: 1. dolphin 
+dòlò: 1. dollar 
+dònder: 1. thunder 
+dòsplaka: 1. penny 
+dùim: 1. inch | 2. thumb | 3. thumb 
+dùrf: 1. be bold, dare 
+e: 1. the | 2. he, him | 3. it | 4. her, she 
+echo: 1. achievement, act, action | 2. accomplishment, achievement, act, action 
+echu: 1. mature, ripe 
+edat: 1. age 
+edifisio: 1. building 
+edishon: 1. edition 
+editor: 1. publisher 
+editá: 1. issue, publish 
+edukamentu: 1. education 
+edukashon: 1. education 
+eduká: 1. breed, bring up, educate, raise 
+efektivamente: 1. absolutely, actually, in fact 
+efektivo: 1. actual, real 
+egoismo: 1. selfinterest, selfishness 
+ehemplo: 1. example 
+ehersisto: 1. exercise, practice 
+ehérsito: 1. army 
+ehèmber: 1. ginger 
+ehèmpel: 1. example 
+ei: 1. there 
+eis: 1. ice 
+eiskrim: 1. ice, icecream 
+ekipahe: 1. accoutrement, accoutrements, equipment | 2. baggage, luggage 
+ekipo: 1. equipment 
+eklesiástiko: 1. ecclesiastic 
+ekonomia: 1. economics | 2. economy 
+ekonómiko: 1. economical 
+eksagerá: 1. exaggerate 
+eksaherá: 1. exaggerate 
+ekselente: 1. fine, great 
+ekselentemente: 1. fine, very well | 2. fine, very well 
+eksepshon: 1. exception 
+eksepshonal: 1. exceptional 
+eksepshonalmente: 1. apart from, but, except, other than 
+eksepto: 1. with the exception of 
+eksibishon: 1. exhibition, exposition 
+eksibí: 1. exhibit 
+eksigí: 1. demand, postulate, require 
+eksihí: 1. demand, postulate, require 
+eksistí: 1. exist 
+eksitensia: 1. existence 
+eksperimento: 1. experiment 
+eksperimentá: 1. experiment 
+eksplikabel: 1. accountable 
+eksploshon: 1. explosion 
+eksplotá: 1. exploit, utilize 
+eksportá: 1. export 
+ekspreshon: 1. expression 
+ekspresá: 1. express 
+eksterior: 1. foreign country 
+eksterno: 1. external, outer, outside 
+ekstremo: 1. extreme 
+ekuatoriano: 1. Ecuadorian 
+eldu: 1. guilder, gulden 
+elefante: 1. elephant 
+elegante: 1. elegant 
+elektrisidat: 1. electricity 
+elemental: 1. elemental, elementary 
+elemento: 1. element 
+eligí: 1. choose, elect, pick out 
+eléktriko: 1. electric 
+embahada: 1. embassy | 2. embassy 
+embahador: 1. ambassador 
+embahadó: 1. ambassador 
+emblema: 1. emblem 
+embra: 1. female, feminine 
+emigrá: 1. emigrate 
+emoshon: 1. emotion 
+emoshonal: 1. affecting, moving, touching 
+emoshoná: 1. move, stir 
+empaketá: 1. pack, package, wrap up 
+emperador: 1. emperor 
+emperadora: 1. empress 
+emperadó: 1. emperor 
+empleado: 1. employee 
+enano: 1. dwarf, midget 
+enemigo: 1. adversary, enemy 
+enemigu: 1. adversary, enemy 
+enemistat: 1. enmity 
+energia: 1. energy 
+enfermo: 1. patient 
+enfrente: 1. across, beyond, on the other side of 
+engaño: 1. swindle 
+engañoso: 1. deceitful 
+enk: 1. ink 
+enorme: 1. enormous 
+ensia: 1. gum 
+ensiklopedia: 1. encyclopaedia 
+enter: 1. entire, overall, whole 
+entiero: 1. burial, funeral, interment 
+entrada: 1. entrance, portal 
+entre: 1. among, between 
+entregá: 1. deliver, furnish, supply 
+entrevista: 1. interview 
+entrevistá: 1. interview 
+enté: 1. entire, overall, whole 
+envidia: 1. envy 
+envidiá: 1. envy 
+en caso cu: 1. if, provided that 
+epilepsia: 1. epilepsy 
+episkopal: 1. episcopal 
+era: 1. almost, nearly 
+eredero: 1. heir 
+eredá: 1. inherit 
+erida: 1. injury, wound 
+eridá: 1. hurt, wound 
+erko: 1. air conditioning 
+erkondeshon: 1. air conditioning 
+eroina: 1. heroin 
+eror: 1. aberration, error, mistake 
+eru: 1. iron 
+erótiko: 1. erotic 
+esena: 1. scene 
+esfuerso: 1. attempt, effort | 2. attempt, test 
+eskohé: 1. choose, elect, pick out 
+eskritor: 1. author, writer 
+eskritora: 1. authoress, writer, woman writer 
+eskultor: 1. sculptor 
+esmeralda: 1. emerald 
+esperantista: 1. Esperantist 
+esperanto: 1. Esperanto 
+espesial: 1. particular, special 
+esposa: 1. wife 
+esposo: 1. husband 
+estadía: 1. stay 
+estatua: 1. statue 
+estilo: 1. style 
+estimado: 1. dear 
+estranhero: 1. alien, foreign 
+estudio: 1. study | 2. study 
+estétika: 1. aesthetics 
+estétiko: 1. aesthetic 
+etapa: 1. stage 
+etiópiko: 1. Ethiopian 
+evakuá: 1. evacuate 
+evangelio: 1. gospel 
+evangéliko: 1. evangelic 
+evidentemente: 1. apparently, obviously 
+evitá: 1. avoid, evade 
+exacto: 1. exact 
+experimentá: 1. go through, live to see 
+ezagèber: 1. authority 
+fabor: 1. favor, favour 
+faborabel: 1. advantageous, favourable 
+fabriká: 1. fabricate, manufacture 
+faha: 1. belt, girdle 
+fakansi: 1. vacation | 2. spare time, time off, vacation 
+faktura: 1. account, bill, invoice 
+fakultat: 1. faculty 
+falis: 1. suitcase, valise 
+falso: 1. false 
+falsu: 1. false 
+falta: 1. be lacking, be missing 
+fam: 1. surname 
+famia: 1. family 
+fango: 1. capture, catch, grapple 
+fangu: 1. capture, catch, grapple 
+fantasia: 1. fantasy 
+fantasma: 1. ghost, phantom 
+farizeo: 1. hypocrite 
+faro: 1. lighthouse 
+fase: 1. phase, stage 
+fasiná: 1. fascinate 
+fasun: 1. form, shape 
+fatal: 1. fateful, ill-fated 
+faya: 1. abort, fail, miscarry 
+fayesé: 1. die, expire, pass away 
+fayit: 1. bankrupt | 2. bankruptcy, failure 
+fayo: 1. damage | 2. aberration, error, mistake 
+fe: 1. confidence, faith, trust | 2. confidence | 3. belief 
+februari: 1. February 
+febrüari: 1. February 
+fecha: 1. date 
+federal: 1. federal 
+federashon: 1. federation 
+feilo: 1. file 
+feilu: 1. file 
+feita: 1. shave 
+felididat: 1. happiness 
+felis: 1. fortunate, happy 
+felisitashon: 1. congratulation 
+felisitá: 1. congratulate 
+felismente: 1. unfortunately 
+felter: 1. filter 
+femenino: 1. female 
+fenómeno: 1. phenomenon 
+feodal: 1. feudal 
+fer: 1. spring 
+ferdrit: 1. sadness, sorrow 
+ferf: 1. paint 
+ferfdó: 1. painter 
+ferkout: 1. cold 
+fernis: 1. varnish 
+feros: 1. abysmal, dreadful, gruesome, horrible, terrible 
+feroso: 1. abysmal, dreadful, gruesome, horrible, terrible 
+fervor: 1. fervor, fervour, zeal 
+festival: 1. festival 
+feter: 1. shoe-lace 
+feu: 1. nasty, ugly 
+fia: 1. borrow, lend, loan 
+fiel: 1. faithful 
+fierno: 1. hell 
+fiernu: 1. hell 
+fiesta: 1. celebrate | 2. celebration, festival, party 
+figura: 1. figure, diagram, image, picture, representation 
+figurá: 1. fancy, imagine 
+fikshon: 1. fiction 
+fila: 1. file, line, rank, row, turn 
+filosofia: 1. philosophy 
+filosofiá: 1. philosophize 
+filtra: 1. filter 
+filtro: 1. filter 
+filósofo: 1. philosopher 
+fin: 1. end, ending 
+finalisá: 1. accomodate, end, finish, terminate 
+finansiero: 1. financial 
+findishi: 1. auction 
+fingi: 1. dissemble 
+fini: 1. final 
+firkant: 1. square 
+firma: 1. company, firm | 2. sign | 3. signature 
+fis: 1. dirty, filthy, nasty, soiled, unclean 
+fishi: 1. handicraft, occupation, trade 
+fió: 1. violin 
+flakesa: 1. hunger 
+flako: 1. gaunt, lean, meager, skimpy, skinny, thin | 2. gaunt, lean, slender, thin | 3. slender, slim 
+flaku: 1. gaunt, lean, meager, skimpy, skinny, thin | 2. gaunt, lean, slender, thin | 3. slender, slim 
+flameu: 1. torch 
+flecha: 1. arrow 
+flohedat: 1. laziness 
+flohera: 1. laziness 
+floho: 1. lazy 
+flor: 1. bloom, flower 
+florin: 1. guilder, gulden 
+flus: 1. costume, outfit, suit 
+flèksibel: 1. flexible 
+flèktu: 1. braid, plait, twine, wreathe 
+flèshlait: 1. electric torch 
+flèt: 1. apartment building, block of flats 
+flùit: 1. flute 
+fofo: 1. breakable, brittle, fragile 
+foks: 1. electric torch 
+folklor: 1. folklore 
+fonétika: 1. phonetics 
+fonétiko: 1. phonetic 
+forma: 1. form, shape | 2. form, shape 
+formulario: 1. blank, form 
+forsa: 1. compel, force | 2. force, strength, vigour 
+fortalesa: 1. force, strength, vigour 
+fortuna: 1. fortune 
+foto: 1. photograph | 2. photograph 
+fotografia: 1. photography 
+fotokopia: 1. photoprint 
+fotógrafo: 1. photographer | 2. photographer 
+fout: 1. aberration, error, mistake 
+foyeto: 1. leaflet, pamphlet, paperback 
+foyo: 1. foliage 
+frakaso: 1. abortion, failure, fiasco | 2. abortion 
+frakasá: 1. abort, fail, miscarry 
+frakshon: 1. fraction 
+frances: 1. French 
+franses: 1. French, French language | 2. Frenchman 
+frase: 1. sentence 
+frega: 1. rub 
+fregá: 1. difficult, hard, inconvenient 
+frenta: 1. forehead 
+frente: 1. forehead 
+fresku: 1. fresh, recent 
+frialdat: 1. cold 
+frishidèr: 1. refrigerator 
+friu: 1. cold, frigid | 2. bleak, chilly, cold 
+frontera: 1. boundary, frontier, limit 
+fruminga: 1. ant, emmet 
+frus: 1. rust 
+frusa: 1. rust 
+frustia: 1. rust 
+frusto: 1. rust 
+fruta: 1. fruit 
+frèkè: 1. safety-pin, safety pin 
+frèt: 1. wart 
+fuente: 1. fountain, source, spring 
+fuerte: 1. strong 
+fuertemente: 1. strongly 
+fula: 1. feel, grope 
+fuma: 1. drunk, intoxicated 
+funda: 1. erect, establish, found 
+funshoná: 1. function, operate, run, work 
+furioso: 1. furious 
+futbòl: 1. football, soccer 
+futuro: 1. future 
+fábrika: 1. factory | 2. factory 
+fábula: 1. fairy tale 
+fásil: 1. easy, facile 
+fásilmente: 1. easily 
+fértil: 1. fertile 
+físika: 1. physics 
+físiko: 1. physical | 2. physicist 
+fèn: 1. electric fan, ventilator 
+fèri: 1. ferry 
+fòndo: 1. bottom, foundation, ground 
+fòntein: 1. fountain 
+fòrki: 1. fork 
+fòrmula: 1. formula 
+fòrsa: 1. compel, force 
+fòsfòr: 1. phosphorus 
+gaba: 1. commend, laud, praise 
+gabamento: 1. praise 
+gabamentu: 1. praise 
+gai: 1. cock, rooster 
+galante: 1. courteous, polite, well-mannered 
+galeria: 1. gallery 
+galiña: 1. chicken, fowl | 2. chicken, fowl 
+galopiá: 1. gallop 
+galòp: 1. gallop 
+gana: 1. earn, gain, win 
+ganamentu: 1. salary, wage, wages 
+ganashi: 1. benefit, gain, profit 
+garashi: 1. garage 
+garganta: 1. throat 
+garoshi: 1. cart, chariot 
+gas: 1. gas 
+gasolin: 1. gasolene, gasoline, petrol 
+gasolinsteishen: 1. filling station 
+gatia: 1. crawl, creep 
+gayo: 1. friend 
+gaña: 1. lie, tell a lie 
+gel: 1. yellow 
+gemastik: 1. gymnastics 
+general: 1. general, usual 
+generalmente: 1. generally 
+generashon: 1. generation 
+gentil: 1. courteous, polite, well-mannered 
+gentilesa: 1. politeness 
+geografia: 1. geography 
+geográfiko: 1. geographic, geographical 
+geologia: 1. geology 
+geometria: 1. geometry 
+geranium: 1. geranium 
+germániko: 1. Germanic, Teutonic 
+gespu: 1. buckle 
+gesto: 1. gesture 
+gewon: 1. accustomed, customary, used to, usual, wonted 
+geógrafo: 1. geographer | 2. geographer 
+gigante: 1. giant | 2. giant 
+gira: 1. endorse 
+giro: 1. endorsement 
+gitano: 1. gypsy, Gypsy 
+glas: 1. glass | 2. glass 
+globo: 1. ball, ball-bearing, globe 
+gloria: 1. fame, glory, renown 
+gobernador: 1. ruler 
+gobernadó: 1. ruler 
+gobernashon: 1. administration, government 
+goberná: 1. control, govern, restrain, rule 
+goera: 1. hole 
+gohera: 1. hole 
+gordo: 1. bold, corpulent, fat, thick 
+gorila: 1. gorilla 
+gosa: 1. delight in, enjoy 
+gota: 1. drop, drop of water 
+gradisido: 1. thankful 
+gradisidu: 1. thankful 
+gradisí: 1. thank 
+grado: 1. degree, grade | 2. grade, rank, rate 
+graf: 1. cemetery, God's acre, graveyard 
+gram: 1. gram, gramme 
+gramátika: 1. grammar 
+grandi: 1. big, great, large 
+grandura: 1. size 
+granit: 1. granite 
+gratis: 1. free 
+grave: 1. important, serious 
+grawatamento: 1. itch 
+grawatamentu: 1. itch 
+grawatashi: 1. itch 
+grawatá: 1. itch 
+griego: 1. Greek | 2. Greek 
+grip: 1. flu, grip, influenza 
+grita: 1. bark | 2. yell | 3. cry out, scream, shout 
+grito: 1. cry, shout 
+gritu: 1. scream | 2. cry, shout 
+grosero: 1. rude 
+grupo: 1. group 
+guera: 1. war 
+guerero: 1. warrior 
+guitara: 1. guitar 
+gusta: 1. appreciate, like 
+gusto: 1. taste 
+gustosamente: 1. willingly 
+gustu: 1. taste 
+gèmber: 1. ginger 
+gòlpi: 1. beat, hit, strike | 2. push 
+habitante: 1. inhabitant | 2. inhabitant 
+habon: 1. soap 
+habri: 1. open, open up 
+habridó di bleki: 1. can opener, tin-opener 
+habrí: 1. open 
+hacha: 1. axe 
+hadrei: 1. living-room, sitting-room 
+haf: 1. harbor, harbour, port 
+hagel: 1. hail 
+hal: 1. bile, gall 
+hala: 1. drag, draw, haul, pull, tug 
+haladó: 1. rake 
+hala lechi: 1. milk 
+hala rosea: 1. breathe 
+hallo: 1. hello 
+halo: 1. hello 
+halto: 1. high, lofty, tall 
+haltu: 1. high, lofty, tall 
+haltura: 1. height | 2. altitude, height 
+halué: 1. aloe 
+ham: 1. ham 
+hamaka: 1. hammock 
+hamas: 1. never 
+hamber: 1. hunger 
+hambrá: 1. hungry 
+hanchi: 1. alley, lane 
+hanchura: 1. width | 2. width 
+hangua: 1. needle 
+hankro: 1. anchor 
+hanskun: 1. glove, mitten 
+hanzué: 1. hook 
+hap: 1. yawn 
+hapones: 1. Japanese | 2. Japanese 
+haraña: 1. spider 
+hardin: 1. garden 
+hardinero: 1. gardener 
+hardin zoológiko: 1. zoo 
+hari: 1. laugh 
+harimento: 1. laughter 
+harimentu: 1. laughter 
+hariña: 1. flour, meal 
+harka: 1. rake 
+harmonia: 1. harmony 
+harmonioso: 1. harmonious 
+harmonisá: 1. accord, fit together, harmonize 
+harpa: 1. harp 
+harí: 1. laugh 
+hasa: 1. fry 
+hasi: 1. achieve, act, do, make, perform 
+haya: 1. achieve, acquire, attain, get, obtain | 2. get, have, receive | 3. find 
+haña: 1. achieve, acquire, attain, get, obtain | 2. get, have, receive | 3. find 
+hecha: 1. ripen 
+hecho: 1. mature, ripe 
+hechu: 1. mature, ripe 
+hefe: 1. boss, chief, leader 
+heful: 1. feel, feeling, sensation 
+hel: 1. yellow 
+heldo: 1. guilder, gulden 
+heldu: 1. guilder, gulden 
+helengue: 1. quarrel 
+hende: 1. man, human being 
+henter: 1. entire, overall, whole 
+henté: 1. entire, overall, whole 
+hep: 1. hip 
+heredero: 1. heir 
+heredá: 1. inherit 
+herfst: 1. autumn 
+herida: 1. injury, wound 
+heridá: 1. hurt, wound 
+hero: 1. iron 
+heroina: 1. heroin 
+hers: 1. hoarse 
+heru: 1. iron 
+hewon: 1. accustomed, customary, used to, usual, wonted 
+hiba: 1. bring, fetch | 2. bring away, carry away 
+hiena: 1. hyaena 
+higiena: 1. hygiene 
+higieniko: 1. hygienic 
+higra: 1. liver 
+hik: 1. hiccup | 2. hiccup 
+hilchi: 1. heel 
+hilo: 1. thread 
+hilu: 1. thread 
+himno: 1. anthem, hymn 
+hincha: 1. swell 
+hipnotisadó: 1. hypnotist 
+hipnotisá: 1. hypnotize 
+hipokrit: 1. hypocrite 
+hipotek: 1. mortgage 
+hipótesis: 1. hypothesis 
+hisa: 1. hoist, hoist up, run up, wind up | 2. lever, lift, raise 
+histeria: 1. hysteria 
+historia: 1. story, history 
+histériko: 1. hysterical 
+hoben: 1. young | 2. youngster, youth 
+hobensita: 1. young woman 
+hobensito: 1. youngster, youth 
+hobensitu: 1. youngster, youth 
+hochi: 1. hog, pig, swine 
+hole: 1. give off an odour, reek, smell 
+holó: 1. odor, odour, scent, smell 
+hondureño: 1. Honduran | 2. Honduran 
+honesto: 1. above-board, honest 
+honor: 1. honor, honour 
+honorabel: 1. honorary 
+honra: 1. honor, honour 
+hopi: 1. quite, very, very much 
+horeya: 1. ear 
+horibel: 1. abysmal, dreadful, gruesome, horrible, terrible 
+horizòntal: 1. horizontal, level 
+horizòntalmente: 1. across 
+horka: 1. hang 
+horkan: 1. hurricane 
+horoskop: 1. horoscope 
+hospitalidat: 1. hospitality 
+hostiná: 1. furious 
+hotèl: 1. hotel 
+houla: 1. cage 
+hoya: 1. jewel 
+hubentut: 1. youth 
+hubileo: 1. jubilee 
+hudiu: 1. Hebrew, Jew | 2. Jew 
+hues: 1. judge 
+hui: 1. escape, flee | 2. flee, run away 
+huimento: 1. flight, run 
+huimentu: 1. flight, run 
+huisio: 1. opinion 
+hulandes: 1. Dutch | 2. Dutchman, Hollander | 3. Dutch | 4. Dutchman | 5. Dutch, Dutch language 
+huma: 1. smoke | 2. smoke 
+humanidat: 1. human race, mankind 
+humano: 1. human 
+humilde: 1. humble 
+humor: 1. humour, mood, temper | 2. humour | 3. humor, humour 
+humulidat: 1. humility 
+hunga: 1. fuck, screw | 2. play | 3. have sex 
+hunto: 1. together 
+huntu: 1. together 
+hura: 1. swear 
+hurado: 1. jury 
+husga: 1. judge 
+hustamente: 1. just, just now 
+husto: 1. fair, just, righteous 
+hustu: 1. fair, just, righteous 
+huzga: 1. judge 
+huña: 1. scratch 
+huñá: 1. abrasion, scratch 
+hür: 1. hire | 2. let, rent out | 3. hire, rent, rental 
+hürdó: 1. renter, tenant 
+hórizòn: 1. horizon 
+hèktoliter: 1. hectolitre 
+hèktometer: 1. hectometre 
+hèlm: 1. helmet 
+hèlmu: 1. helmet 
+hèmber: 1. bucket, pail 
+hèmchi: 1. bucket, pail 
+hèndi: 1. adroit, clever, dexterous, skillful 
+hèntèr: 1. entire, overall, whole 
+hèsh: 1. hashish 
+hèspu: 1. buckle 
+hòbi: 1. hobby, sideline | 2. hobby 
+hòfi: 1. garden 
+hòmber: 1. fellow, man 
+hòmbresa: 1. virility 
+hòrkèt: 1. fork 
+hòrta: 1. steal 
+hòrtadó: 1. thief 
+hòspital: 1. hospital 
+hùrt: 1. harm | 2. hurt, wound 
+i: 1. and 
+idea: 1. idea 
+ideal: 1. ideal 
+identidat: 1. identity 
+identifiká: 1. identify 
+ideologia: 1. ideology 
+ideá: 1. guess, presume, suppose, surmise 
+idioma: 1. language, tongue 
+idiot: 1. idiotic 
+idiota: 1. idiotic 
+idéntiko: 1. identical 
+iglesia: 1. church 
+igra: 1. liver 
+igrèk: 1. upsilon, Y 
+igual: 1. equal, even, level 
+igualdat: 1. draw, equality 
+igualá: 1. compare 
+ilimitá: 1. absolute 
+ilu: 1. thread 
+iluminá: 1. enlighten, illuminate 
+ilushon: 1. illusion 
+ilustrashon: 1. illustration 
+ilustrá: 1. illustrate 
+imaginá: 1. fancy, imagine 
+imahiná: 1. fancy, imagine 
+imigrá: 1. immigrate 
+imitashon: 1. imitation 
+imitá: 1. imitate 
+imperiadó: 1. emperor 
+imperialismo: 1. imperialism 
+imperio: 1. empire 
+impidí: 1. bar, inhibit, prevent | 2. bar, hinder, inhibit, prevent 
+impliká: 1. entangle, implicate 
+imponé: 1. impress, strike 
+importansia: 1. concern 
+importante: 1. important, serious 
+importá: 1. import 
+imposibel: 1. impossible 
+imprenta: 1. printed matter | 2. print 
+imprimi: 1. print 
+improvisá: 1. ad-lib 
+imün: 1. immune 
+imágen: 1. imagination 
+imáhen: 1. imagination 
+inbertí: 1. invest 
+independiente: 1. independant 
+indikashon: 1. indication 
+indikativo: 1. indicative, indicative mood 
+indiká: 1. indicate, suggest 
+individibel: 1. indivisible 
+individual: 1. individual 
+individuo: 1. individual 
+indjan: 1. Indian, Red Indian | 2. Indian, American Indian 
+indones: 1. Indonesian | 2. Indonesian 
+indudablemente: 1. no doubt, undoubtedly 
+industria: 1. industry 
+industrial: 1. industrial 
+indígena: 1. aboriginal, domestic | 2. aboriginal, native 
+ineksplikabel: 1. inexplicable 
+inesperadamente: 1. unexpectedly 
+inesperá: 1. abrupt 
+infantil: 1. childish 
+infekshon: 1. infection 
+infelis: 1. unhappy 
+infiel: 1. unfaithful 
+infinitamente: 1. ad infinitum, endlessly 
+infinito: 1. everlasting 
+inflamashon: 1. inflammation 
+inflashon: 1. inflation 
+influensha: 1. action, influence 
+influenshá: 1. act, affect, influence 
+influensia: 1. action, influence 
+influensiá: 1. act, affect, influence 
+informashon: 1. account, information 
+informá: 1. acquaint, inform, report 
+ingeniero: 1. engineer 
+ingles: 1. English | 2. English, English language | 3. Englishman, Sassenach 
+ingrato: 1. thankless, ungrateful, unthankful 
+inisial: 1. initial 
+inisiá: 1. begin, commence, start 
+inkompleto: 1. incomplete 
+inkomprendibel: 1. inconceivable, unintelligible 
+inkonkistabel: 1. invincible 
+inkontabel: 1. countless 
+inkreibel: 1. incredible 
+inkulpabel: 1. guiltless, innocent 
+inmediatamente: 1. at once, immediately, just, right away, right now 
+inmediato: 1. immediate 
+innatural: 1. artificial 
+inosente: 1. guiltless, innocent 
+insekto: 1. bug, insect 
+insidentalmente: 1. by accident, by chance 
+insignifikante: 1. insignificant 
+insistí: 1. insist 
+inskripshon: 1. inscription 
+inspekshon: 1. inspection 
+inspektor: 1. inspector | 2. inspector 
+inspektá: 1. inspect 
+inspirashon: 1. inspiration 
+inspirá: 1. inspire 
+instalá: 1. install 
+instante: 1. instant, moment 
+instinto: 1. instinct 
+instituto: 1. institute 
+instrukshon: 1. instruction 
+instruktor: 1. instructor, teacher 
+instrument: 1. instrument 
+instruí: 1. teach 
+insulto: 1. abuse, insult 
+insultá: 1. abuse, insult, offend 
+intelektual: 1. intellectual 
+inteligensia: 1. intelligence 
+inteligente: 1. intelligent, sagacious 
+intenshon: 1. intention, meaning, plan 
+intenso: 1. acute, intense, intensive 
+intento: 1. attempt, test 
+intentá: 1. attempt, test, try 
+interes: 1. interest | 2. interest 
+interesante: 1. interesting 
+interesá: 1. interest | 2. be interested, take an interest 
+interhekshon: 1. interjection 
+interkambio: 1. exchange 
+interminabel: 1. everlasting 
+internashonal: 1. international 
+interno: 1. inner, inside, internal 
+interpretá: 1. interpret 
+interumpí: 1. interrupt 
+interupshon: 1. interruption 
+intervení: 1. intervene 
+intolerabel: 1. unbearable 
+intolerante: 1. intolerant 
+intrakil: 1. agitated, anxious 
+intérprete: 1. interpreter 
+invashon: 1. invasion 
+invenshon: 1. invention | 2. invention 
+invensibel: 1. invincible 
+inventá: 1. invent | 2. invent 
+investigashon: 1. investigation, examination, test 
+investigá: 1. examine | 2. examine, explore, investigate, research 
+invierno: 1. winter 
+invitashon: 1. invitation 
+invitá: 1. invite 
+inválido: 1. disabled 
+inyekshon: 1. injection 
+inyektá: 1. inject 
+inútil: 1. good-for-nothing, useless 
+iregular: 1. abnormal 
+ironia: 1. irony 
+isa: 1. hoist, hoist up, run up, wind up 
+isla: 1. island 
+italiano: 1. Italian 
+ivor: 1. ivory 
+kaba: 1. accomodate, end, finish, terminate 
+kabai: 1. horse 
+kabana: 1. cane, reed 
+kabaron: 1. prawn 
+kabayero: 1. gentleman, lord 
+kabei: 1. hair 
+kabel: 1. cable 
+kabes: 1. head, pate 
+kabinèt: 1. cabinet 
+kabouter: 1. brownie, gnome, goblin 
+kabrito: 1. goat 
+kabritu: 1. goat 
+kabuya: 1. cord, rope, string 
+kachete: 1. chin 
+kadaver: 1. cadaver, corpse 
+kadena: 1. chain 
+kader: 1. cadre, frame, framework 
+kaha: 1. box 
+kahero: 1. cashier 
+kai: 1. drop, fall 
+kaka: 1. defecate 
+kakalaka: 1. cockroach 
+kakou: 1. cocoa 
+kakumbein: 1. jaw, jawbone 
+kalakuna: 1. turkey 
+kalamidat: 1. catastrophe 
+kaliber: 1. calibre 
+kalidat: 1. property, quality 
+kalki: 1. lime 
+kalkulá: 1. calculate, count, figure, work out | 2. appraise, estimate, rate 
+kalor: 1. heat 
+kaloria: 1. calorie 
+kaloroso: 1. hot 
+kalènder: 1. calendar 
+kama: 1. bed 
+kamber: 1. bedroom 
+kamel: 1. camel 
+kaminda: 1. road, route, way 
+kamisa: 1. shirt 
+kampa: 1. camp, be encamped, lie encamped, camp out 
+kampion: 1. champion 
+kampo: 1. country, countryside 
+kanal: 1. canal, channel 
+kanari: 1. canary 
+kanaya: 1. cheat, crook, rogue 
+kanchi: 1. side 
+kandela: 1. fire 
+kandidato: 1. candidate 
+kangreu: 1. crab 
+kanibal: 1. cannibal 
+kanoa: 1. canoe 
+kansa: 1. get tired 
+kanselá: 1. abjure, abolish, abrogate, annul, cancel, remit 
+kansion: 1. song 
+kansá: 1. tired 
+kanta: 1. sing 
+kantante: 1. singer, female singer | 2. singer 
+kantidat: 1. quantity 
+kantor: 1. office | 2. bureau, office 
+kaos: 1. chaos, tangle 
+kap: 1. chop, cut, hack 
+kapital: 1. capital | 2. capital, capital city, metropolis 
+kapitalista: 1. capitalist 
+kapitan: 1. captain | 2. captain 
+kapítulo: 1. chapter 
+kara: 1. face 
+karacho: 1. darn 
+karaho: 1. darn 
+karai: 1. darn 
+karakter: 1. character, nature, personality | 2. character, nature 
+karamba: 1. darn 
+karavana: 1. caravan 
+karbon: 1. charcoal 
+karbureter: 1. carburettor 
+karchi: 1. card, map, menu 
+kareda: 1. file, line, rank, row, turn 
+karera: 1. career 
+karetera: 1. road, route, way 
+karga: 1. burden, load 
+karibe: 1. Caribbean 
+kariso: 1. darn 
+kariño: 1. love, value, worth 
+karnaval: 1. carnival 
+karni: 1. flesh 
+karni di karné: 1. mutton 
+karné: 1. sheep 
+karo: 1. dear, expensive, valuable 
+karpinté: 1. carpenter 
+karson: 1. short pants, shorts | 2. pants, trousers 
+karsonsio: 1. drawers, panties, underpants 
+karson di abou: 1. drawers, panties, underpants 
+karson kòrtiko: 1. short pants, shorts 
+karson kòrtiku: 1. short pants, shorts 
+karson largo: 1. pants, trousers 
+karson largu: 1. pants, trousers 
+karta: 1. card, map, menu | 2. letter 
+kartuchi: 1. cartridge 
+karu: 1. dear, expensive, valuable 
+karòt: 1. carrot 
+kas: 1. house | 2. abode, accommodation, dwelling, residence 
+kasa: 1. marry, be married, get married | 2. marry, be married, get married | 3. marry, be married, get married 
+kashi: 1. cabinet, closet, cupboard, sideboard 
+kashon: 1. pants, trousers 
+kashon largo: 1. pants, trousers 
+kasi: 1. almost, nearly 
+kasino: 1. casino 
+kasita: 1. cottage 
+kaska: 1. shell, peel 
+kaso: 1. affair, business, business deal, case, matter 
+kastel: 1. castle 
+kastiano: 1. Castillian 
+kastigo: 1. punishment 
+kastigu: 1. punishment 
+kastigá: 1. punish 
+kastiliano: 1. Castilian 
+kastio: 1. castle 
+kasualidat: 1. accidence, chance, hazard 
+kasualmente: 1. by accident, by chance 
+kasá: 1. wife | 2. husband 
+kasèt: 1. cassette | 2. cassette 
+katalòk: 1. catalogue, directory 
+katapila: 1. bulldozer 
+katedral: 1. cathedral 
+kategoria: 1. category 
+katibo: 1. bondwoman, slave, female slave | 2. slave 
+katibu: 1. bondwoman, slave, female slave | 2. slave 
+katisashi: 1. catechism 
+katolisismo: 1. Catholisism 
+katròl: 1. pulley 
+katuchi: 1. cartridge 
+katuna: 1. cotton 
+katástrofe: 1. catastrophe 
+katóliko: 1. Catholic 
+kaweta: 1. agog, inquisitive | 2. agog, curious, inquisitive | 3. agog, inquisitive 
+kaya: 1. street 
+kayena: 1. hibiscus 
+kayente: 1. warm | 2. hot | 3. heat | 4. warmth 
+kayo: 1. corn 
+kayon: 1. cannon 
+kazèrne: 1. barracks | 2. barracks 
+kaí: 1. fall 
+kaída: 1. fall 
+kaótiko: 1. chaotic | 2. chaotic 
+ke: 1. love | 2. be willing to, want, wish 
+keda: 1. remain, stay, stay over 
+keha: 1. complain 
+keho: 1. complaint 
+keintura: 1. ague, fever 
+kere: 1. account, accredit, believe, deem 
+keshi: 1. cheese 
+kestion: 1. affair, business, business deal, case, matter 
+kibokashon: 1. aberration, error, mistake 
+kiboká: 1. err, make a mistake 
+kibra: 1. break | 2. break 
+kibrabel: 1. breakable, brittle, fragile 
+kibukashon: 1. aberration, error, mistake 
+kibuká: 1. err, make a mistake 
+kier: 1. love | 2. be willing to, want, wish 
+kilo: 1. kilo 
+kilogram: 1. kilo 
+kilometer: 1. kilometre 
+kilometro: 1. kilometre 
+kima: 1. burn 
+kimíko: 1. chemist | 2. chemist 
+kinina: 1. quinine 
+kinipí: 1. pinch 
+kinta: 1. villa 
+kis: 1. choose, elect, pick out 
+kisas: 1. maybe, mayhap, perchance, perhaps, possibly 
+kishikishi: 1. itch 
+kishikí: 1. itch 
+kita: 1. abstract, take away 
+kitara: 1. guitar 
+kiut: 1. beautiful, fine, handsome, lovely 
+kiè: 1. love | 2. be willing to, want, wish 
+ki aña: 1. when 
+ki día: 1. when 
+ki ora: 1. when 
+ki tempu: 1. when 
+kla: 1. clear, distinct, plain | 2. finished, ready, through 
+klaba: 1. nail 
+klabo: 1. nail 
+klabu: 1. nail 
+klas: 1. class 
+klase: 1. class 
+klavel: 1. carnation, pink 
+klef: 1. bank, sandbank 
+klei: 1. clay 
+klenko: 1. brick 
+klenku: 1. brick 
+kliente: 1. client, customer 
+klima: 1. climate 
+klup: 1. club, society 
+klásiko: 1. classic, classical 
+klínika: 1. clinic 
+klèts: 1. gossip 
+klòròks: 1. chlorine 
+koba: 1. dig, grub, spade 
+kochino: 1. hog, pig, swine 
+kodishi: 1. envy 
+kodisia: 1. envy 
+kodisiá: 1. envy 
+kohe: 1. clutch, grab, grasp, grip, seize | 2. fuck, screw | 3. make love | 4. have sex 
+koho: 1. lame 
+koi: 1. clutch, grab, grasp, grip, seize | 2. fuck, screw | 3. make love | 4. have sex 
+koinsidensia: 1. accidence, chance, hazard 
+kokaina: 1. cocaine 
+koko: 1. coconut 
+kokolishi: 1. shell 
+kol: 1. cabbage 
+kola: 1. sift 
+kolaborá: 1. cooperate, co-operate 
+koladó: 1. sieve 
+kolchon: 1. mattress 
+kolega: 1. colleague 
+kolekshonista: 1. accumulator 
+kolektá: 1. collect, gather, pick up 
+kolo: 1. cabbage 
+kolochi: 1. penis 
+kolombiano: 1. Colombian 
+kolonia: 1. colony, settlement 
+kolonial: 1. colonial 
+kolonèl: 1. colonel 
+kolrkshon: 1. collection 
+koló: 1. colour, dye 
+komandante: 1. commander 
+komandá: 1. command, be in command, order 
+kombento: 1. monastery 
+kombentu: 1. monastery 
+kombersashon: 1. conversation 
+kombersá: 1. converse 
+kombertí: 1. convert 
+kombidashon: 1. invitation 
+kombidá: 1. invite 
+kombiná: 1. combine | 2. join, unite 
+komedia: 1. comedy | 2. play, theatre play 
+komedó: 1. dining-room 
+komehein: 1. termite 
+komehèn: 1. termite 
+komemento: 1. meal 
+komementu: 1. meal 
+komentario: 1. annotation, note 
+komentá: 1. comment on 
+komersiante: 1. merchant 
+komersio: 1. business, commerce, trade 
+kometa: 1. comet 
+komia: 1. inverted comma, quotation mark, quote 
+komibel: 1. edible 
+komisario: 1. chief of police 
+komishon: 1. committee 
+komo: 1. as, because, for, since 
+komokiera: 1. as, because, for, since 
+kompai: 1. friend | 2. buddy, companion, comrade, pal 
+kompakto: 1. compact 
+komparashon: 1. comparison 
+kompará: 1. compare 
+kompas: 1. compass 
+kompashon: 1. compassion, pity 
+kompatriota: 1. compatriot 
+kompaña: 1. accompanist, companian 
+kompañamento: 1. accompaniment, escort 
+kompañamentu: 1. accompaniment, escort 
+kompañero: 1. buddy, companion, comrade, pal 
+kompañá: 1. accompany 
+kompilá: 1. compile 
+kompleho: 1. complex 
+kompletamente: 1. completely, entirely, through 
+kompleto: 1. absolute, complete 
+kompletá: 1. complete 
+komponista: 1. composer 
+komponé: 1. compose 
+komportashon: 1. behavior, behaviour, conduct, deportment 
+komportá: 1. behave, conduct oneself 
+kompositor: 1. composer 
+kompra: 1. buy, purchase | 2. acquisition, purchase 
+komprendibel: 1. understandable 
+komprendé: 1. understand, realize 
+komprometida: 1. bride, fiancée 
+komprometido: 1. fiancé 
+komprometé: 1. become engaged | 2. become engaged 
+kompromiso: 1. betrothal, engagement 
+komprondé: 1. understand, realize 
+komun: 1. common, joint | 2. accustomed, customary, used to, usual, wonted | 3. daily 
+komuniká: 1. communicate, report 
+komunismo: 1. communism 
+komunista: 1. communist 
+konde: 1. count, earl 
+kondená: 1. condemn, sentence 
+kondishon: 1. condition, stipulation, terms 
+kondolensia: 1. compassion, pity 
+kondon: 1. condom, rubber 
+kondukta: 1. behavior, behaviour, conduct, deportment 
+konduktor: 1. guard 
+konekshon: 1. connection 
+konektá: 1. connect, connect up, plug in 
+koneu: 1. rabbit 
+konfeshon: 1. confession 
+konfesá: 1. confess 
+konfia: 1. confide, have confidence in, trust, entrust 
+konfiansa: 1. confidence 
+konfirmashon: 1. confirmation 
+konfiská: 1. confiscate 
+konflikto: 1. conflict 
+konfortabel: 1. comfortable 
+konfundí: 1. confuse, puzzle 
+konfushon: 1. confusion 
+kongreso: 1. congress, convention 
+konhugá: 1. conjugate 
+konhunshon: 1. conjunction 
+konhunto: 1. band 
+konkistá: 1. conquer 
+konklushon: 1. conclusion, inference 
+konklú: 1. abstract, induce, gather, infer 
+konkret: 1. concrete 
+konkreto: 1. concrete 
+konkurensia: 1. competition 
+konkurso: 1. competition, contest 
+konopá: 1. knot 
+konosemento: 1. acquaintance, knowledge 
+konosementu: 1. acquaintance, knowledge 
+konosé: 1. be acquainted with, know 
+konosí: 1. well-known 
+konsehabel: 1. advisable 
+konsehero: 1. counsellor 
+konseho: 1. advice, counsel 
+konsehá: 1. advise, counsel 
+konsentí: 1. accede, agree, consent 
+konsepto: 1. concept, idea 
+konservativo: 1. conservative 
+konservá: 1. conserve, keep, maintain, preserve 
+konsiderabel: 1. considerable, sizable 
+konsiderá: 1. account, consider, esteem, regard, take into account 
+konsiente: 1. aware, conscious 
+konsistí: 1. consist 
+konsolashon: 1. consolation 
+konsolá: 1. comfort, console 
+konsonante: 1. consonant 
+konspirá: 1. conspire 
+konstante: 1. constant, continual, permanent, sustained 
+konstantemente: 1. constantly 
+konstatá: 1. ascertain, establish, take note 
+konsternashon: 1. alarm, consternation 
+konstitushon: 1. constitution 
+konstrukshon: 1. building 
+konstruí: 1. build, construct 
+konsuelo: 1. consolation 
+konsulado: 1. consulate 
+konsulta: 1. consultation 
+konsultá: 1. consult 
+konta: 1. amount, number 
+kontakto: 1. contact 
+kontenido: 1. contents 
+kontento: 1. contented, pleased, satisfied 
+kontentu: 1. contented, pleased, satisfied 
+kontené: 1. comprise, contain, include 
+kontesta: 1. answer, reply 
+kontestashon: 1. answer, reply 
+kontestá: 1. answer, reply, respond 
+kontinente: 1. continent, mainland 
+kontinuamente: 1. constantly 
+kontinuá: 1. continue, go on, proceed with 
+kontra: 1. across from, against, in exchange for, opposed to, opposite, upon | 2. come across, encounter, meet, see 
+kontrabanda: 1. contraband 
+kontrabandista: 1. smuggler 
+kontrakto: 1. contract 
+kontrali: 1. adverse, alien, contrary 
+kontrario: 1. adverse, alien, contrary 
+kontrato: 1. contract 
+kontratá: 1. make a contract 
+kontrolá: 1. audit, check, check up on, supervise, verify 
+konvensé: 1. convince, persuade 
+konvoi: 1. bus, autobus, omnibus 
+konènchi: 1. rabbit 
+koper: 1. copper 
+koperá: 1. cooperate, co-operate 
+koper hel: 1. brass | 2. brass 
+kopia: 1. copy | 2. copy 
+kor: 1. chorus, coir 
+korant: 1. gazette, magazine, newspaper, periodical 
+kore: 1. run 
+koreano: 1. Korean 
+korekto: 1. correct, right 
+korespondé: 1. correspond 
+koriente: 1. current 
+korigí: 1. correct 
+korompi: 1. bribe 
+koroto: 1. thing | 2. article, object, thing 
+kos: 1. affair, business, business deal, case, matter | 2. thing | 3. article, object, thing 
+kose: 1. sew 
+kosecha: 1. harvest 
+kosechá: 1. harvest 
+kosedó: 1. needlewoman, seamstress 
+kosein: 1. frame, window-frame 
+kosta: 1. cost | 2. coast, seaside, shore 
+kostarikeño: 1. Costa Rican 
+kostoso: 1. dear, expensive | 2. costly, dear, expensive, pricey 
+kostumber: 1. custom, habit, way 
+kostumbrá: 1. accustom, be in the habit of 
+kosturerá: 1. needlewoman, seamstress 
+kosèn: 1. frame, window-frame 
+kos di saka kòrki: 1. corkscrew 
+kou: 1. chew 
+kouchi: 1. cage 
+kousa: 1. activate, cause, give rise to 
+koñak: 1. brandy, cognac 
+koño: 1. darn 
+koñá: 1. furious 
+krag: 1. collar 
+kram: 1. diarrhoea | 2. clamp, brace, bracket, parenthesis, staple 
+kranchi: 1. faucet, tap 
+krea: 1. create 
+kredit: 1. credit 
+kreensha: 1. belief 
+kreensia: 1. belief 
+kref: 1. lobster 
+kreibel: 1. plausible | 2. plausible 
+kreit: 1. chalk 
+krem: 1. cream 
+krema: 1. cream 
+krenchi: 1. a little, rather 
+krese: 1. accrue, grow 
+kresemento: 1. accretion, growth 
+kresementu: 1. accretion, growth 
+krimen: 1. crime 
+kriminal: 1. criminal 
+krisis: 1. crisis, depression, emergency 
+kristal: 1. crystal 
+kristan: 1. Christian 
+kristian: 1. Christian 
+kristianismo: 1. Christianity 
+kritiká: 1. censure, criticize 
+kriá: 1. maid, servant | 2. boy, servant 
+krokodel: 1. crocodile 
+krou: 1. angry, cross 
+krudo: 1. crude, raw, rough 
+kruel: 1. cruel 
+krus: 1. cross 
+krusigrama: 1. crossword puzzle 
+krítika: 1. criticism 
+krónika: 1. chronicle 
+krèm: 1. cream 
+ku: 1. with 
+kuadrat: 1. square 
+kuadria: 1. group 
+kuadro: 1. painting, picture 
+kuadrá: 1. square 
+kualifikashon: 1. ability, qualification 
+kualifiká: 1. qualify 
+kuarenta: 1. forty 
+kuarto: 1. chamber, room 
+kuartu: 1. chamber, room 
+kuater: 1. four 
+kuatro: 1. four 
+kubano: 1. Cuban 
+kubri: 1. cover 
+kuchara: 1. spoon 
+kuchikuchi: 1. whisper 
+kuchiu: 1. knife 
+kuchú: 1. knife 
+kudisioso: 1. envious 
+kue: 1. fuck, screw | 2. have sex 
+kuek: 1. mercury, quicksilver 
+kuenta: 1. account 
+kuero: 1. skin | 2. leather 
+kueru: 1. skin | 2. leather 
+kueyo: 1. collar 
+kuidou: 1. caution | 2. caution 
+kuki: 1. cake 
+kukuisa: 1. agave 
+kul: 1. backside, rump 
+kulpa: 1. accuse, blame | 2. blame, fault, guilt 
+kulpabel: 1. guilty 
+kultivo: 1. cultivation, tillage 
+kultivá: 1. cultivate 
+kultura: 1. culture 
+kuminda: 1. food | 2. meal 
+kumindamento: 1. greeting 
+kumindamentu: 1. greeting 
+kumindá: 1. greet, salute 
+kuminsá: 1. begin, commence, start 
+kumpra: 1. acquire, buy, purchase | 2. buy, purchase 
+kumpradó: 1. buyer, client, purchaser 
+kunukero: 1. farmer 
+kunuku: 1. field 
+kura: 1. care for, cure, treat 
+kurashi: 1. courage 
+kurason: 1. heart 
+kurpa: 1. body 
+kurú: 1. raw, uncooked 
+kushina: 1. kitchen 
+kushiná: 1. cook 
+kushna: 1. cook 
+kusinchi: 1. kiss 
+kustia: 1. hip 
+kustumá: 1. accustom oneself, get used 
+kutumber: 1. custom, habit, way 
+kuñá: 1. sister-in-law | 2. brother-in-law 
+kámara: 1. dark-room, small room 
+kén: 1. who 
+kénde: 1. who 
+kén su: 1. of which, which one's, whose 
+kí: 1. what kind of, what sort of | 2. what 
+kíko: 1. what 
+kímika: 1. chemistry | 2. chemistry 
+kí tal: 1. hello 
+kólera: 1. cholera 
+kómiko: 1. comic, comical, funny 
+kómodo: 1. comfortable 
+kónchale: 1. darn 
+kónfiro: 1. darn 
+kèch: 1. capture, catch, grapple | 2. understand, realize 
+kèsh: 1. cash, in cash 
+kòfi: 1. coffee 
+kòki: 1. cook, female cook | 2. cook, male cook 
+kòkou: 1. cocoa 
+kòktel: 1. cocktail 
+kòkòdèk: 1. armpit 
+kòma: 1. comma 
+kòmpas: 1. compass 
+kòmpiuter: 1. computer 
+kòmplimènt: 1. compliment 
+kòmplòt: 1. conspiracy, plot 
+kònchi: 1. basin, reservoir 
+kòndòn: 1. condom, rubber 
+kònkòmber: 1. cucumber 
+kònsel: 1. consul 
+kònsèrt: 1. concert 
+kònòpi: 1. bud | 2. button | 3. button | 4. knot, node | 5. fist 
+kòpi: 1. cup 
+kòri: 1. curry 
+kòrki: 1. cork 
+kòrtina: 1. curtain 
+kòrá: 1. red | 2. red 
+kùp: 1. goblet 
+laat: 1. late 
+laba: 1. wash | 2. wash 
+labatiba: 1. problem, trouble 
+labia: 1. flatter 
+labor: 1. job, work 
+laboratorio: 1. laboratory 
+lachi: 1. drawer 
+ladra: 1. bark 
+ladron: 1. thief 
+laga: 1. allow, leave, let, release 
+lagadishi: 1. lizard 
+laker: 1. sheet 
+laker di kama: 1. sheet 
+lakran: 1. scorpion 
+laman: 1. sea 
+lamchi: 1. lamb 
+lamentabel: 1. regrettable 
+lamentablemente: 1. alas, regrettably, unfortunately 
+lamentá: 1. be sorry about, regret 
+lamper: 1. lightning 
+lampi: 1. lamp 
+lampro: 1. lightning 
+lamunchi: 1. lemon 
+lamá: 1. sea 
+lana: 1. wool 
+lanchi: 1. lamb 
+landa: 1. float, swim 
+landra: 1. float, swim 
+lansa: 1. lance, spear 
+largu: 1. long 
+largura: 1. length | 2. length 
+lars: 1. boot 
+larva: 1. grub, larva 
+lat: 1. late, tardy | 2. late 
+latin: 1. Latin 
+latino: 1. Latin 
+lava: 1. lava 
+lawina: 1. avalanche 
+lebelebe: 1. mud 
+lechi: 1. milk 
+legal: 1. legal 
+lei: 1. law 
+leim: 1. glue | 2. glue, stick | 3. glue 
+leishi: 1. list 
+lek: 1. lick 
+len: 1. lean 
+lenga: 1. tongue | 2. language, tongue 
+lens: 1. lens 
+lensu: 1. handkerchief 
+leon: 1. lion 
+lep: 1. lip 
+lepra: 1. leprosy 
+lesa: 1. read 
+lesabel: 1. legible 
+lesado: 1. reader 
+leshi: 1. list 
+leu: 1. away | 2. distant, far, remote 
+leyenda: 1. legend 
+liber: 1. pound 
+liberal: 1. liberal 
+libertat: 1. freedom 
+libra: 1. release 
+libreria: 1. bookshop, bookstore 
+lider: 1. leader 
+lidia: 1. attend, nurse, tend to 
+liga: 1. be similar, resemble 
+lihé: 1. light 
+likùr: 1. liqueur 
+lila: 1. violet 
+limite: 1. boundary, frontier, limit 
+limitá: 1. abridge, confine, limit, restrict 
+limonada: 1. lemonade 
+limosna: 1. alms, charity 
+limpi: 1. clean 
+limpia: 1. fuck, screw | 2. clean, cleanse, make clean, purge | 3. have sex 
+limpiesa: 1. cleanliness, purity 
+lingwístiko: 1. linguistic 
+linial: 1. ruler, straightedge 
+linolio: 1. lineseed oil 
+liseo: 1. lyceum 
+lisinbein: 1. centipede 
+lista: 1. list 
+liter: 1. liter, litre 
+literatura: 1. literature 
+litro: 1. liter, litre 
+liña: 1. cord, rope, string 
+liñal: 1. ruler, straightedge 
+lodo: 1. mud 
+logra: 1. succeed 
+logá: 1. place | 2. location, place, spot 
+lokal: 1. local 
+loko: 1. crazy, insane, mad, nuts 
+lokura: 1. craziness, insanity, lunacy, madness | 2. craziness, insanity, lunacy, madness 
+lokèt: 1. window, ticket-window 
+lolas: 1. fool 
+lolo: 1. fool 
+lomba: 1. back 
+lorada: 1. bend, curve 
+loteria: 1. lottery, raffle 
+lou: 1. lukewarm 
+lubidadó: 1. forgetful 
+lubidá: 1. forget 
+lucha: 1. struggle, wrestle 
+luha: 1. luxury 
+luhoso: 1. deluxe, de luxe, luxurious 
+luna: 1. moon 
+lus: 1. light 
+lusafè: 1. match 
+lágrima: 1. tear 
+lástimamente: 1. alas, regrettably, unfortunately 
+líkido: 1. liquid 
+lógika: 1. logic 
+lógiko: 1. logical 
+lèbèlèbè: 1. mud 
+lèn: 1. lean 
+lès: 1. lesson 
+lèter: 1. letter 
+ma: 1. but 
+madushi: 1. grandmother 
+madú: 1. grandmother 
+maestra: 1. teacher, female teacher 
+maestro: 1. adept, maestro, master 
+magia: 1. sorcery 
+magnet: 1. magnet 
+magnetismo: 1. magnetism 
+magnétiko: 1. magnetic 
+maha: 1. be bored, be tired of something 
+mahos: 1. nasty, ugly 
+mahoso: 1. nasty, ugly 
+mai: 1. mam, mammy, mom, mommy 
+mainshi: 1. corn, Indian corn, maize, mealies 
+mainta: 1. morning 
+maishi: 1. morning 
+makako: 1. ape, monkey 
+makaku: 1. ape, monkey 
+makamba: 1. Dutchman, Hollander | 2. Dutchman 
+makrel: 1. mackerel 
+makré: 1. mackerel 
+malaria: 1. malaria 
+maleta: 1. trunk 
+malgastá: 1. waste 
+malkontento: 1. discontented, displeased, dissatisfied 
+malkontentu: 1. discontented, displeased, dissatisfied 
+malo: 1. bad, miserable, nasty, poor 
+malora: 1. bad luck 
+malu: 1. bad, miserable, nasty, poor | 2. badly | 3. ill, sick 
+maluzá: 1. abuse 
+mama: 1. mam, mammy, mom, mommy | 2. mother 
+man: 1. hand 
+manda: 1. command, be in command, order 
+mando: 1. command 
+manera: 1. manner, mode, way 
+manga: 1. sleeve | 2. boulder 
+mango: 1. mango 
+manita: 1. morning 
+manko: 1. absence, lack, shortage, shortcoming 
+manká: 1. lame 
+manso: 1. tame 
+mansu: 1. tame 
+manteka: 1. butter 
+mantel: 1. cloak, mantle 
+manuskripto: 1. manuscript 
+mapa: 1. map | 2. map 
+marga: 1. acerbic, bitter 
+margarina: 1. margarine 
+mariko: 1. homosexual, gay 
+mariku: 1. homosexual, gay 
+marina: 1. navy 
+marinero: 1. sailor 
+mariwana: 1. marijuana 
+marmelada: 1. jam, marmelade 
+marmer: 1. marble 
+marokano: 1. Moroccan | 2. Moroccan woman | 3. Moroccan 
+maron: 1. brown 
+marsha: 1. quite, very, very much 
+marshe: 1. fair, market | 2. market, marketplace 
+mart: 1. March 
+martin: 1. hammer 
+martiu: 1. hammer 
+mas: 1. more 
+masashi: 1. massage 
+mashin: 1. engine, machine 
+mashá: 1. quite, very, very much 
+masif: 1. massive 
+maskarada: 1. mask 
+maske: 1. though, although 
+mast: 1. mast 
+master: 1. mast 
+mata: 1. kill, liquidate, slay 
+matansia: 1. abattoir, slaughterhouse 
+matemátika: 1. mathematics 
+matemátiko: 1. mathematical | 2. mathematician 
+materia: 1. matter 
+matras: 1. mattress 
+mayor: 1. major 
+mayoria: 1. majority 
+mayónan: 1. parents 
+mayórnan: 1. parents 
+maínta: 1. in the morning 
+mañan: 1. tomorrow 
+mea: 1. sock | 2. stocking 
+meditá: 1. meditate, think to oneself 
+mehor: 1. better 
+mehorashon: 1. progress 
+mei: 1. May 
+meks: 1. blend, mingle, mix, shuffle 
+melodia: 1. melody, tune 
+memoria: 1. memory, recollection 
+menasá: 1. menace, threaten 
+mener: 1. Mister, Mr., sir 
+menos: 1. fewer, less 
+menospresio: 1. contempt 
+menospresiá: 1. despise 
+mensahe: 1. errand, message 
+menshoná: 1. mention 
+mensioná: 1. mention 
+menta: 1. mention 
+mental: 1. mental 
+mente: 1. mind 
+mentira: 1. lie 
+merikano: 1. American | 2. American, US citizen 
+merkado: 1. market, sales activity 
+mermelada: 1. jam, marmelade 
+mes: 1. self, herself, himself, itself 
+mesa: 1. table 
+meskla: 1. blend, mingle, mix, shuffle 
+mesora: 1. at once, immediately, just, right away, right now 
+mester: 1. need, require | 2. have to, must, ought to, should 
+mesté: 1. need, require 
+meta: 1. aim, goal, purpose, target 
+metal: 1. metal 
+meteor: 1. atmospheric phenomenon 
+meter: 1. metre 
+metodo: 1. method 
+metro: 1. metre 
+meya: 1. sock | 2. stocking 
+meña: 1. sock | 2. stocking 
+mi: 1. my 
+mia: 1. mile 
+midi: 1. measure 
+midí: 1. measure, measurement 
+miedo: 1. fright 
+miedoso: 1. afraid, timid 
+miedu: 1. fright 
+miembro: 1. acolyte, member, supporter | 2. limb, member 
+miembro di famía: 1. relative 
+mientrastanto: 1. all the time, in the meantime, meanwhile 
+mientrastantu: 1. all the time, in the meantime, meanwhile 
+mihó: 1. better 
+mik: 1. aim, intend 
+mikrobio: 1. germ, microbe 
+mikrofon: 1. microphone 
+mikroskop: 1. microscope 
+mil: 1. thousand, one thousand 
+milager: 1. miracle 
+milagro: 1. miracle 
+milagroso: 1. miraculous 
+milimeter: 1. millimetre 
+milon: 1. melon 
+mina: 1. mine 
+mineral: 1. mineral 
+minister: 1. minister 
+minoria: 1. minority 
+minti: 1. deny 
+minüt: 1. minute 
+mion: 1. million 
+mira: 1. see 
+mirada: 1. look 
+mirakel: 1. miracle 
+miraklo: 1. miracle 
+misa: 1. mass 
+miserabel: 1. abject, dismal, meager, miserable, wretched 
+mishi: 1. touch 
+misterio: 1. enigma, puzzle, riddle | 2. secret 
+mitar: 1. half 
+mitologia: 1. mythology 
+mitá: 1. half 
+miéntras: 1. for, during, whereas, while, whilst 
+moda: 1. manner, mode, way | 2. fashion, mode 
+modelo: 1. model 
+modernisá: 1. modernize 
+moderno: 1. modern 
+modernu: 1. modern 
+moderá: 1. moderate, reasonable 
+modo: 1. manner, mode, way 
+mohen di bida: 1. hooker, whore 
+mohé: 1. woman 
+mohé di bida: 1. prostitute | 2. hooker, whore 
+moketa: 1. fist 
+mokete: 1. fist 
+molekül: 1. molecule 
+molestiá: 1. tired 
+moli: 1. soft 
+molia: 1. soften up 
+momento: 1. instant, moment 
+momentu: 1. instant, moment 
+mondi: 1. forest, woods 
+mondongo: 1. intestines 
+montekristo: 1. insane asylum 
+montekristu: 1. insane asylum 
+monton: 1. accumulation, crowd, heap, mass, multitude, pile 
+morchá: 1. tired 
+morde: 1. bite 
+mordé: 1. bite 
+mordí: 1. bite 
+mortal: 1. deadly 
+morto: 1. death 
+moskei: 1. mosque 
+motibu: 1. account, reason | 2. account, motive, reason 
+motor: 1. engine, motor 
+motosaikel: 1. motorcycle 
+move: 1. actuate, move 
+moveshon: 1. movement | 2. movement 
+movibel: 1. mobile 
+movishon: 1. movement | 2. movement 
+mucha mohé: 1. girl, lass, wench 
+muchu: 1. a lot of, much | 2. too, too much 
+mudo: 1. dumb, mute, speechless 
+mudu: 1. dumb, mute, speechless 
+mueble: 1. piece of furniture 
+muestra: 1. sample, specimen 
+muf: 1. actuate, move 
+muha: 1. wet | 2. get wet 
+muhá: 1. wet 
+muhé: 1. woman 
+muhé di bida: 1. hooker, whore 
+multipliká: 1. multiply | 2. duplicate, multiply 
+multitut: 1. crowd, mass, multitude 
+mundo: 1. world 
+mundu: 1. world 
+munstra: 1. indicate, point out, show 
+muraya: 1. wall 
+muri: 1. die, expire, pass away 
+museo: 1. museum 
+musikal: 1. musical 
+muska: 1. fly, housefly 
+muskita: 1. fly, housefly 
+mustashi: 1. moustache 
+mustra: 1. indicate, point out, show 
+mágiko: 1. magic 
+márfil: 1. ivory 
+mártir: 1. martyr, female martyr | 2. martyr 
+méikep: 1. make up, make-up 
+mérito: 1. merit 
+mínimo: 1. minimum 
+músika: 1. music 
+músiko: 1. musician 
+múskolo: 1. muscle 
+mèksikano: 1. Mexican | 2. Mexican 
+mèst: 1. fertilizer, manure 
+mònster: 1. monster 
+mòro: 1. good morning 
+mòru: 1. good morning 
+na: 1. at, to, toward, towards | 2. a, in, inside, into, on, per, within 
+nabaha: 1. razor 
+nabegante: 1. sailor 
+nabegashon: 1. navigation 
+nada: 1. nothing 
+nailen: 1. nylon 
+nan: 1. their | 2. her, his, its, their 
+nanishi: 1. nose 
+nase: 1. arise, be born 
+nasemento: 1. birth 
+nasementu: 1. birth 
+nashon: 1. nation 
+nashonal: 1. national 
+nashonalidat: 1. nationality 
+nasimento: 1. birth 
+nasimentu: 1. birth 
+natural: 1. natural 
+naturalesa: 1. nature 
+naturalmente: 1. naturally 
+na cas: 1. at home 
+na lugar di: 1. instead of 
+na únda: 1. where, where ... to, whither 
+negativo: 1. negative 
+neger: 1. Negro 
+negoshante: 1. businessman, merchant 
+negoshá: 1. negotiate, trade 
+negro: 1. Negro 
+neishi: 1. den, nest 
+nenga: 1. deny | 2. refuse, reject 
+nervio: 1. nerve 
+nervioso: 1. agitated, nervous 
+nesesario: 1. necessary 
+neutral: 1. neutral | 2. impartial, neutral 
+ni: 1. neither, nor 
+nieta: 1. granddaughter 
+nieto: 1. grandson 
+nifikashon: 1. meaning 
+nifiká: 1. imply, mean, signify 
+nigeriano: 1. Nigerian 
+nikaragueño: 1. Nicaraguan | 2. Nicaraguan 
+nikel: 1. nickel 
+ningun: 1. neither, nobody, none, no-one 
+nir: 1. kidney 
+nister: 1. hang onto, hold | 2. sneeze 
+nistro: 1. sneeze 
+nitrógeno: 1. nitrogen 
+niuskir: 1. agog, inquisitive | 2. agog, inquisitive 
+nivel: 1. level 
+no: 1. not 
+nobedat: 1. news, novelty, something new 
+nobenta: 1. ninety 
+nobo: 1. new, novel 
+nochi: 1. night | 2. evening 
+nodi: 1. necessary 
+nodo: 1. necessary 
+norma: 1. norm, standard 
+normal: 1. normal 
+normalmente: 1. ordinarily, usually 
+noruechi: 1. Norwegian | 2. Norwegian 
+nos: 1. us, we | 2. our 
+not: 1. grade, note 
+nota: 1. note, make a note, write down 
+notario: 1. notary 
+notifikabel: 1. noteworthy, remarkable 
+notisia: 1. news, novelty, something new 
+novela: 1. novel 
+novèmber: 1. November 
+nubia: 1. cloud 
+nuebe: 1. nine 
+nuklear: 1. nuclear 
+nukleo: 1. nucleus 
+number: 1. number, numeral 
+nunka: 1. never 
+nèchi: 1. pretty 
+nò: 1. no 
+nòmber: 1. appellation, name 
+nòmbro: 1. appellation, name 
+nònsèns: 1. nonsense 
+nòrt: 1. north, North 
+nòt: 1. nut 
+nùrs: 1. nurse 
+o: 1. or 
+obedesido: 1. obedient | 2. obedient 
+obedesidu: 1. obedient | 2. obedient 
+obedesé: 1. obey 
+obispo: 1. bishop 
+obispu: 1. bishop 
+obligatorio: 1. compulsory 
+obligá: 1. compel, force 
+obra: 1. job, work 
+obrero: 1. hand, laborer, labourer, operative, worker, working man, workman 
+observacion: 1. remark 
+ochenta: 1. eighty 
+ocho: 1. eight 
+ochoshen: 1. eight hundred 
+odia: 1. hate 
+odio: 1. hate 
+ofendé: 1. abuse, insult, offend | 2. abuse, insult, offend 
+ofensa: 1. abuse 
+ofishi: 1. handicraft, occupation, trade 
+ofisial: 1. official 
+ofisina: 1. office | 2. bureau, office 
+ofrecé: 1. bid, offer, make an offer of 
+oksidental: 1. western 
+oksidente: 1. west, West 
+okulista: 1. oculist, ophtalmologist 
+okupashon: 1. activity, occupation 
+okupá: 1. occupy, take 
+ola: 1. wave 
+ole: 1. give off an odour, reek, smell 
+olefante: 1. elephant 
+oleifi: 1. olive 
+olifant: 1. elephant 
+oloshi: 1. watch | 2. clock, watch 
+oló: 1. odor, odour, scent, smell 
+omo: 1. uncle 
+oost: 1. east, East 
+operashon: 1. operation, surgical operation 
+operá: 1. operate 
+opheto: 1. article, object, thing 
+opinion: 1. opinion 
+opiná: 1. account, deem, opine, think 
+opio: 1. opium 
+oportunidat: 1. possibility 
+oportunista: 1. opportunist 
+opsekio: 1. gift, present 
+opservashon: 1. observation 
+opservá: 1. keep, mind, observe 
+opstákulo: 1. obstacle 
+optenibel: 1. obtainable 
+optené: 1. achieve, acquire, attain, get, obtain 
+optimismo: 1. optimism 
+optimista: 1. optimist 
+ora: 1. hour, o'clock, time 
+orashon: 1. prayer 
+oraño: 1. orange-coloured 
+orea: 1. ear 
+oreya: 1. ear 
+organismo: 1. organism 
+organisá: 1. organize 
+orguyo: 1. pride 
+orguyoso: 1. proud 
+oriental: 1. eastern, Oriental 
+orientá: 1. orient 
+original: 1. aboriginal, original | 2. original 
+orina: 1. urine 
+oriná: 1. urinate 
+orkan: 1. hurricane 
+orkesta: 1. orchestra 
+orketa: 1. fork 
+oro: 1. gold 
+oropeano: 1. European 
+oropeo: 1. European 
+ortografia: 1. orthography 
+orígen: 1. lineage | 2. origin 
+oríhen: 1. lineage | 2. origin 
+osean: 1. ocean 
+otro: 1. other, another, else 
+otro mañan: 1. the day after tomorrow 
+ougùstùs: 1. August 
+oumentá: 1. aggrandize, augment, enlarge, increase 
+ousensia: 1. absence, non-attendance | 2. absence 
+ousente: 1. absent | 2. absent 
+ousilio: 1. aid, help | 2. aid, help 
+outo: 1. car 
+outokrasia: 1. absolute power, absolute rule, autocracy 
+outomat: 1. automoton 
+outomatisá: 1. automate 
+outomobilista: 1. motorist 
+outomátiko: 1. automatic 
+outonomia: 1. autonomy 
+outopista: 1. motor road, motorway 
+outopsia: 1. autopsy 
+outor: 1. author 
+outoridat: 1. authority 
+outéntiko: 1. authentic, genuine 
+outóktono: 1. native 
+oval: 1. oval 
+pa: 1. before, in front of | 2. for, to, in order to, per | 3. so, so that 
+paden: 1. inside 
+padushi: 1. grandfather 
+padú: 1. grandfather 
+pafor: 1. abroad, out, outside 
+pafó: 1. abroad, out, outside 
+pafór: 1. abroad, out, outside 
+paga: 1. pay 
+paganismo: 1. paganism 
+pagano: 1. pagan 
+pago: 1. payment 
+pai: 1. dad, daddy 
+pais: 1. country, land 
+paisahe: 1. landscape, scenery 
+paisano: 1. compatriot 
+paketá: 1. pack, package, wrap up 
+paki: 1. packet, parcel 
+pakíko: 1. what for, why 
+palabra: 1. word 
+palasio: 1. palace 
+palma: 1. palm, palmtree 
+palo: 1. tree | 2. pole, post, stanchion, stake | 3. timber, wood 
+paloma: 1. pigeon 
+palomba: 1. dove, pigeon 
+palombra: 1. pigeon 
+palu: 1. tree | 2. baton, cane, stick | 3. pole, post, stanchion, stake | 4. timber, wood 
+pamfleta: 1. pamphlet 
+pampuna: 1. gourd, pumpkin, squash 
+pan: 1. bread, loaf 
+panaderia: 1. bakery 
+panadero: 1. baker 
+panorama: 1. view 
+pantaya: 1. screen 
+papa: 1. gruel, mess, mush | 2. father 
+papagai: 1. parrot 
+papaya: 1. papaya, papaw 
+papel: 1. paper 
+papi: 1. dad, daddy 
+papia: 1. speak, talk 
+papá: 1. dad, daddy 
+par: 1. pair | 2. pair 
+para: 1. bird | 2. halt, come to a halt, stop 
+paradiso: 1. paradise 
+paragraf: 1. paragraph 
+paralisá: 1. paralyse 
+paralèl: 1. parallel 
+paraplü: 1. umbrella 
+parashüt: 1. parachute 
+parasit: 1. parasite | 2. parasite | 3. cadger, parasite, sponger 
+parce: 1. appear, appear to be, seem 
+parenshi: 1. patience 
+pareu: 1. equal, even, level 
+pariba: 1. east, East 
+park: 1. park 
+parker: 1. park 
+parki: 1. park 
+parlamentario: 1. member of parliament 
+parlamento: 1. parliament 
+parokia: 1. parish 
+parse: 1. be similar, resemble 
+parsialmente: 1. partially, partly 
+partera: 1. midwife, obstetrician 
+parti: 1. part, piece, share 
+partida: 1. faction, party, side 
+partido: 1. faction, party, side 
+partisipá: 1. participate, share, take part 
+pas: 1. peace 
+pasahero: 1. passenger 
+pashon: 1. lust, passion 
+pashonal: 1. passionate 
+pashènt: 1. patient 
+pasifista: 1. pacifist 
+paso: 1. pace, step, stride 
+pasobra: 1. as, because, for, since 
+pasport: 1. passport 
+pasó: 1. as, because, for, since 
+pata: 1. hoof | 2. claw 
+patia: 1. water-melon | 2. water-melon 
+patin: 1. penis 
+pato: 1. duck 
+patras: 1. behind 
+patras di: 1. behind, after 
+patria: 1. fatherland 
+patruya: 1. patrol 
+patruyá: 1. patrol 
+patu: 1. duck 
+payaso: 1. clown 
+pa esei: 1. on that account, therefore 
+pa medio di: 1. by, by means of, on, through, with 
+paña: 1. clothes, clothing 
+pechu: 1. bosom, breast, chest 
+pedal: 1. pedal 
+pedido: 1. order 
+pela: 1. shell, peel 
+pelea: 1. action, battle, scuffle, struggle 
+peleya: 1. action, battle, scuffle, struggle 
+peliger: 1. danger, peril 
+peligro: 1. danger, peril 
+peligroso: 1. dangerous 
+pelikan: 1. pelican 
+peluka: 1. hairpiece, wig 
+pelíkula: 1. film, motion picture, movie 
+penetrá: 1. penetrate 
+penisilin: 1. penicillin 
+pensa: 1. think 
+pensamento: 1. thought 
+pensamentu: 1. thought 
+península: 1. peninsula 
+peper: 1. pepper 
+per: 1. pear 
+pera: 1. pear 
+perdè: 1. lose 
+perfekto: 1. perfect 
+perfume: 1. perfume 
+perfumá: 1. perfume 
+periodista: 1. journalist | 2. journalist 
+periodo: 1. period 
+perla: 1. pearl 
+permiso: 1. permission 
+permitibel: 1. admissible 
+permití: 1. accord, admit, afford, allow, permit 
+pero: 1. but 
+persekushon: 1. persecution, pursuit 
+persiguí: 1. chase, persecute, prosecute, pursue 
+persistí: 1. abide, persevere, persist 
+persona: 1. person 
+personal: 1. personal 
+perspektiva: 1. perspective 
+peruano: 1. Peruvian | 2. Peruvian 
+pesadía: 1. nightmare 
+pesimismo: 1. pessimism 
+pesimista: 1. pessimist 
+peso: 1. weight 
+pestá: 1. brimming, replete 
+petroleo: 1. paraffin-oil, petroleum 
+peña: 1. comb | 2. comb 
+pia: 1. leg | 2. foot | 3. foot 
+pianista: 1. pianist 
+piano: 1. piano 
+pidi: 1. ask 
+pidjama: 1. pyjamas 
+pieda: 1. stone 
+piedat: 1. compassion, pity | 2. absolution, pardon 
+piedra: 1. stone 
+piesa: 1. piece of music 
+pieu: 1. louse 
+piknik: 1. picnic 
+piká: 1. sin, transgression 
+pikòp: 1. phonograph, record-player 
+pila: 1. font, baptismal font 
+pilder: 1. pill 
+pildo: 1. pill 
+pilot: 1. pilot 
+pinta: 1. design, draw 
+pintor: 1. painter 
+pionero: 1. pioneer 
+pipa: 1. pipe | 2. barrel, channel, pipe, tube 
+piramida: 1. pyramid 
+pirata: 1. pirate 
+pishi: 1. urinate 
+piska: 1. fish 
+piskadó: 1. fisherman 
+piskalat: 1. jail, gaol, prison | 2. jail, gaol, prison | 3. jail, gaol, prison 
+piská: 1. fish 
+piso: 1. floor, storey, story 
+pisá: 1. burdensome, heavy, onerous 
+plafon: 1. ceiling 
+plaka: 1. money 
+planchi: 1. plant 
+planeta: 1. planet 
+planta: 1. plant 
+plasa: 1. market, marketplace 
+plata: 1. silver 
+platina: 1. platinum 
+platé: 1. goldsmith 
+playa: 1. beach | 2. city, town 
+pleita: 1. quarrel, wrangle 
+pleito: 1. quarrel 
+pleitu: 1. quarrel 
+plug: 1. plough 
+pober: 1. beggar | 2. miserable, poor | 3. poor 
+pobresa: 1. poverty 
+poder: 1. power | 2. ability 
+poderoso: 1. powerful 
+podisé: 1. maybe, mayhap, perchance, perhaps, possibly 
+podium: 1. platform, podium 
+poesia: 1. poem 
+poeta: 1. poet 
+poko: 1. a little, rather 
+polako: 1. Polish | 2. Pole 
+polis: 1. policeman 
+polítika: 1. policy, politics 
+polítiko: 1. politician 
+pone: 1. lay down, place, put, put down 
+popular: 1. popular 
+populashon: 1. population 
+por: 1. be able to 
+pordon: 1. absolution, pardon 
+pordoná: 1. forgive, pardon 
+porfin: 1. at last, at long last 
+porko: 1. hog, pig, swine 
+porta: 1. gate, gateway, portal | 2. door 
+portrèt: 1. portrait 
+portugues: 1. Portuguese | 2. Portuguese 
+porvenir: 1. future 
+por ehempel: 1. for example, for instance 
+por lo menos: 1. at least 
+poseé: 1. own, possess 
+posibel: 1. possible 
+posibilidat: 1. possibility 
+posishon: 1. position 
+positivo: 1. positive 
+potensia: 1. power 
+potente: 1. powerful 
+potrèt: 1. portrait 
+praktiká: 1. exert, practice 
+preba: 1. prove | 2. proof, sign, token 
+precipicio: 1. abyss, chasm, gulf, precipice 
+predikant: 1. preacher 
+predikashi: 1. sermon 
+prediká: 1. preach 
+preferá: 1. prefer 
+prefiho: 1. prefix 
+pregunta: 1. question 
+prehuisio: 1. prejudice 
+preimu: 1. plum 
+preis: 1. price 
+premio: 1. premium, prize 
+prensès: 1. princess 
+preparashon: 1. preparation | 2. preparation 
+prepará: 1. prepare 
+preposishon: 1. preposition 
+presensia: 1. presence 
+presensiá: 1. attend, be present, witness 
+presentashon: 1. presentation | 2. presentation 
+presente: 1. present 
+presentimentu: 1. presentiment 
+presidente: 1. chairman, president 
+presidiá: 1. preside 
+presis: 1. accurate, precise 
+presishon: 1. accuracy, exactness, precision 
+preteksto: 1. pretext 
+preto: 1. black 
+pretu: 1. black 
+prevení: 1. prevent 
+prima: 1. cousin 
+primi: 1. press, oppress, squeeze 
+primintí: 1. promise 
+primitivo: 1. primitive 
+primu: 1. cousin 
+prinsesa: 1. princess 
+prinsipio: 1. principle 
+prison: 1. jail, gaol, prison | 2. jail, gaol, prison | 3. jail, gaol, prison 
+privilegio: 1. privilege 
+privá: 1. private 
+prizon: 1. jail, gaol, prison | 2. jail, gaol, prison | 3. jail, gaol, prison 
+prizòn: 1. jail, gaol, prison | 2. jail, gaol, prison | 3. jail, gaol, prison 
+priña: 1. conceive 
+proba: 1. prove | 2. proof, sign, token 
+probablemente: 1. probably 
+probechá: 1. avail 
+problema: 1. problem, trouble 
+produkshon: 1. production 
+produkto: 1. product 
+produsí: 1. afford, bear, produce 
+profeshon: 1. profession 
+profesor: 1. professor 
+profeta: 1. prophet 
+profundidat: 1. depth 
+profundo: 1. deep, profound 
+programá: 1. programme 
+progreso: 1. advance, advancement, progress 
+progresá: 1. advance, progress 
+prohibí: 1. forbid, prohibit 
+proklamashon: 1. proclamation | 2. proclamation 
+proklamá: 1. issue, proclaim 
+prolongá: 1. lengthen 
+promenton: 1. paprika 
+promer cu: 1. before, previous to 
+promesa: 1. affirmation, promise 
+promèntè: 1. chilli 
+promèntòn: 1. paprika 
+pronto: 1. soon 
+pronunshashon: 1. pronunciation 
+pronunshá: 1. pronounce | 2. pronounce 
+pronunsiashon: 1. pronunciation 
+pronunsiá: 1. pronounce | 2. pronounce 
+propaganda: 1. propaganda, publicity 
+propagá: 1. advertise, publicize 
+propiedat: 1. possession, property 
+propio: 1. own, personal 
+proprietario: 1. owner 
+prosedensia: 1. lineage | 2. origin 
+prosedimento: 1. procedure, process 
+proseso: 1. action, lawsuit 
+prostitushon: 1. prostitution 
+protehá: 1. protect 
+proteina: 1. protein 
+protekshon: 1. protection | 2. protection 
+protesta: 1. protest 
+protestant: 1. Protestant 
+protestá: 1. protest 
+protokòl: 1. minutes, protocol 
+proverbio: 1. adage, proverb 
+provinsia: 1. province 
+proyekto: 1. plan, project, scheme 
+proyektá: 1. project 
+proyèktòr: 1. projector 
+prueba: 1. proof, sign, token 
+pruga: 1. flea 
+práctica: 1. practice 
+práktiko: 1. practical 
+prólogo: 1. prologue 
+prèkè: 1. safety-pin, safety pin 
+prèt: 1. fun, pleasure 
+prùim: 1. plum 
+prùlebak: 1. paper-basket 
+psalm: 1. psalm 
+publikashon: 1. proclamation, publication 
+publiká: 1. publish, reveal 
+pudin: 1. pudding 
+pueblo: 1. folk, nation, people | 2. village 
+puesto: 1. function, job, office, post 
+puiro: 1. dust 
+puiru: 1. dust 
+pul: 1. pool, swimming-bath, swimming-pool 
+pulmon: 1. lung 
+pulsera: 1. bracelet | 2. bracelet 
+puluwé: 1. work hard 
+punto: 1. dot, period, point, spot 
+puntra: 1. ask 
+pupu: 1. dung, excrement | 2. defecate 
+puresa: 1. cleanliness, purity 
+purifiká: 1. clean, cleanse, make clean, purge 
+puro: 1. pure 
+puru: 1. pure 
+pus: 1. pus 
+pusha: 1. push, thrust 
+pushi: 1. female cat | 2. cat 
+pushá: 1. push 
+pusta: 1. bet, wager 
+puta: 1. hooker, whore 
+putri: 1. putrefy, rot 
+puítu: 1. chick, chicken 
+puñal: 1. dagger 
+puñá: 1. dagger 
+p'esei: 1. on that account, therefore 
+püs: 1. purple 
+página: 1. page 
+pérdida: 1. loss 
+píldora: 1. pill 
+públikamente: 1. openly 
+públiko: 1. public 
+pèchi: 1. cap 
+pèchèpèchè: 1. mud 
+pòchi: 1. flowerpot | 2. jug, pot | 3. jug, box, container, vessel 
+pòchòpòchò: 1. mud 
+pòlbu: 1. powder 
+pòlesh: 1. polish 
+pòls: 1. pulse 
+pòlshi: 1. polish 
+pòlvo: 1. powder 
+pòmp: 1. pump | 2. pump 
+pòpchi: 1. doll, puppet 
+pòrno: 1. pornography 
+pòrnografia: 1. pornography 
+pòrtebel: 1. portable 
+pòst: 1. mail, post 
+pòsterei: 1. postman 
+pòstkantor: 1. post office 
+pòstkart: 1. postcard 
+pòtlot: 1. pencil 
+pòtmòni: 1. purse, wallet 
+pòwis: 1. peacock 
+pùzel: 1. enigma, puzzle, riddle 
+rabia: 1. angry, cross | 2. get angry 
+rabiá: 1. furious 
+rabo: 1. tail | 2. tail 
+rabu: 1. tail | 2. tail 
+radikal: 1. radical 
+radio: 1. radio, wireless 
+rafiná: 1. refine 
+rais: 1. root 
+raka: 1. catch, hit, run across, strike 
+rama: 1. twig | 2. bough, branch 
+rant: 1. border, brim, brink, edge, edging, fringe, rim 
+rasa: 1. breed, keep, raise, rear | 2. breed, race 
+raso: 1. furious 
+rason: 1. right, true 
+rasu: 1. furious 
+raton: 1. mouse 
+raton di anochi: 1. bat 
+rayo: 1. beam, ray 
+reakshon: 1. reaction 
+reakshoná: 1. react, respond 
+real: 1. regal, royal 
+realisabel: 1. achievable 
+realista: 1. realist 
+realisá: 1. produce 
+realitad: 1. actuality 
+realmente: 1. genuinely, indeed, really, truly 
+rebaha: 1. abatement, discount, rebate 
+rebelde: 1. rebel 
+rebelion: 1. mutiny, rebellion, revolt 
+recibu: 1. receipt | 2. acknowledgement, receipt 
+redupliká: 1. double 
+reeligí: 1. re-elect 
+ref: 1. bank, sandbank 
+reformá: 1. reform 
+regaldo: 1. gift, present 
+regester: 1. account book, record, register 
+registrá: 1. record, register 
+regla: 1. regulation, rule 
+regreso: 1. return 
+regresá: 1. come back, return 
+regular: 1. even, regular 
+regularmente: 1. regularly 
+rei: 1. guess | 2. king 
+reibewijs: 1. driving-licence 
+reim: 1. rhyme 
+reina: 1. control, govern, restrain, rule | 2. queen 
+reino: 1. kingdom 
+rek: 1. calculate, count, figure, work out 
+rekomendashon: 1. recommendation 
+rekomendá: 1. commend, recommend 
+rekompensa: 1. compensation, reward 
+rekompensá: 1. compensate, reward 
+rekonkistá: 1. recapture 
+rekonosibel: 1. recognizable 
+rekonosé: 1. acknowledge, admit, confess, profess 
+rekordá: 1. recall, recollect, remember 
+relativo: 1. relative 
+religion: 1. religion 
+religioso: 1. pious | 2. religious 
+rema: 1. row 
+rematismo: 1. rheumatism 
+remedi: 1. drug, medicine, pharmaceutical 
+remplasá: 1. replace, substitute 
+renchi: 1. ring 
+renchi di horeya: 1. earring 
+renchi di orea: 1. earring 
+renchi di oreya: 1. earring 
+representante: 1. agent, representative 
+representá: 1. act for, represent 
+reproche: 1. reproach 
+reprochá: 1. blame, rebuke, reproach, reprove, scold 
+reprodukshon: 1. reproduction 
+republikano: 1. republican 
+repúblika: 1. republic 
+resa: 1. pray 
+resistí: 1. resist, withstand 
+respaldá: 1. lean, support, sustain 
+respetá: 1. respect 
+responsabel: 1. accountable, responsible 
+resta: 1. be kept in, be detained, remain, stay on 
+resto: 1. remainder, rest 
+restorant: 1. restaurant 
+restu: 1. remainder, rest 
+resultado: 1. result 
+resumí: 1. abstract, summarize 
+resúmen: 1. abridgement, abstract, resumé, summery 
+revancha: 1. revenge, vengeance 
+revista: 1. periodical | 2. magazine, periodical, revue 
+revolushon: 1. revolution 
+revòlver: 1. revolver 
+riba: 1. on, upon 
+ridíkulo: 1. ridiculous 
+rikesa: 1. abundance, affluence, wealth 
+riko: 1. affluent, rich, wealthy, well-off 
+riku: 1. affluent, rich, wealthy, well-off 
+rim: 1. wheel 
+riol: 1. sewer 
+riparabel: 1. noteworthy, remarkable 
+ripará: 1. notice 
+ripití: 1. repeat | 2. repeat 
+risinbèn: 1. centipede 
+risistí: 1. resist, withstand 
+riska: 1. hazard, risk, venture 
+rista: 1. look for, seek 
+ritmo: 1. rhythm 
+riu: 1. river 
+rival: 1. rival 
+riñon: 1. kidney 
+roba: 1. plunder, rob | 2. steal 
+robes: 1. left | 2. on the left 
+robo: 1. abstraction, theft 
+roga: 1. beseech 
+roi: 1. stream 
+romántiko: 1. romantic 
+rondó: 1. round 
+ronka: 1. snore 
+ros: 1. pink 
+rosa: 1. rose 
+rosea: 1. breath 
+roseya: 1. breath 
+rospondi: 1. answer, reply 
+rospondé: 1. answer, reply, respond 
+rosti: 1. roast, toast 
+rosto: 1. roast, toast 
+roza: 1. rose 
+rubiano: 1. Aruban | 2. Aruban 
+rubí: 1. ruby 
+rudia: 1. knee 
+ruina: 1. ruin 
+ruiná: 1. ruin 
+ruman: 1. sister | 2. brother | 3. sibling | 4. parent 
+rumano: 1. Romanian, Rumanian 
+ruman hòmber: 1. brother 
+ruman mohé: 1. sister 
+ruman muhé: 1. sister 
+rumbo: 1. direction 
+rumor: 1. rumor, rumour 
+rushi: 1. make up 
+ruso: 1. Russian | 2. Russian 
+rutina: 1. routine 
+rápidamente: 1. fast, quickly, swiftly 
+rápido: 1. fast, quick, rapid, speedy, swift 
+rísiko: 1. hazard, risk 
+rítmiko: 1. rhythmic 
+rúbro: 1. column, header 
+rèktòr: 1. rector 
+rèm: 1. brake | 2. brake 
+rèspèt: 1. respect 
+ròl: 1. part, role, rôle | 2. roll 
+ròm: 1. rum 
+rònt: 1. round 
+rùber: 1. rubber 
+sa: 1. know, know how 
+sabi: 1. know, know how 
+sabor: 1. aroma, flavour | 2. taste 
+sacu: 1. pocket 
+sadismo: 1. sadism 
+sadista: 1. sadist 
+sagrado: 1. holy, sacred 
+saka: 1. throw up, vomit 
+saksofon: 1. saxophone 
+sal: 1. lounge, parlour, salon, sitting-room 
+sala: 1. salt | 2. lounge, parlour, salon, sitting-room 
+salada: 1. lettuce | 2. salad 
+salario: 1. salary, wage, wages 
+salba: 1. keep, save, rescue 
+salga: 1. salt 
+sali: 1. absent onself, depart, go away, leave 
+salida: 1. exit, way out 
+salmou: 1. salmon 
+salo: 1. salt 
+salta: 1. jump, leap, spring 
+salu: 1. salty | 2. salt 
+saludabel: 1. healthy, well 
+saludo: 1. greeting 
+saludá: 1. greet, salute 
+salú: 1. healthy, well | 2. health 
+sambuyá: 1. dive, plunge 
+sambèchi: 1. pen-knife 
+sandalia: 1. sandal 
+sanger: 1. blood 
+sangra: 1. bleed 
+sangro: 1. blood 
+santana: 1. cemetery, God's acre, graveyard 
+santo: 1. sand | 2. holy, sacred 
+santu: 1. sand | 2. holy, sacred 
+sapato: 1. shoe 
+sapatu: 1. shoe 
+sapaté: 1. shoemaker 
+sarbètè: 1. towel 
+sarkasmo: 1. acidness, sarcasm 
+sastre: 1. tailor 
+satanas: 1. devil 
+satelit: 1. satellite 
+saya: 1. skirt 
+scucha: 1. listen 
+sebu: 1. fat, grease 
+sede: 1. thirst 
+sedu: 1. thirst 
+sefta: 1. sift | 2. sieve 
+seftu: 1. sieve 
+seguridat: 1. safety, security 
+seha: 1. brow, eyebrow 
+seis: 1. six 
+seka: 1. dry | 2. dry 
+sekat: 1. sepia 
+seko: 1. dry 
+sekretaria: 1. secretary 
+sekretario: 1. secretary 
+sekreto: 1. secret | 2. secret 
+sekretu: 1. secret | 2. secret 
+seksual: 1. generative, sexual 
+seku: 1. dry 
+sekuestrá: 1. abduct 
+sekura: 1. dryness 
+selebrashon: 1. celebration 
+selebre: 1. brain 
+selebro: 1. brain 
+selebrá: 1. celebrate 
+sembra: 1. sow 
+semper: 1. always, ever 
+semènt: 1. cement 
+sentebibu: 1. aloe 
+sentensha: 1. adjudication, verdict 
+sentenshá: 1. adjudicate 
+sentensia: 1. adjudication, verdict 
+sentensiá: 1. adjudicate 
+sentido: 1. sentence | 2. meaning 
+sentimento: 1. feel, feeling, sensation 
+sentimentu: 1. feel, feeling, sensation 
+sentral: 1. central 
+separá: 1. divide, separate 
+serbes: 1. ale, beer 
+seremonia: 1. ceremony 
+serenata: 1. serenade 
+seri: 1. series, set 
+serio: 1. earnest, serious, staid 
+serkel: 1. circle 
+sero: 1. hill | 2. mountain | 3. nought, zero 
+seru: 1. hill | 2. mountain 
+servisio: 1. crockery set 
+sesenta: 1. sixty 
+set: 1. thirst 
+setenta: 1. seventy 
+severidat: 1. severity, rigour, sterness 
+seña: 1. mark, sign, signal, token | 2. character, mark, sign, signal, token 
+señal: 1. mark, sign, signal, token | 2. character, mark, sign, signal, token 
+señor: 1. gentleman, lord | 2. Mister, Mr., sir 
+señora: 1. lady | 2. madam, Mrs. 
+señorita: 1. Miss | 2. virgin 
+shal: 1. shawl 
+shampaña: 1. champagne | 2. champagne 
+shampu: 1. shampoo 
+shap: 1. bar, pub 
+shelo: 1. heaven, sky 
+shelu: 1. heaven, sky 
+shen: 1. hundred, one hundred 
+shen mil: 1. hundred thousand 
+sher: 1. share 
+shete: 1. seven 
+shimis: 1. dress, gown, robe 
+shimí: 1. dress, gown, robe 
+shinishero: 1. ashtray 
+shinishi: 1. ash, cinder | 2. grey 
+shirishiri: 1. intestines 
+si: 1. if, provided that 
+sigui: 1. follow 
+sigur: 1. certain, sure 
+sigurá: 1. affirm, assure 
+sin: 1. without 
+sinku: 1. five 
+sinti: 1. feel, sense 
+sirbi: 1. serve 
+situacion: 1. circumstances, condition, situation 
+skina: 1. angle | 2. corner 
+skirbi: 1. write 
+sklama: 1. evoke 
+skohe: 1. choose, elect, pick out 
+skol: 1. school 
+skopèt: 1. gun, rifle 
+skotter: 1. saucer 
+skouder: 1. shoulder 
+skref: 1. exercise-book, folder, notebook 
+skreft: 1. exercise-book, folder, notebook 
+skruf: 1. screw 
+skrufdrai: 1. screwdriver 
+skual: 1. storm 
+skuma: 1. foam, froth | 2. foam, froth 
+skur: 1. dark, dim 
+skuri: 1. sift 
+skuridat: 1. darkness, murk 
+skòrpion: 1. scorpion 
+slakter: 1. butcher 
+slòf: 1. slipper 
+sneu: 1. snow 
+so: 1. alone, only, sole, solitary 
+sobako: 1. armpit 
+sociedad: 1. society 
+sodó: 1. perspiration, sweat 
+sofa: 1. sofa 
+sokete: 1. addled, foolish, stupid | 2. fool 
+solamente: 1. exclusively, just, only 
+solicitá: 1. run for election 
+solo: 1. sun 
+soltera: 1. unmarried woman, spinster 
+soltero: 1. bachelor 
+solushon: 1. solution 
+sombré: 1. hat 
+somentá: 1. disappear 
+sonreí: 1. smile 
+sonrisa: 1. smile 
+soportá: 1. endure, put up with, tolerate 
+sordo: 1. deaf 
+sorprendé: 1. surprise 
+sorpresa: 1. surprise 
+sorpresá: 1. surprise 
+sorto: 1. kind, sort 
+soshal: 1. social | 2. social 
+soshalismo: 1. socialism 
+soshalista: 1. socialist 
+sosial: 1. social | 2. social 
+sosialismo: 1. socialism 
+sosialisto: 1. socialist 
+sosio: 1. friend 
+sosiologia: 1. sociology 
+sosiólogo: 1. sociologist 
+sosodé: 1. come about, happen, occur 
+sospecho: 1. suspicion 
+sospechá: 1. suspect 
+sostené: 1. lean, support, sustain 
+souchi: 1. swallow 
+sous: 1. gravy, sauce 
+so long: 1. adieu, farewell, bye, goodbye 
+soña: 1. dream 
+soño: 1. dream 
+sparplùk: 1. plug, spark plug 
+spañó: 1. Spanish | 2. Spanish, Spanish language | 3. Spaniard 
+spenderá: 1. spiderweb 
+spera: 1. abide, expect, wait, await, wait for | 2. hope 
+speransa: 1. hope 
+speshal: 1. particular, special 
+speshi: 1. sperm 
+spesial: 1. particular, special 
+spesífiko: 1. specific 
+spierta: 1. arouse, wake, awaken, wake up | 2. wake, wake up 
+spil: 1. looking-glass, mirror 
+spinazi: 1. spinach 
+spion: 1. spy 
+spioná: 1. spy 
+spiral: 1. spiral 
+spirito: 1. ghost, phantom 
+spiritu: 1. ghost, phantom | 2. spirit 
+spiña: 1. thorn 
+sprin: 1. spring 
+stabil: 1. stable 
+stal: 1. bench, easel, tressle, workbench | 2. steel 
+stampia: 1. stamp, postage stamp 
+stashon: 1. stage, station, stop 
+stashoná: 1. park 
+stat: 1. city, town 
+statistik: 1. statistics 
+steif: 1. rigid, stiff 
+stenografia: 1. shorthand, stenography 
+steril: 1. sterile 
+sterki: 1. strong 
+stet: 1. lean, support, sustain 
+stimashon: 1. affection, love 
+stimulá: 1. rouse, stimulate, stir up 
+stimá: 1. dear, lovely 
+stiwardès: 1. air hostess, stewardess 
+stoma: 1. stomach 
+stot: 1. push, thrust | 2. push 
+strabagante: 1. odd, peculiar, strange 
+straik: 1. strike | 2. strike 
+stranhero: 1. foreigner 
+strañero: 1. foreigner | 2. foreigner, stranger 
+straño: 1. odd, peculiar, strange 
+strañu: 1. alien, foreign, strange 
+strea: 1. star 
+strepi: 1. ray, strip, stripe 
+streya: 1. star 
+strika: 1. iron, iron clothes 
+stropi: 1. syrup 
+struktura: 1. structure 
+studia: 1. study 
+studiante: 1. student, female student | 2. academic, student 
+stul: 1. chair 
+stupi: 1. pavement, sidewalk 
+stür: 1. direct, guide, manage, steer | 2. handlebars, helm, rudder 
+stòfzùiger: 1. vacuum cleaner, vacuum-cleaner 
+stòk: 1. stock 
+stòmpi: 1. blunt 
+stòp: 1. halt, stop 
+su: 1. his | 2. her, his, its, their | 3. its | 4. her 
+sua: 1. brother-in-law 
+suabe: 1. soft 
+suafel: 1. match 
+suaflo: 1. match 
+suak: 1. faint, light, weak 
+subi: 1. lever, lift, raise | 2. ascend, climb, go up 
+subrina: 1. niece 
+subrino: 1. nephew 
+substituí: 1. replace, substitute 
+suegra: 1. mother-in-law 
+suegro: 1. father-in-law 
+suegronan: 1. parents-in-law 
+suegru: 1. father-in-law 
+suegrunan: 1. parents-in-law 
+suela: 1. floor 
+sueldo: 1. salary, wage, wages 
+sueltu: 1. happiness 
+suertè: 1. happiness 
+sufiho: 1. extension, suffix 
+sufisiente: 1. enough, sufficient 
+sufri: 1. abide, bear, endure, put up with, suffer 
+suiso: 1. Swiss | 2. Swiss 
+suku: 1. sugar 
+sumpiña: 1. thorn 
+sunchi: 1. kiss | 2. kiss 
+sunú: 1. bare, naked, nude 
+superficie: 1. surface 
+supersticioso: 1. superstitious 
+superstishon: 1. superstition 
+superá: 1. exceed, surpass 
+supla: 1. blow 
+suplicá: 1. ask, ask for, beg, bid, request 
+sur: 1. south 
+susha: 1. soil 
+sushi: 1. dirty, filthy, nasty, soiled, unclean 
+sustantivo: 1. noun, substantive 
+sürnam: 1. Surinamese 
+sí: 1. yes 
+sèks: 1. sex 
+sèl: 1. cell 
+sèlder: 1. celery 
+sèldu: 1. celery 
+sèmper: 1. always, ever 
+sèn: 1. cent | 2. money 
+sèntimeter: 1. centimetre 
+sèntimetro: 1. centimetre 
+sèntuich: 1. sandwich 
+sèptèmber: 1. September 
+sòldá: 1. pawn, soldier 
+sòpi: 1. soup 
+sòru: 1. care, see, take care, worry 
+sùr: 1. nun 
+sùrprais: 1. surprise | 2. surprise 
+ta: 1. be | 2. be 
+tabako: 1. tobacco 
+tabaku: 1. tobacco 
+tabèl: 1. index, table, tablet, tabulation 
+taha: 1. forbid, prohibit 
+taip: 1. type 
+taipraiter: 1. typewriter 
+taira: 1. foreign country 
+takon: 1. baton, cane, stick 
+taksa: 1. appraise, estimate, rate 
+taksador: 1. appraiser 
+taksatùr: 1. appraiser 
+takser: 1. appraise, estimate, rate 
+takòn: 1. baton, cane, stick 
+talbes: 1. maybe, mayhap, perchance, perhaps, possibly 
+talento: 1. aptitude, disposition, talent | 2. aptitude, disposition, talent 
+tamaño: 1. bulk, dimension, extend, size 
+tambe: 1. also, likewise, too 
+tambora: 1. drum 
+tambú: 1. drum 
+tambòr: 1. drum 
+tango: 1. tango 
+tanta: 1. aunt 
+tanten: 1. adieu, farewell, bye, goodbye 
+tapeit: 1. carpet 
+tata: 1. father 
+tawela: 1. grandfather 
+taxi: 1. taxi 
+taya: 1. waist, waistline 
+tayó: 1. plate 
+te: 1. until, till 
+teater: 1. theatre 
+tefi: 1. sieve 
+tek: 1. design, draw 
+teknologia: 1. technology 
+teksto: 1. lyric, text 
+tela: 1. fabric, textile 
+telefon: 1. telephone 
+telefòn: 1. telephone 
+telegram: 1. telegram 
+teleram: 1. abacus, ball-frame, counting-frame 
+teleskop: 1. telescope 
+televishon: 1. television, TV 
+temblor: 1. earthquake 
+temperatura: 1. temperature 
+tempo: 1. time, while 
+temporada: 1. season 
+temporal: 1. provisional, temporary 
+temporalmente: 1. for the time being, temporarily 
+tempran: 1. early 
+tempu: 1. time, while | 2. weather 
+tempu di awaceru: 1. rainy season 
+tempu di friu: 1. winter 
+tende: 1. hear 
+tene: 1. hang onto, hold 
+teologia: 1. theology 
+teorétiko: 1. abstract 
+tera: 1. earth, land, soil 
+terapia: 1. therapy 
+tereno: 1. ground, grounds, terrain 
+teribel: 1. abysmal, dreadful, gruesome, horrible, terrible 
+teritorio: 1. territory 
+terminá: 1. accomodate, end, finish, terminate 
+teror: 1. terror, reign of terror 
+terorismo: 1. terrorism 
+terorista: 1. terrorist 
+tersio: 1. friend 
+tesoro: 1. treasure 
+testigo: 1. witness 
+testigu: 1. witness 
+testiguá: 1. attest, bear witness of, testify 
+tete: 1. udder | 2. breast, teat 
+teólogo: 1. theologian 
+tia: 1. aunt 
+tibia: 1. lukewarm 
+tienda: 1. boutique, shop, store 
+tiger: 1. tiger 
+tigro: 1. tiger 
+tilde: 1. tilde 
+tin: 1. there is, there are | 2. have, have got | 3. own, possess 
+tini: 1. own, possess 
+tin bergwensa: 1. be ashamed 
+tin bia: 1. several times, sometimes 
+tin flakesa: 1. be hungry 
+tipista: 1. typist 
+tipo: 1. type 
+tira: 1. throw 
+titubiá: 1. hesitate 
+tokadisko: 1. phonograph, record-player 
+tokadó: 1. musician 
+tokai: 1. namesake 
+tolerá: 1. endure, put up with, tolerate 
+tomati: 1. tomato 
+tono: 1. tone 
+tonto: 1. cunt, pussy 
+topa: 1. come across, encounter, meet, see 
+toro: 1. bull 
+torpedo: 1. torpedo 
+tortura: 1. torture 
+tosa: 1. cough 
+tost: 1. roast, toast 
+total: 1. overall, total 
+tovenar: 1. enchanter, magician, sorcerer, warlock, wizard 
+tover: 1. bewitch 
+trabou: 1. job, work 
+tradishon: 1. tradition 
+tradishonal: 1. traditional 
+tradukshon: 1. translation 
+tradusí: 1. translate 
+tragedia: 1. tragedy 
+traha: 1. work 
+trahadó: 1. hand, laborer, labourer, operative, worker, working man, workman 
+traidó: 1. treacherous 
+traishon: 1. betrayal, treachery 
+traishoná: 1. betray 
+traktor: 1. tractor 
+trampa: 1. snare, trap 
+trankilo: 1. calm, tranquil 
+transester: 1. transistor 
+transeunte: 1. passer-by 
+transformá: 1. transform 
+transitivo: 1. transitive 
+transparante: 1. transparant 
+transpirashon: 1. perspiration, sweat 
+transpirá: 1. sweat 
+transportadó: 1. carrier, transporter 
+transportá: 1. transport 
+transpòrt: 1. transport 
+trapi: 1. staircase, stairs | 2. ladder 
+tras di: 1. behind, after 
+trata: 1. deal with, handle, treat 
+trein: 1. train | 2. coach, train | 3. train 
+trel: 1. quiver, shiver, tremble 
+tren: 1. coach, train 
+tres: 1. three 
+trese: 1. bring, fetch 
+tribel: 1. triple 
+tribi: 1. be bold, dare 
+tribon: 1. shark 
+tribu: 1. tribe 
+tribuna: 1. rostrum, speaker's platform 
+tribí: 1. proud 
+triki: 1. subterfuge, trick, trickery 
+trinta: 1. thirty 
+tripa: 1. intestines 
+tripulashon: 1. crew 
+tripulá: 1. man 
+tristu: 1. bleak, dismal, dreary, gaunt, miserable, sad, somber | 2. dismal, gaunt, miserable, sad | 3. dismal, dreary, sad 
+triángulo: 1. triangle 
+trobe: 1. afresh, again, all over again, anew | 2. afresh, again, once more 
+trompet: 1. trumpet 
+trono: 1. throne 
+tropa: 1. troop, troupe 
+tropikal: 1. tropical 
+tráfiko: 1. traffic 
+trágiko: 1. tragic 
+trópiko: 1. tropical 
+trèk: 1. drag, draw, haul, pull, tug 
+trèm: 1. streetcar, tram 
+tròbel: 1. quarrel 
+tròtuar: 1. pavement, sidewalk 
+tuma un bañu: 1. bathe 
+tunafesh: 1. tuna, tuna-fish, tunny 
+tur: 1. entire, overall, whole 
+turismo: 1. tourism 
+turista: 1. tourist 
+turko: 1. Turkish | 2. Turk 
+turno: 1. file, line, rank, row, turn 
+tur camina: 1. all about, everywhere 
+tutpek: 1. toothpick 
+táktika: 1. tactic, tactics 
+téknika: 1. technics, technique 
+término: 1. term 
+tífes: 1. typhus 
+tíket: 1. bill, ticket, note 
+tío: 1. uncle 
+típiko: 1. typical 
+tíshert: 1. T-shirt 
+título: 1. degree, heading, title 
+tèlram: 1. abacus, ball-frame, counting-frame 
+tèmpel: 1. temple 
+tènes: 1. tennis 
+tènt: 1. tent 
+tèrt: 1. pie, tart 
+tèstamènt: 1. testament, will 
+tòr: 1. beetle | 2. beetle 
+tùnel: 1. tunnel 
+ulandes: 1. Dutch | 2. Dutch 
+ultimatum: 1. ultimatum 
+umbes: 1. at once, immediately, just, right away, right now 
+umbé: 1. at once, immediately, just, right away, right now 
+un: 1. one 
+unda: 1. where 
+unidat: 1. unity 
+unifòrm: 1. uniform 
+union: 1. union 
+universo: 1. universe 
+univèrsal: 1. general, universal, worldwide 
+univèrsidat: 1. university 
+univèrsitario: 1. academic 
+un cos: 1. anything, something 
+un hende: 1. a, any, anybody, some, somebody, one, someone, some one 
+usa: 1. employ, use, make use of 
+usabel: 1. of use, suitable 
+uso: 1. use 
+uster: 1. oyster 
+usual: 1. accustomed, customary, used to, usual, wonted 
+utilidat: 1. advantage, benefit 
+uza: 1. employ, use, make use of 
+uzo: 1. use 
+uña: 1. nail 
+vak: 1. branch, compartment, department, pigeonhole, section, speciality 
+vakashon: 1. vacation | 2. spare time, time off, vacation 
+vampir: 1. vampire 
+vania: 1. vanilla 
+vas: 1. vase, vessel 
+vaselin: 1. vaseline 
+vehíkulo: 1. vehicle 
+veila: 1. file 
+veilo: 1. file 
+veilu: 1. file | 2. file 
+veneno: 1. poison 
+venenoso: 1. poisonous 
+venenu: 1. poison 
+venená: 1. poison 
+venga: 1. avenge, avenge oneself 
+vense: 1. defeat, win over 
+veranda: 1. porch, veranda 
+verbo: 1. verb 
+verkout: 1. cold | 2. cold 
+vermut: 1. vermouth 
+vernis: 1. varnish 
+vertikal: 1. vertical 
+veter: 1. shoe-lace 
+veterano: 1. veteran 
+vibora: 1. adder, viper 
+vibra: 1. vibrate 
+vigiladó: 1. guard 
+vigilá: 1. guard, keep, look after, watch over 
+viktoria: 1. victory 
+vila: 1. villa 
+virhuk: 1. quadrangle 
+virus: 1. virus 
+visa: 1. visa, visé 
+visibel: 1. visible 
+vitamina: 1. vitamin 
+vlam: 1. flame 
+vluipapir: 1. blotter, blotting paper 
+vlèkt: 1. braid, plait, twine, wreathe 
+vlèktu: 1. braid, plait, twine, wreathe 
+vokal: 1. vowel 
+volkan: 1. volcano 
+volt: 1. Volt 
+volüm: 1. volume | 2. volume 
+vos: 1. voice 
+vota: 1. vote 
+voto: 1. voice 
+vringud: 1. thimble 
+vruminga: 1. ant, emmet 
+vrumun: 1. midwife, obstetrician 
+vágina: 1. vagina 
+víktima: 1. victim 
+vírgen: 1. virgin 
+vèn: 1. electric fan, ventilator 
+vèntil: 1. tube, valve 
+vèt: 1. fat, fatty, greasy | 2. fat, grease 
+waf: 1. platform, quay, wharf 
+wal: 1. veil 
+wante: 1. glove, mitten 
+wapu: 1. brave, courageous, valiant 
+warda: 1. abide, expect, wait, await, wait for 
+wardadó: 1. guard 
+wardadór: 1. guard 
+was: 1. wax 
+watt: 1. watt 
+waya: 1. wire 
+webo: 1. egg 
+webu: 1. egg 
+wega: 1. game 
+weiter: 1. waiter 
+wela: 1. grandmother 
+wela grandi: 1. great-grandmother 
+welga: 1. strike | 2. strike 
+weso: 1. bone 
+wesu: 1. bone 
+weter: 1. waiter 
+wikènt: 1. week-end 
+wil: 1. wheel 
+wiski: 1. whisky, whiskey 
+wowo: 1. eye 
+wustein: 1. desert 
+wérfano: 1. orphan 
+wèker: 1. alarm, alarmclock 
+wèlga: 1. strike | 2. strike 
+wòchmèn: 1. guard 
+wòlf: 1. wolf 
+wòrs: 1. sausage 
+wòrst: 1. sausage 
+ya: 1. already, by now, yet 
+yabi: 1. key, wrench 
+yag: 1. chase, hunt 
+yagdó: 1. hunter 
+yalurs: 1. jealous 
+yalus: 1. jealous 
+yama: 1. be called | 2. call, summon 
+yanefer: 1. gin 
+yanuari: 1. January 
+yanüari: 1. January 
+yas: 1. coat, overcoat 
+yate: 1. yacht 
+yefrou: 1. Miss 
+yegada: 1. arrival 
+yen: 1. complete, full 
+yena: 1. fill, fill in, fill up 
+yerba: 1. grass 
+yerbè: 1. grass 
+yiu: 1. child, offspring, young | 2. bairn, child, infant | 3. child 
+yiu homber: 1. son 
+yiu mohé: 1. daughter 
+yiu muhé: 1. daughter 
+yobe: 1. rain 
+yodi: 1. iodine 
+yoga: 1. yoga 
+yora: 1. cry, weep 
+yu: 1. bairn, child, infant | 2. child 
+yuana: 1. iguana 
+yuda: 1. abet, aid, assist, help | 2. accomodate, aid, assist, help 
+yudadó: 1. aid, assistant, helper | 2. aid, assistent, helper 
+yugo: 1. yoke 
+yute: 1. jute 
+yüli: 1. July 
+yüni: 1. June 
+yòn: 1. young 
+za: 1. saw | 2. saw 
+zag: 1. saw | 2. saw 
+zebra: 1. zebra 
+zeilo: 1. sail 
+zeilu: 1. sail 
+zeta: 1. oil | 2. paraffin-oil, petroleum 
+zim: 1. zinc 
+zin: 1. sentence 
+zink: 1. sink 
+zip: 1. zipper 
+ziper: 1. zipper 
+zjampaña: 1. champagne 
+zjampo: 1. shampoo 
+zjenever: 1. gin 
+zjiraf: 1. giraffe 
+zodiak: 1. zodiac 
+zolder: 1. attic 
+zona: 1. sound | 2. zone 
+zonido: 1. sound 
+zonidu: 1. sound 
+zoologia: 1. zoology 
+zoya: 1. balance, poise 
+zuid: 1. south 
+zuip: 1. whip | 2. whip 
+zumbi: 1. ghost, phantom 
+zuèmbruk: 1. swimming trunks 
+zuèmpul: 1. pool, swimming-bath, swimming-pool 
+zürstòf: 1. oxygen 
+zòneblum: 1. sunflower 
+águila: 1. eagle 
+álgebra: 1. algebra 
+álue: 1. aloe 
+ánimo: 1. activity, gusto, spirit, stir, zest 
+árabe: 1. Arabian, Arabic 
+área: 1. area 
+ásido: 1. acetous, acid, sour, tart | 2. acid 
+époka: 1. age, epoch, era 
+étiko: 1. ethical 
+ídolo: 1. idol 
+íntimo: 1. close, intimate 
+último: 1. last 
+úniko: 1. unique 
+útil: 1. advantageous, useful 
+èksamen: 1. investigation, examination, test 
+èksaminá: 1. examine 
+èksito: 1. achievement, success 
+èkskius: 1. excuse me 
+èkstra: 1. additional, extra 
+èkstraordinariamente: 1. exceedingly, extraordinarily 
+èkstraordinario: 1. extraordinary, formidable 
+èlebog: 1. elbow 
+èmer: 1. bucket, pail 
+ènvelop: 1. envelope 
+èskimo: 1. Eskimo 
+òf: 1. or 
+òktober: 1. October 
+òpera: 1. opera 
+ñetu: 1. grandchild

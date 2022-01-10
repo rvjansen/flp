@@ -1,0 +1,502 @@
+% @version $Id: multi-dictionary-design.tex,v 1.16 2002/09/18 14:06:42 JA2511 Exp $
+\documentclass[jog]{svjour}
+\usepackage{times}
+\usepackage[T1]{fontenc}
+\usepackage[latin1]{inputenc}
+\usepackage{graphics}
+
+\makeatletter
+
+\makeatother
+\begin{document}
+
+\title{A Multilingual Interlinked Dictionary System}
+
+
+\author{René-Vincent Jansen}
+
+
+\institute{\textsc{I-Bizz} IT Services and Consultancy, Amsteldijk 14 boven, Amsterdam.\\Concept}
+
+
+\authorrunning{A Multilingual Interlinked Dictionary System}
+
+
+\date{\today}
+
+\maketitle
+\begin{abstract}
+This document presents the requirements and design of a data model and implementation of an application system for a multilanguage, semantically interlinked dictionary data\-base. It features a ge\-ne\-ric, reusable physical da\-ta\-base structure in highly normalized form, employing surrogate keys for all links and supporting  history through non-destructive modifications. New lexico-semantic relationship types can be added without chan\-ges to the structure, and all lexicographers' sour\-ce information is maintained.\\ Linking (the instantiation of relationships) is possible on all hierarchical levels, e.g. on the lexical entity, lexeme, cognate and concept levels. The application is planned to have a web interface, a feature rich client, and a web service (SOAP) interface, for easy access from remote applications. The main distinguishing feature is a strict separation of the sign (here called \emph{descriptor}) and the (lexical) object.
+\end{abstract}
+
+\section{Requirements}
+
+The requirements for the application and its data model are divided
+into a set of initial requirements and a set of secondary requirements.
+Furthermore, the data model requirements are there to satisfy the functional
+requirements, but are enumerated separately.
+
+
+\subsection{Functional Requirements}
+
+\begin{enumerate}
+\item The system must be able to function as an ordinary dictionary for
+widespread use over the Internet by the general public, as well as
+being a specialist tool for linguistic research purposes and a lexicographers'
+working place.
+\item It will have interlinking between lexical objects based on lexico-semantic relationship types.
+\item It will be an integrated multilingual dictionary from the start. Multilingual
+implies the use of multiple alfabets and character sets. 
+\item It has to support collocations and other constructs in which space
+is sig\-ni\-fi\-cant. This means that the definition of word, \char`\"{}lexical
+object type\char`\"{}, is rather loose. In fact there are no architecturally
+limits to be imposed on the size of lexical objects. 
+\item Interlinking between language elements of languages will be possible on multiple levels,
+with the cognate or meaning level as a major objective, allowing for
+overlap in meaning on the intercultural and language family level,
+but on lower levels as dictated by reality of language use and diverging
+practice. A formal definition of terminology for use in this application
+system of the symbol (descriptor, lexical object, lexeme) and meaning (cognate,
+sense) levels has yet to be established.
+\item The number of attributes/relationship types for objects will not be fixed
+in the logical or physical design of the application, so that they
+can be freely added for specific research purposes, or as additional
+source material becomes available.
+\item The initial language set will be English, Dutch and Papiamento, a Caribbean Creole.
+\end{enumerate}
+Secundary requirements are:
+
+\begin{enumerate}
+\item All source information available on merged-in lexica is to be preserved,
+and the work by individual lexicographers must remain identifiable
+as to enable them to use the tool in the production of new versions
+of their work, either by publishing through it or by unloading their
+work into private data collections for further processing.
+\item The application may be used to support data modelling activities based on
+the fact that when meaning is captured above the lexical level, transformations
+can be employed to produce RDF structured ontologies, relational data
+models employing SQL, and other artefacts that are usable in IT practice, in multiple languages.
+\item The application should enable multiuser maintenance of shared models with different scopes in multiple languages.
+\end{enumerate}
+
+\subsection{Data Model Requirements}
+
+\begin{enumerate}
+\item It must be possible to add relationship types (\emph{predicates}) of any
+degree after the initial launch of the system. This should entail no
+change to the physical model, except possibly the addition of extra
+associative structures to implement predicates with arity n+1, where
+n is the current maximum.
+\item The logical and physical structure should be highly ge\-ne\-ric, to facilitate
+introduction of new types and relationships.
+\item (Single Dimension) Temporal logic must be available for the non-destructive maintenance
+of nearly all relations in the repository. (i.e. not for these temporal
+relationships or attributes themselves).
+\end{enumerate}
+
+\subsection{Technical Requirements}
+
+\begin{enumerate}
+\item The system is to be platform independent from the perspective of the
+consumer of the service; it may require modern versions of platforms
+but should not exclude certain platforms when the use of these is
+widely spread.
+\item The system is to be DBMS-engine independent to a large degree. Initially,
+the data model will be fully relational in the traditional sense.
+For some applications of the Scope and Scheme objects, the use of
+structured domains will be beneficial, but it will probably be converted somewhere
+down the line to an object-relational engine, when there is sufficient vendor independent support for these.
+\item Specially, the storage of the multibyte character sets is to be implemented in
+a totally implementation independent and standardized format.
+\item General performance must be reasonable, but no sacrifices are being
+made to attain speed over flexibility. Clustering indexes must be
+used if available and parallel hardware should be used to speed up
+DBMS actions. One important exception is perceived performance for
+the general public and lexicographers: the subset of the functionality
+for these groups must perform generally well.
+\item An Application Server may be introduced to satisfy performance and connectivity requirements
+\item The available interfaces will at least be a web-accessible public
+interface, a web accessible lexicographers interface, a distributed
+application with GUI, and a SOAP interface to allow batch and web-based
+application access on all modern platforms.
+\end{enumerate}
+While the prototype will be constructed using publicly available data,
+the intention is to approach lexicographers, especially for the smaller
+language groups (and markets), to contribute in the form of donations
+of machine readable versions of their work.
+
+\section{Related Systems}
+WordNet \citep{fellbaum1998} is the monolingual online lexical database, created by George Miller et al, that is used as the backbone for this system and as a source for English language input. It is put in the public domain by Princeton University.
+EuroWordNet \citep{vossen1998} is a multilingual system that uses separate structures for the different languages. It employs an Inter Lingual Index between otherwise separate sematice nets, as discussed in \citep{vossen:peters:gonzalo:1999}. The EuroWordNet system is not freely available to the public; its distribution is handled by a commercial company. Futhermore, it employs proprietary database formats and editors. In contrast to this, the system discussed in this document uses standard relational database technology and will open up the databases to the public. WordNet as well as EuroWordNet have a fixed set of predicates. The Prot\'{e}g\'{e} Ontology Browser \citep{noy2001} is a related system in the sense that the lexico-sematic relationships in a lexical repository can be presented as an ontological hierarchy. It employs the in the Artificial Intelligency/Ontology community used paradigm of \emph{classes} (concepts), \emph{slots} (sometimes called roles or properties) and \emph{facets} (restrictions on slots, sometimes called role restrictions). Ontology applications are mostly interested in the hierarchy that results from \emph{generalization} (broader term generic - btg) relationships, and are less concerned with the other lexico-semantic relationship types. Prot\'{e}g\'{e} does not have suppport, like the other mentioned systems, for view\-points (schemes), \mbox{(sub-)}pro\-jects with\-in the re\-po\-si\-to\-ry (scopes) and on a technical level, the standard data storage of the application is single-user, while the rdbms backend is in development.
+
+\section{Competency Questions}
+In  building a knowledge representation system it is possible to refine the requirements in the form of a number of additional \emph{competency questions} that the system to be delivered must be capable of answering. For this system (that may be placed somewhere between a thesaurus and a knowledge management application, one with a broad domain though), the following set of competency questions is proposed:
+\begin{enumerate}
+\item What is the definition of the \emph{X}- language word \emph{Y} in language \emph{Z}?
+\item Give the antonyms of a specific language adverb in other languages, by language family
+\item What are the percentages of the lexical element occurrences of the superstrate languages Spanish, Portuguese, English and Dutch that constitute the lexicon of the Papiamento or another Creole language
+\item As in the previous question, but limited to specific application domains like economics, food or religion
+\item Which verb entailments do not hold across language families?
+\item Which languages spell the word for \emph{taxi} differently?
+
+\end{enumerate}
+\section{The logical model}
+
+A model for an application is more flexible and has a better chance of being adequate and up to the task when is it a more complete reflection of the real world. The logical model has levels of genericity that are as explictly specified as possible, while the forward engineering\footnote{The process of making a physical model out of a logical model, by transforming entities and attributes to a not necessary overlapping set of tables and columns is called \emph{forward engineering}.}of it can be any one of the various valid physical forms.  In this case, the start of the logical model for this dictionary application was the observation that some languages have more than one official orthography, or use more than one official alphabet. In \citep{quine1960} the difference between the descriptors and the objects is one of the central themes. On the other hand, descriptors can describe lots of objects that not necessarily have much else in common. An example that comes to mind is one experienced years ago in a data center, where one of the operators had a problem with the mainframe text editor: he received the error message \char`\"{}file not saved\char`\"{} repeatedly, and it was an important file a colleague of his had prepared for him to run the night's batch processing. After an embarrasingly long period, it was realised that in this case the word 'not' was used as a file name and not as a negative, showing that lack of notational discipline in discerning descriptors from logical operators can be quite expensive.
+
+
+\subsection{Metamodel}
+
+As is the case in other knowledge management systems, the repository
+contains the objects of its own metamodel. Chances are that these
+metamodel objects will share descriptors with the dictionaries that
+constitute its primary content. The objects themselves are separate
+from the other content of the repository, in that they are from a
+different source system (the source system id that refers to the repository
+itself). Also, no domain values of a scheme are needlessly shared with other
+schemes. The first separation avoids most of the type loops that
+are otherwise to be found; the second separation is based on the hypothesis
+that sharing of domain values of schemes leads to unwarranted complications
+caused by the effects of multiple inheritance or multiple subtyping.
+When this would not be the case, the change of a published scheme
+of an object would cause a potential change in the hierarchy of the
+metamodel. The schemes themselves can be shared by multiple scopes
+if preservation of the source system identification of the scheme is not important,
+as is the case with the metamodel schemes, and will be in the case
+of the dictionaries, which share a common model. The elements of the
+metamodel are Object, Descriptor, Relationship, and subtypes of these
+according to the classification scheme that governs the metamodel.
+Of particular importance is the Classification hierarchy that contains
+Classification, Type and Scheme.
+
+
+\subsection{Object}
+
+Objects have few mandatory relations except for an Identity (ID) and
+a reference to their source system, and to the user that added them to
+the system. It may be apparent that the lexicon system as designed
+must contain a great many objects, because we need to instantiate an object
+for every occurrence of a descriptor in a particular source lexicon,
+in  all the spelling variations we can find. Also, we need to create
+objects for the cognate levels above these descriptors and finally
+we would like to arrive at some universal senses, meanings or what else
+we would like to call them. Keeping in mind what William of Occam
+told us about objects (entities) and John Sowa's \citep{sowa2000} statement
+that computers can multiply them faster than Occam's razor can shave
+them, we need a clear policy on when exactly to instantiate an object.
+For example, there is no real argument that all the words that appear
+in the left top position of the headline in the entire printing run
+of this mornings paper are separate objects, but for the scope of this
+application we only might instantiate a single object representing
+them (with the newspaper's name, date and edition as source system
+and source file, and only if they are a part of a research experiment
+that uses the lexicon, or we decide to include quotes as a way to
+illustrate word usage. For linking words above the lexeme
+level in a multilingual environment we definitely need to instantiate
+objects on all relevant levels. On the other hand, if we were to build an application that tracks the codewords needed to initiate a nuclear detonation, chances are we would have an object for every physical instance of the word.
+Except for the source system / source file and user identification, all other relationships to an object
+are optional, which means that we can encounter nameless objects with
+no relations, after the scope of the validity of its relations runs
+out.
+
+\subsection{Descriptor}
+
+A Descriptor is a representation in the system of the word itself, a name, a date, a number or another identifier. In its objectified form it is synonymous with \emph{lexical object}. In most applications it is not deemed necessary to objectify the descriptor and its subtypes, because descriptors stand for themselves. In this application though, one of the key points is to determine relations among lexical objects (which meanings share lexical objects), and to link lexical objects to meaning in different languages. In the WordNet data model, the word is used as an index to a number of \emph{synsets} (sets of synonyms). This makes the synonym relationship the primary relationship of the system. In the Prolog version of WordNet the synset relation stores the word redundantly, with one occurrence for each sense or lexical object type. In this system the lexical occurences are completely normalized.
+Descriptors have relationships to the related lexemes.
+
+\subsection{Relationship}
+
+A Relationship represents the linkage between objects in the lexical repository.
+These relations can be binary\footnote{For the scope of this article, binary is exclusively used in the sense of dyadic, as is customary in the data modelling world, as opposed to usage in ontology and by some logicians.} (when there is an Object and a Subject
+participant) or n-ary (for example: ternary, when the predicate takes
+three arguments, like in the relationship \emph{descriptor} \emph{describes}
+\emph{object} \emph{in} \emph{language}, where descriptor, object
+and language are the arguments and describes is the predicate). A
+predicate can be further described by a verbphrase. The participants
+in a Relationship can be relations themselves, for this reasons relations
+are objectified in this repository. In every relationship instance the
+types of the participants are constrained by the types of the participants
+of the relationship type. The Relationship Type is not a relationship
+but an object, and a subtype of Type. A Relationship Type has its
+own relationships, for example Rank, Cardinality, and a history requirement
+indicator to indicate whether it is necessary to keep history on value
+changes.
+
+
+\subsection{Schemes}
+
+A principle that is used throughout this system is that of \emph{fa\-cet\-ed classification}, \citep{ranganathan62} which makes the classification of objects in dynamic taxonomies possible. This could be explained as the subtyping or subdivision of an object in multiple subtyping hierarchies. The object that gives rise to this relationship between subtypes or domains is called a \emph{Scheme}. \\
+A Scheme represents a relation of which the range is a mutually
+exclusive and collectively exhaustive set of values. We will also
+speak of the domain values of a Scheme. Scheme is objectified as a
+subtype of type Type. The implementations of instances of Scheme are
+prime candidates for domain integrity checking. An example of a Scheme instance
+(short: Scheme) is \emph{Lexical Object Type}.
+\newtheorem{scheme}{Scheme}
+\begin{scheme}Lexical Object Type
+\[
+\left[ Lexical\ Object\ Type \\ 
+\left[ \begin{array}{l}
+Noun \\ Verb \\ Adverb \\ Adjective
+\end{array} \right] \right]
+\]
+\end{scheme}
+The name of a scheme frequently ends in {}`` type'', but this requirement
+is dropped when it leads to awkward combinations of the {}``gender
+type'' kind where a metalevel of gender classification seems to be
+implied through the concatenation of {}``type'' to the scheme name
+{}``gender.'' The purpose of the introduction of schemes as the
+primary way to organize the metamodel is to explicitely differentiate
+the multiple ways of subtyping objects that share descriptors that
+are viewed from different perspectives. In the lexicon, the scheme
+{}``gender'', by the way, consists of the traditional values
+\begin{scheme}Lexical Gender
+\[
+\left[ Lexical\ Gender \\ 
+\left[ \begin{array}{l}
+Masculin \\ Feminin \\ Neuter \\ 
+\end{array} \right] \right]
+\]
+\end{scheme}
+while the scheme {}``gender'' in some other
+scopes, e.g. that of an present day health insurance application environment
+consists of up to six values, with several different transgender type
+domain values. Schemes exist as Type Schemes, which lead to subtyping
+of an object, and Instance Only Schemes, of which ISO639 (\emph{Language})
+is a good example. The domain values of an Instance Only Scheme will
+not be entities in their own right in a data model, as long as there is no requirement to store information on the domain values. Note that every domain value in the scheme ISO639-3 has at least two and most of them have three descriptors per language: the three character abbreviation that is the official indentifier for the language, the two character abbreviation that is a holdover from the previous, less complete ISO639-2 standard (that is curiously named {}''code for the representation of names of languages'')\footnote{The fact that ISO has two coding schemes for language,  Microsoft has a hexadecimal code of which a subset also is defined as a constant, and Apple and USMARC have their own language codes illustrates the importance of defining these codes as different classifications of the same objects.}, and the name, in English.
+
+
+\subsection{Scopes}
+
+The previous discussion of Scheme indicates that schemes exist in
+scopes, and may be shared by a lazy instantiation approach, where
+a new logical scheme is instantiated for a scope at the moment that
+the domain values start to diverge or come into scope. The physical
+scheme consists of the Schematic Relation, and scoped-in domain values.
+This implies that a scheme can be empty. A different scope would lead
+to a different namespace in an XML representation of a knowledge base.
+A scope is defined by a set of events or their subtypes that
+must be on or past their starting time but before their ending time.
+
+\subsection{Surrogate Keys}
+
+Following the RM/T model \citep{codd79} no use has been made of user keys. Instead all linkage between objects and objectified descriptors is done using generated object ID's. This has some advantages:
+\begin{enumerate}
+\item We are able to make a clear distinction between lexical and non-lexical object types
+\item It makes the concept of linking different lexical objects to one meaning level a straightforward process while avoiding rendundancy in the specification of the lexical objects (descriptors).
+\item A third advantage is that it in this way is possible to make small corrections to the descriptors without having to review all relationships that have them as participants. 
+\end{enumerate}
+The generation of IDs has been object of some extensive research, where some key questions are whether the system needs globally uni\-que keys and which should be the mechanism that is to be employed for ID generation. On the logical level, the conclusion was that the keys need to be unique only within the class hierarchy of the metamodel.
+
+\subsection{The Logical Dictionary Model}
+The logical dictionary model is a combination of some schemes that subtype the objects within the repository and the relationship types that constrain the participants of the relationship instances. In order to classify the relationship instances in a way that enables the lexicographer to store facts about the lexical objects and connect those on the semantic level, we model the complex ways lexical objects are handled in reality. 
+
+\subsubsection{The lexico-semantic hierarchy}
+The scheme that subtypes the lexico-semantic objects is called \emph{lexico-semantic object type}. It is ranked according to the focus on form versus the focus on content, with the purpose to establish levels of abstraction on which relations can be established.  For want of a more standardized or clearer vocabulary, its present value domain is this:
+\begin{scheme}Lexico-Semantic Object Type
+\[
+\left[ Lexico-Semantic\ Object\ Type \\ 
+\left[ \begin{array}{l}
+sense \\ lexeme \\ descriptor \\ 
+\end{array} \right] \right]
+\]
+\end{scheme}
+
+\subsubsection{The lexico-semantic relationships}
+
+\begin{table}
+\caption[]{Binary relationships in the starterset.}
+\begin{tabular}{|l|l|l|}
+ \hline
+descriptor & identifies & object  \\ \hline
+descriptor & is abbreviated name of & object  \\ \hline
+scheme & contains & domain value \\ \hline
+scope & contains & object \\ \hline
+object & is synonym of & object \\ \hline
+object & is antonym of & object \\ \hline
+object & is hypernym of & object \\ \hline
+object & is hyponym of & object \\ \hline
+object & is meronym of & object \\ \hline
+object & entails & object \\ \hline
+\end{tabular}
+\label{tab:1}
+\end{table}
+
+
+The core of the logical model for the interlinked dictionary consists of a number of relationship types, of which the starter set contains the WordNet binary relationhip types converted to a ternary form, which includes the language object as the third participant of the relationship. Also, a relationship that links the object to its descriptor is added. The ternary lexico-semantic relationships between the objects, the predicates and the language of which they form a part, form a subnet within the repository that represents a monolingual dictionary. The relationship types in the starter set are stated in Table~\ref{tab:1}.
+The key proposition here, is that on the cognate and sense levels there exist equivalence relationhips between lexico-semantic relationships within a language. For clarity, on the cognate level these are binary relationship instances in which both participants are of a ternary lexico-semantic relationship type that has a predicate, two lexemes and a language object as participants. \\
+For example, the sense level object that represents the set of
+\begin{equation}
+ X = \{ big, groot, grandi,\ldots  \}
+\end{equation}
+ can be regarded to have an antynomous relationship to the sense level object that represents the set of 
+\begin{equation}
+Y =\{ small, klein, chiquito,\ldots \}
+\end{equation}
+We may only instantiate the relationship
+\begin{equation}
+\textsc{ant}(X,Y)
+\end{equation}
+ as a fact in our repository when we have verified that there are participatory relationship in\-stan\-ces 
+\begin{equation}
+\textsc{ant}(big,small,eng)
+\end{equation}
+\begin{equation}
+ \textsc{ant}(groot,klein,ned) 
+\end{equation}
+and
+\begin{equation} \textsc{ant}(grandi, chiquito, pap)
+\end{equation}
+ Because in the Papiamentu as written on Cura\c{c}ao the word that in Arubian Papiamento is written as \emph{chiquito} is written as \emph{chik\'itu}, we have to instantiate the antonymous relationship type not at the descriptor level but at a less form-dependent lexeme level, which has no descriptor representation because the repository, as an impartial language usage recording device, as a principle does not rank variants in descriptor occurance.\footnote{When pronunciation is comparable, we might represent the object in IPA, The International Phonetic Alphabet.} The same principle holds for languages that, for example, have lexical representations in the Latin and Cyrillic alphabets, or different ideogrammatic and simplified scripts. 
+
+%
+%
+% Example of constructing this ant(big,groot,grandi) out of its relationship components.
+%
+%
+%
+%
+
+\begin{table}
+\caption[]{Ternary relationships in the starterset.}
+\begin{tabular}{|l|l|l|l|} \hline
+descriptor & describes & object & (in) language \\ \hline
+object & is synonym of & object & (in) language \\ \hline
+object & is antonym of & object & (in) language\\ \hline
+object & is hypernym of & object & (in) language \\ \hline
+object & is hyponym of & object & (in) language\\ \hline
+object & is meronym of & object & (in) language\\ \hline
+object & entails & object & (in) language \\ \hline
+\end{tabular}
+\label{tab:2}
+\end{table}
+
+
+\section{The physical model}
+
+
+\subsection{Number of physical tables}
+
+The inheritance hierarchy that stems from the logical model is entirely collapsed
+into one table for objects, one table for descriptors and a table
+for each relationship degree. The (slightly simplified) layout of these tables is shown in Tables~\ref{tab:3}--~\ref{tab:6}.
+
+\begin{table}
+\caption[]{The Descriptor Table}
+\begin{tabular}{|l|l|l|l|} \hline
+ID & TYPE & DESCRIPTOR \\ \hline
+\end{tabular}
+\label{tab:3}
+\end{table}
+
+\begin{table}
+\caption[]{The Object Table}
+\begin{tabular}{|l|l|l|l|l|} \hline
+ID & TYPE & SOURCE FILE & SOURCE SYSTEM & SOURCE ID  \\ \hline
+\end{tabular}
+\label{tab:4}
+\end{table}
+
+\begin{table}
+\caption[]{The Binary Relationship Table}
+\begin{tabular}{|l|l|l|l|l|l|l|} \hline
+ID & TYPE & OBJ1 & OBJ2 & EFF DATE & END DATE  \\ \hline
+\end{tabular}
+\label{tab:5}
+\end{table}
+
+\begin{table}
+\caption[]{The Ternary Relationship Table}
+\begin{tabular}{|l|l|l|l|l|l|l|l|} \hline
+ID & TYPE & OBJ1 & OBJ2 & OBJ3 & EFF DATE & END DATE  \\ \hline
+\end{tabular}
+\label{tab:6}
+\end{table}
+\subsection{Non-destructive updates} 
+
+In a multiuser, multilanguage, multiproject environment like this multilingual dictionary repository it is of utmost importance that changes do not lead to loss of the previous version of the information. The implementation of a generic non-destructive update mechanism on every relationship (which implies that every relationship has a history requirement, and is forward engineered as an associative entity) enables an unlimited undo-redo facility and supports versioning of the different dictionary projects.
+All relationship instances are timestamped with starting and ending values. In this version, the effective date of relationships is  set to the current timestamp, delivered by a special register or the \texttt{now()} function of the dbms, on inserts this is commonly done as a \texttt{not null with default} column type.  The end date of relationships is initially set, using the same mechanism, to the 9999-12-31 for reasons of cross-dbms date comparison and efficiency. The true meaning of this value must be interpreted as \emph{not expired}.
+
+
+\subsection{Sourcing the Dictionary}
+
+The process of inserting the data from the different source documents
+(we might call them by their supertype source systems because otherwise
+the impression might take hold that all are paper documents when in
+fact they are not) is called sourcing. For this step, a thorough analysis
+of the source system is needed and a set of ETL (extraction, transformation,
+load) procedures must be designed. In the system under design there
+is some basic support for this process, mainly because one of the
+design criteria is that the whole implementation must be as platform
+and dbms engine independent as possible. Therefore, we do not rely
+on the dbms's native tool support for loading and transforming data.
+For the actual sour\-cing of lexica larger than the starterset separate
+programs were developed, which share a common structure. There is support built in for sourcing from XML data, for which there are two different options, one using the SAX Application Programming Interface and another (slower, but more flexible) option that employs XSLT (XML transformation language).\\
+The repository can be re-sourced from itself or like- structured repositories (this might be an issue when merging repositories from a different origin that share a like structure and incorporate like relationship types) by generating new object id's and linking those on a relationship type basis using the unique id in source system fields.
+
+\subsection{Generation of Object ID's}
+The generation of Object ID's, already briefly discussed on the logical design level, is after ample research on alternatives, done by employing the ID generation mechanism of the rdbms. It has been verified that the employed method is feasible on most modern rdbms engines. An alternative is to employ a secure hashing algoritm (in an earlier prototype SHA-1 (NSA) is used for this purpose) that can provide a truly globally unique object identification, which yields an 160 bit hash, that is stored in the dbms id column as a BASE64 large integer. Because this scenario needs a character column for storage, it was rejected on the grounds of index inefficiency in real-life usage, and also on the ground that the need to devise unique inputs for the hashing algoritm in the many cases of use of the same descriptors more or less defeats the reasons to use surrogate keys.
+
+\subsection{Multiple Character Set Storage}
+
+Inclusion of languages that employ diacritical marks on the Latin alphabet or use other alphabets alltogether require the use of more than the standard single byte character storage. Unicode is a good alternative, were it not for the fact that the handling of multibyte character sets is not exactly standardized across database engines. For this reason, and some opportunistic ones, a scheme wherein the descriptors are stored as single byte character, but with MIME-escaped Unicode characters is chosen for the first implementation. The MIME escape sequence for the encoding of Uniform Resource Locators (URL's) is employed here, with the following obvious advantages:
+\begin{enumerate}
+\item Single byte columns can be employed in the database engine
+\item The embedded spaces in collocations are escaped, so ranking and other operations can be done as if a collocation is a single word (because technically, in this implementation, it is)
+\item The descriptors can be used as URL's in dynamic webpages when escaped in this way
+\item Conversion to (X)HTML is straightforward using HTML's Unicode escape sequence
+\end{enumerate}
+Other encodings like UTF-8 can be considered. The problem of Cyrillic and CJK characters will probably be handled in a later version. For all languages private collation sequences have to be implemented when we were to implement alphabetic ordering, for example to produce a paper dictionary out of a subset of the repository. 
+
+
+\subsection{Loading Sequence}
+
+One of the interesting issues in sourcing is the strict data integrity requirements
+that are forced on us by using a design that is almost in DKNF (Domain
+Key Normal Form). In this extreme normalization technique any domain
+value is represented by a surrogate key; the stored value may only
+refer to a domain value that is valid within that type. When the domains
+of these types are governed by Schemes (as mentioned before, but worthy
+of repetition, a subtype of type Type where the domain is a mutually
+exclusive and collectively exhaustive set of values), a mandatory
+loading sequence is enforced; this because we cannot load a surrogate
+key for a value that does not yet have an identity (the Object ID).
+The sequence in this system is determined by the mandatory relations,
+which are implemented as columns in the physical model in which null
+values are not allowed. As an example, before we can load a specific
+dictionary into the repository, there must be schemes with domain
+values for the parties that do the loading, domain values that represent
+the language(s) of the dictionary that we are loading, and domain
+values for the scheme that determines the possible lexical object
+types.
+
+The initial loading action encountered a slight bootstrapping problem
+that is intrinsic to the taken approach and that has to be solved
+with a few update statements; for example, the names of the languages, from the ISO639 scheme, are stated in a specific language;
+we must have inserted the object for this language first before we
+have an ID for the relationship to the descriptor of this object for this
+language.
+
+\section{Loading source material}
+While the 1.7 release of WordNet is employed as an accellerated method to give body to the repository, this is only the start of enriching it with source material from other languages. Initially, open source collections of bilingual vocabularies are used to add to the WordNet relationships, but these are generally poor in the specification of  definition, lexical object information like gender, word types, semantic relationships, etcetera. Here it is hoped that we may find some large lexica willing to contribute to the repository in order to minimize work on translating definitions, adding gender and lexico-semantic relationships in a non programmed way.
+
+\subsection{Transformations}
+A number of transformations on the contents of the repository can be defined for the purpose of deploying it in other environments, systems or toolsets. For these transformations a functional notation must be devised that is as near in executable format as possible, so that it would be feasible to store transformation objects in the repository that can work on the same structure. For the moment, storing the transformations as XSLT source, to be executed on an XML(RDF) exported version of a scope, seems to be the most promising alternative. A language that supports a concise notation for the specification of these, mostly recursive processes, has to have high points on genericity in handling its data structures and ideally would have support for functor objects. As the prototype is coded in Java, we will have to wait a while to achieve this freedom of notation. Useful transformations would be, in any case:
+\begin{enumerate}
+\item A transformation to SQL DDL for the purpose of forward engineering data models within a scope (with the added value of having a control process to keep specific scopes (as in projects within an enterprise), semantically in step with the larger scopes (e.g. the corporate data model)
+\item A transformation to source code for the different transaction monitors and application front ends (e.g. CICS, J2EE-JSP) or message oriented protocols (MQ, SOAP, Biztalk) to keep in step with the generated data model
+\item Mappings for ETL tools like PowerMart to aid in the swift creation of Data Marts and Warehouses
+\item Transformations to RDF or other XML schemes for use in Ontology browsers like Prot\'{e}g\'{e}
+\item Transformations of subsets to physical implementations for high-performance applications for specific research purposes, or real time transactional applications. (These transformations are totally deterministic, and these models are derivable from descriptor-object relationships, relationship cardinality and history requirements.)
+\item A transformation to a printed subset of the repository, like a domain specific dictionary for two of the participating languages.
+\end{enumerate}
+
+
+\section{Non programmed action}
+
+The bulk of the work of disambiguating and linking has to be done by lexicographer's manual intervention; for this purpose a GUI is planned that supports the instantiation of relationships according to the lexicographer's input. For example, the system detected, as a result of the loading of Eng-Dut and Dut-Eng dictionary files that for the descriptor string ``bank'' there are English and Dutch lexical objects found, of which in English one is of Lexical Object Type \emph{verb} and others are nouns, and for Dutch only some nouns will be found. That only the \emph{financial institution} meaning leads to a relationship (containing relationships between the descriptors and the objects in the different languages) is the responsibility of the lexicographer, who can acknowledge this with a click on the correct gloss.
+Enriching the repository with schemes and scope specific information will nearly always be an action that requires extensive human intervention, because this must be based on specific requirements in specific environments. All these can then reuse the objects and relationships that are already there, as can the data models contained in the repository.
+\bibliographystyle{plainnat}
+\bibliography{knowledge}
+\end{document}
