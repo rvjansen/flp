@@ -1,4 +1,4 @@
-/* Generated from 'tree.nrx' 7 Jan 2022 20:35:36 [v4.02] *//* Options: Annotations Comments Compact Decimal Java Logo Replace Trace2 UTF8 Verbose3 */package com.rvjansen;
+/* Generated from 'tree.nrx' 11 Jan 2022 20:04:03 [v4.02] *//* Options: Annotations Comments Compact Decimal Java Logo Replace Trace2 UTF8 Verbose3 */package com.rvjansen;
 
 //trace results
 public class tree{private static final netrexx.lang.Rexx $01=netrexx.lang.Rexx.toRexx("--");private static final netrexx.lang.Rexx $02=netrexx.lang.Rexx.toRexx("Object");private static final netrexx.lang.Rexx $03=new netrexx.lang.Rexx(2);private static final java.lang.String $0="tree.nrx";

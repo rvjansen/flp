@@ -1,4 +1,4 @@
-/* Generated from 'DefinitionListModel.nrx' 7 Jan 2022 20:35:36 [v4.02] *//* Options: Annotations Comments Compact Decimal Java Logo Replace Trace2 UTF8 Verbose3 */package com.rvjansen;
+/* Generated from 'DefinitionListModel.nrx' 11 Jan 2022 20:04:03 [v4.02] *//* Options: Annotations Comments Compact Decimal Java Logo Replace Trace2 UTF8 Verbose3 */package com.rvjansen;
 
 
 public class DefinitionListModel extends javax.swing.AbstractListModel implements javax.swing.ComboBoxModel{private static final char[] $01={2,1,39,10,1,0,2,1,39,10,1,1,0};private static final netrexx.lang.Rexx $02=new netrexx.lang.Rexx('\'');private static final java.lang.String $0="DefinitionListModel.nrx";

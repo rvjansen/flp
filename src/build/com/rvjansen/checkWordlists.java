@@ -1,4 +1,4 @@
-/* Generated from 'checkWordlists.nrx' 7 Jan 2022 20:35:36 [v4.02] *//* Options: Annotations Comments Compact Decimal Java Logo Replace Trace2 UTF8 Verbose3 */package com.rvjansen;
+/* Generated from 'checkWordlists.nrx' 11 Jan 2022 20:04:03 [v4.02] *//* Options: Annotations Comments Compact Decimal Java Logo Replace Trace2 UTF8 Verbose3 */package com.rvjansen;
 public class checkWordlists{private static final netrexx.lang.Rexx $01=netrexx.lang.Rexx.toRexx("nm(X,\'");private static final netrexx.lang.Rexx $02=netrexx.lang.Rexx.toRexx("\').");private static final netrexx.lang.Rexx $03=new netrexx.lang.Rexx(0);private static final java.lang.String $0="checkWordlists.nrx";@SuppressWarnings("unchecked")
 public static void main(java.lang.String $0s[]) throws java.io.FileNotFoundException,java.io.IOException,java.rmi.RemoteException{com.rvjansen.KBClient client;java.io.BufferedReader in;netrexx.lang.Rexx word_=null;java.util.ArrayList a=null;java.util.Iterator i=null;netrexx.lang.Rexx rs=null;netrexx.lang.Rexx j=null;client=new com.rvjansen.KBClient(netrexx.lang.Rexx.toRexx(""));
 
