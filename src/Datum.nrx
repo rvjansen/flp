@@ -11,14 +11,14 @@ import java.util.
 class Datum
 
   properties indirect
-  today	= Date
+  today	= java.util.Date
   cal	= Calendar
 
   /**
    *   * Default constructor, initializes with the current date.
    *   */
   method Datum()
-    today = Date()
+    today = java.util.Date()
     cal	  = GregorianCalendar()
     cal.setTime(today)
 
@@ -44,7 +44,7 @@ class Datum
     cal.setTime(today)
     return this
 
-  method Datum(d=Date)
+  method Datum(d=java.util.Date)
     today = d
     cal	  = GregorianCalendar()
     cal.setTime(today)
@@ -104,12 +104,12 @@ class Datum
   method getUTCLogTimestamp() static
     df = SimpleDateFormat("yyyy-MM-dd HH:mm:ss.SSS")
     df.setTimeZone(SimpleTimeZone(0,"UTC"))
-    longdate = Rexx df.format(Date())
+    longdate = Rexx df.format(java.util.Date())
     return longdate
 
   method getDisplayTimestamp() static
     df = SimpleDateFormat("EE dd-MMM-yyyy HH:mm:ss")
-    longdate = Rexx df.format(Date())
+    longdate = Rexx df.format(java.util.Date())
     return longdate
 
   /**
@@ -117,7 +117,7 @@ class Datum
    *   */
   method getRtfTimestamp() static
     df  = SimpleDateFormat("yyyy MM dd HH mm ss")
-    tmp = Rexx df.format(Date())
+    tmp = Rexx df.format(java.util.Date())
     parse tmp year   " " tmp
     parse tmp month  " " tmp
     parse tmp day    " " tmp
@@ -129,14 +129,14 @@ class Datum
    *   * Method getLogTimestamp ...
    *   * @param dt is a Date
    *   */
-  method getLogTimestamp(dt = Date) static
+  method getLogTimestamp(dt = java.util.Date) static
     df = SimpleDateFormat("yyyy-MM-dd HH:mm:ss.SSS")
     longdate = Rexx df.format(dt)
     return longdate
 
   method getFileBackupTimestamp() static
     df = SimpleDateFormat("dd-MM-yyyy-HHmm")
-    longdate = Rexx df.format(Date())
+    longdate = Rexx df.format(java.util.Date())
     return longdate
 
   /**
@@ -147,7 +147,7 @@ class Datum
    *     */
   method getDBMSTimestamp() static
     df = SimpleDateFormat("yyyy-MM-dd-HH.mm.ss.SSS")
-    longdate = Rexx df.format(Date())
+    longdate = Rexx df.format(java.util.Date())
     return longdate
 
   method getDayOfWeekInMonth()
@@ -237,7 +237,7 @@ class Datum
     longdate = Rexx df.format(cal.getTime())
     return longdate
 
-  method getNextDate() returns Date
+  method getNextDate() returns java.util.Date
     cal.add(Calendar.DATE, +1 )
     return cal.getTime()
 
@@ -246,7 +246,7 @@ class Datum
    *   * @param numberOfDays is a int
    *   * @return Date containing ...
    *   */
-  method getPreviousDate(numberOfDays = int) returns Date
+  method getPreviousDate(numberOfDays = int) returns java.util.Date
     cal.add(Calendar.DATE, -numberOfDays )
     return cal.getTime()
 
@@ -254,7 +254,7 @@ class Datum
    *   * Method getPreviousDate ...
    *   * @return Date containing ...
    *   */
-  method getPreviousDate() returns Date
+  method getPreviousDate() returns java.util.Date
     return this.getPreviousDate(1)
 
   method getPreviousDay()
