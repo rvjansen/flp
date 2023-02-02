@@ -1,4 +1,4 @@
-/* Generated from 'selectPapiamento.nrx' 7 Jan 2022 20:35:36 [v4.02] *//* Options: Annotations Comments Compact Decimal Java Logo Replace Trace2 UTF8 Verbose3 */package com.rvjansen;
+/* Generated from 'selectPapiamento.nrx' 11 Jan 2022 20:04:03 [v4.02] *//* Options: Annotations Comments Compact Decimal Java Logo Replace Trace2 UTF8 Verbose3 */package com.rvjansen;
 /**
  * Class selectPapiamento gets the papiamento words from the repository
  * and formats them for the pap-eng dictionary part.  

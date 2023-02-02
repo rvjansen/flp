@@ -1,4 +1,4 @@
-/* Generated from 'parseNL.nrx' 7 Jan 2022 20:35:36 [v4.02] *//* Options: Annotations Comments Compact Decimal Java Logo Replace Trace2 UTF8 Verbose3 */package com.rvjansen;
+/* Generated from 'parseNL.nrx' 11 Jan 2022 20:04:03 [v4.02] *//* Options: Annotations Comments Compact Decimal Java Logo Replace Trace2 UTF8 Verbose3 */package com.rvjansen;
 
 public class parseNL{private static final netrexx.lang.Rexx $01=new netrexx.lang.Rexx('=');private static final netrexx.lang.Rexx $02=netrexx.lang.Rexx.toRexx(";\000");private static final char[] $03={2,20,60,76,101,109,109,97,32,119,114,105,116,116,101,110,70,111,114,109,61,34,2,1,34,10,1,0,0};private static final char[] $04={2,8,115,121,110,115,101,116,61,34,2,1,34,10,1,0,0};private static final netrexx.lang.Rexx $05=netrexx.lang.Rexx.toRexx("");private static final netrexx.lang.Rexx $06=netrexx.lang.Rexx.toRexx("eng");private static final netrexx.lang.Rexx $07=netrexx.lang.Rexx.toRexx("synset:");private static final netrexx.lang.Rexx $08=netrexx.lang.Rexx.toRexx("\').");private static final java.lang.String $0="parseNL.nrx";
 

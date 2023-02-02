@@ -1,4 +1,4 @@
-/* Generated from 'srepl3.nrx' 7 Jan 2022 20:35:36 [v4.02] *//* Options: Annotations Binary Comments Compact Decimal Java Logo Replace Strictcase Trace2 UTF8 Verbose3 */package com.rvjansen;
+/* Generated from 'srepl3.nrx' 11 Jan 2022 20:04:03 [v4.02] *//* Options: Annotations Binary Comments Compact Decimal Java Logo Replace Strictcase Trace2 UTF8 Verbose3 */package com.rvjansen;
 /**
  * class srepl3 is the most recent incarnation of the commandline interface
  * to the KBServer server application, it enables Prolog queries to

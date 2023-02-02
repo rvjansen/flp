@@ -1,4 +1,4 @@
-/* Generated from 'ValidateFacts.nrx' 7 Jan 2022 20:35:36 [v4.02] *//* Options: Annotations Comments Compact Decimal Java Logo Replace Trace2 UTF8 Verbose3 */public class ValidateFacts{private static final java.lang.String $0="ValidateFacts.nrx";private static final netrexx.lang.Rexx $01=new netrexx.lang.Rexx('(');
+/* Generated from 'ValidateFacts.nrx' 11 Jan 2022 20:04:03 [v4.02] *//* Options: Annotations Comments Compact Decimal Java Logo Replace Trace2 UTF8 Verbose3 */public class ValidateFacts{private static final java.lang.String $0="ValidateFacts.nrx";private static final netrexx.lang.Rexx $01=new netrexx.lang.Rexx('(');
 
 /* properties inheritable */
 
