@@ -7,10 +7,10 @@ Projecto pa lanta e Corpus y Diccionario Splicativo di Papiamento
  - pa usa den software applications
  - pa traduci Papiamento usando intelligencia artificial (AI)
  
-2) Produci un Diccionario Splicativo den varios edicion, den formal digital y buki tradicional
+2) Produci un Diccionario Splicativo den varios edicion, den forma digital y buki tradicional
 
 ## Online Resources
-[Planificacion di e actividadonan](https://github.com/users/rvjansen/projects/1/views/1)
+[Planificacion di e actividadnan](https://github.com/users/rvjansen/projects/1/views/1)
 
 [Project Wiki](https://github.com/rvjansen/flp/wiki)
 
