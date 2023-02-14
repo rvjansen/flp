@@ -30,9 +30,9 @@ class KBServer extends UnicastRemoteObject implements KBServerInterface
     t = TimeIt()
     factsFileName='factsTest.pl'
     db=DBAccess.getInstance()
-    say Date() 'writing predicates file'
+    say java.util.Date() 'writing predicates file'
     db.getPredicatesAndWrite(factsFileName)
-    say Date() 'written' factsFileName
+    say java.util.Date() 'written' factsFileName
     Thread.sleep(1000)
     PropertyConfigurator.configure("log4j.properties")
     logger_.info( "KBserver Constructing Repository: start load")
@@ -41,18 +41,18 @@ class KBServer extends UnicastRemoteObject implements KBServerInterface
     -- else say "Problem in loading facts.pl with hbom-load.pl"
 
     q = Query("consult('"factsFileName"').")
-    if q.hasSolution() then say Date() factsFileName 'loaded'
+    if q.hasSolution() then say java.util.Date() factsFileName 'loaded'
     else say "Problem in loading" factsFileName
 
     q = Query("consult('dynamics.prolog').")
-    if q.hasSolution() then say Date() 'dynamics.prolog loaded'
+    if q.hasSolution() then say java.util.Date() 'dynamics.prolog loaded'
     else say "Problem in loading dynamics.prolog"
 
     q = Query("consult('code.prolog').")
-    if q.hasSolution() then say Date() 'code.prolog loaded'
+    if q.hasSolution() then say java.util.Date() 'code.prolog loaded'
     else say "Problem in loading code.prolog."
 
-    say Date() 'Control is being given to KBServer.'
+    say java.util.Date() 'Control is being given to KBServer.'
     logger_.info('KBServer load took' t.getDiff())
 
 
@@ -64,14 +64,14 @@ class KBServer extends UnicastRemoteObject implements KBServerInterface
    */
   method main(args=String[]) static
     say
-    say Date() "KBServer starting."
+    say java.util.Date() "KBServer starting."
     logger_.info("KBServer starting.")
-    say Date() 'Using:'
+    say java.util.Date() 'Using:'
     say
-    'swipl --version'
-    'psql --version'
     say 'JVM' System.getProperty("java.runtime.version") System.getProperty("java.vendor")
     say 'NetRexx' org.netrexx.process.NRVersion().getFullVersion()
+    'swipl --version'
+    'psql --version'
     say org.netrexx.process.NRVersion().getPipesVersion()
     say 
     do

@@ -149,8 +149,8 @@ class KBClient implements KBServerInterface
     id = checkID(id)
     a = this.request("nm("id",Y).")
     if a = null then return ''
-    if a.size() = 0 then say Date() 'KBClient: no current Name for:' id
-    if a.size() > 1 then say Date() 'KBClient: more then one current Name for:' id
+    if a.size() = 0 then say java.util.Date() 'KBClient: no current Name for:' id
+    if a.size() > 1 then say java.util.Date() 'KBClient: more then one current Name for:' id
     val = Rexx a.get(0)
     return val['Y'].translate('',"'").strip()
 
@@ -163,10 +163,10 @@ class KBClient implements KBServerInterface
     a = this.request("nm(X,"name_").")
     if a = null then return ''
     if a.size() = 0 then do
-      say Date() 'KBClient: no current ID for:' name_
+      say java.util.Date() 'KBClient: no current ID for:' name_
       return ''
     end
-    if a.size() > 1 then say Date() 'KBClient: more then one current ID for:' name_
+    if a.size() > 1 then say java.util.Date() 'KBClient: more then one current ID for:' name_
     val = Rexx a.get(0) -- there should be one current name for an object id
     return val['X'].translate('',"'").strip()
     
