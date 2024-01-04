@@ -3,7 +3,7 @@ TARGET		:= book
 PDFTARGET	:= $(TARGET).pdf
 TEX_SRC		:= $(wildcard *.tex)
 BIB_SRC		:= $(wildcard *.bib)
-LATEX_EXE	:= xelatex -shell-esc
+LATEX_EXE	:= xelatex -shell-esc -cnf-line=extra_mem_top=12000000 -cnf-line=extra_mem_bot=12000000 -cnf-line=main_memory=12000000
 RAIL_EXE	:= rail
 
 .SUFFIXES: .nrx .nry .njp .class .skel .xsl .java .pdf

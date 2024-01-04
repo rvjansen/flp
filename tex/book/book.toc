@@ -1,0 +1,23 @@
+\tochasboldchapters 
+\contentsline {chapter}{Preface}{i}{chapter*.3}%
+\contentsline {section}{\numberline {0.1}Thank you}{i}{section.0.1}%
+\contentsline {chapter}{\numberline {1}About this book}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Lexicon scope and principles}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Loanwords}{3}{section.2.1}%
+\contentsline {chapter}{\numberline {3}Legenda}{5}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Remarks on grammar}{7}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Nouns}{7}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Plural marker}{7}{subsection.4.1.1}%
+\contentsline {section}{\numberline {4.2}Pronouns}{7}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Personal pronouns}{7}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}The second person formal pronoun}{8}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Dummy pronouns}{8}{subsection.4.2.3}%
+\contentsline {section}{\numberline {4.3}Verbs}{8}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}The passive construction}{8}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}-ndo Borrowings}{8}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Verb tenses}{9}{subsection.4.3.3}%
+\contentsline {subsubsection}{Future tense}{9}{section*.6}%
+\contentsline {subsection}{\numberline {4.3.4}Verbs that do not take 'ta' in the present tense}{9}{subsection.4.3.4}%
+\contentsline {subsection}{\numberline {4.3.5}The verb 'tin'}{10}{subsection.4.3.5}%
+\contentsline {chapter}{\numberline {5}Papiamento-English}{11}{chapter.5}%
+\contentsline {chapter}{References}{319}{chapter*.7}%
