@@ -7,10 +7,48 @@ A level-1 auxiliary file: aboutbook.aux
 A level-1 auxiliary file: legenda.aux
 A level-1 auxiliary file: grammatica.aux
 A level-1 auxiliary file: Papiamento-English.aux
+A level-1 auxiliary file: pap-cat.aux
+A level-1 auxiliary file: cat-pap.aux
+A level-1 auxiliary file: pap-cmn.aux
+A level-1 auxiliary file: cmn-pap.aux
+A level-1 auxiliary file: pap-dan.aux
+A level-1 auxiliary file: dan-pap.aux
+A level-1 auxiliary file: pap-eng.aux
+A level-1 auxiliary file: eng-pap.aux
+A level-1 auxiliary file: pap-eus.aux
+A level-1 auxiliary file: eus-pap.aux
+A level-1 auxiliary file: pap-fas.aux
+A level-1 auxiliary file: fas-pap.aux
+A level-1 auxiliary file: pap-fin.aux
+A level-1 auxiliary file: fin-pap.aux
+A level-1 auxiliary file: pap-fra.aux
+A level-1 auxiliary file: fra-pap.aux
+A level-1 auxiliary file: pap-glg.aux
+A level-1 auxiliary file: glg-pap.aux
+A level-1 auxiliary file: pap-ind.aux
+A level-1 auxiliary file: ind-pap.aux
+A level-1 auxiliary file: pap-ita.aux
+A level-1 auxiliary file: ita-pap.aux
+A level-1 auxiliary file: pap-jpn.aux
+A level-1 auxiliary file: jpn-pap.aux
+A level-1 auxiliary file: pap-nno.aux
+A level-1 auxiliary file: nno-pap.aux
+A level-1 auxiliary file: pap-nob.aux
+A level-1 auxiliary file: nob-pap.aux
+A level-1 auxiliary file: pap-pol.aux
+A level-1 auxiliary file: pol-pap.aux
+A level-1 auxiliary file: pap-por.aux
+A level-1 auxiliary file: por-pap.aux
+A level-1 auxiliary file: pap-spa.aux
+A level-1 auxiliary file: spa-pap.aux
+A level-1 auxiliary file: pap-tha.aux
+A level-1 auxiliary file: tha-pap.aux
+A level-1 auxiliary file: pap-zsm.aux
+A level-1 auxiliary file: zsm-pap.aux
 Database file #1: biblio.bib
 You've used 3 entries,
             2811 wiz_defined-function locations,
-            643 strings with 5038 characters,
+            681 strings with 5456 characters,
 and the built_in function-call counts, 1046 in all, are:
 = -- 95
 > -- 33

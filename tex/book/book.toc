@@ -20,4 +20,42 @@
 \contentsline {subsection}{\numberline {4.3.4}Verbs that do not take 'ta' in the present tense}{9}{subsection.4.3.4}%
 \contentsline {subsection}{\numberline {4.3.5}The verb 'tin'}{10}{subsection.4.3.5}%
 \contentsline {chapter}{\numberline {5}Papiamento-English}{11}{chapter.5}%
-\contentsline {chapter}{References}{319}{chapter*.7}%
+\contentsline {chapter}{\numberline {6}Papiamento-Catalunyan}{319}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Catalunyan-Papiamento}{345}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Papiamento-Chinese}{381}{chapter.8}%
+\contentsline {chapter}{\numberline {9}Chinese-Papiamento}{389}{chapter.9}%
+\contentsline {chapter}{\numberline {10}Papiamento-Danish}{399}{chapter.10}%
+\contentsline {chapter}{\numberline {11}Danish-Papiamento}{409}{chapter.11}%
+\contentsline {chapter}{\numberline {12}Papiamento-English}{419}{chapter.12}%
+\contentsline {chapter}{\numberline {13}English-Papiamento}{453}{chapter.13}%
+\contentsline {chapter}{\numberline {14}Papiamento-Basque}{513}{chapter.14}%
+\contentsline {chapter}{\numberline {15}Basque-Papiamento}{535}{chapter.15}%
+\contentsline {chapter}{\numberline {16}Papiamento-Farsi}{565}{chapter.16}%
+\contentsline {chapter}{\numberline {17}Farsi-Papiamento}{581}{chapter.17}%
+\contentsline {chapter}{\numberline {18}Papiamento-Finnish}{603}{chapter.18}%
+\contentsline {chapter}{\numberline {19}Finnish-Papiamento}{641}{chapter.19}%
+\contentsline {chapter}{\numberline {20}Papiamento-French}{699}{chapter.20}%
+\contentsline {chapter}{\numberline {21}French-Papiamento}{729}{chapter.21}%
+\contentsline {chapter}{\numberline {22}Papiamento-Galician}{771}{chapter.22}%
+\contentsline {chapter}{\numberline {23}Galician-Papiamento}{785}{chapter.23}%
+\contentsline {chapter}{\numberline {24}Papiamento-Bahasa Indonesian}{801}{chapter.24}%
+\contentsline {chapter}{\numberline {25}Bahasa Indonesian-Papiamento}{855}{chapter.25}%
+\contentsline {chapter}{\numberline {26}Papiamento-Italian}{937}{chapter.26}%
+\contentsline {chapter}{\numberline {27}Italian-Papiamento}{965}{chapter.27}%
+\contentsline {chapter}{\numberline {28}Papiamento-Japan}{1007}{chapter.28}%
+\contentsline {chapter}{\numberline {29}Japan-Papiamento}{1063}{chapter.29}%
+\contentsline {chapter}{\numberline {30}Papiamento-Norwegian Nynorsk}{1193}{chapter.30}%
+\contentsline {chapter}{\numberline {31}Norwegian Nynorsk-Papiamento}{1201}{chapter.31}%
+\contentsline {chapter}{\numberline {32}Papiamento-Norwegian Bokmål}{1209}{chapter.32}%
+\contentsline {chapter}{\numberline {33}Norwegian Bokmål-Papiamento}{1219}{chapter.33}%
+\contentsline {chapter}{\numberline {34}Papiamento-Polish}{1229}{chapter.34}%
+\contentsline {chapter}{\numberline {35}Polish-Papiamento}{1241}{chapter.35}%
+\contentsline {chapter}{\numberline {36}Papiamento-Portuguese}{1257}{chapter.36}%
+\contentsline {chapter}{\numberline {37}Portuguese-Papiamento}{1285}{chapter.37}%
+\contentsline {chapter}{\numberline {38}Papiamento-Spanish}{1325}{chapter.38}%
+\contentsline {chapter}{\numberline {39}Spanish-Papiamento}{1347}{chapter.39}%
+\contentsline {chapter}{\numberline {40}Papiamento-Thai}{1375}{chapter.40}%
+\contentsline {chapter}{\numberline {41}Thai-Papiamento}{1403}{chapter.41}%
+\contentsline {chapter}{\numberline {42}Papiamento-Standard Malay}{1445}{chapter.42}%
+\contentsline {chapter}{\numberline {43}Standard Malay-Papiamento}{1493}{chapter.43}%
+\contentsline {chapter}{References}{1567}{chapter*.7}%
