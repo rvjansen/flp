@@ -25,8 +25,11 @@ class DBAccess
     -- Class.forName("org.sqlite.JDBC")
     -- url_='jdbc:sqlite:dsd.sqb'
 
-    url_ = 'jdbc:postgresql://localhost/rvjansen'
-    Class.forName("org.postgresql.Driver")
+    -- url_ = 'jdbc:postgresql://localhost/rvjansen'
+    -- Class.forName("org.postgresql.Driver")
+
+    url_ = 'jdbc:duckdb:/Users/rvjansen/apps/flp/src/papiamento.db'
+    Class.forName("org.duckdb.DuckDBDriver")
 
     do
       jdbcCon = Connection DriverManager.getConnection(url_)

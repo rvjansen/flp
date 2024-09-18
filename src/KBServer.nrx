@@ -71,7 +71,7 @@ class KBServer extends UnicastRemoteObject implements KBServerInterface
     say 'JVM' System.getProperty("java.runtime.version") System.getProperty("java.vendor")
     say 'NetRexx' org.netrexx.process.NRVersion().getFullVersion()
     'swipl --version'
-    'psql --version'
+    say 'duckdb'; 'duckdb --version'
     say org.netrexx.process.NRVersion().getPipesVersion()
     say 
     do
