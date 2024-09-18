@@ -1,3 +1,5 @@
+*.db filter=lfs diff=lfs merge=lfs -text
+*.parquet filter=lfs diff=lfs merge=lfs -text
 src/papiamento.db filter=lfs diff=lfs merge=lfs -text
 src/predicates.parquet filter=lfs diff=lfs merge=lfs -text
 src/predicate.parquet filter=lfs diff=lfs merge=lfs -text
