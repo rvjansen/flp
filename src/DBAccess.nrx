@@ -28,7 +28,7 @@ class DBAccess
     -- url_ = 'jdbc:postgresql://localhost/rvjansen'
     -- Class.forName("org.postgresql.Driver")
 
-    url_ = 'jdbc:duckdb:/Users/rvjansen/apps/flp/src/papiamento.db'
+    url_ = 'jdbc:duckdb:/Volumes/data/apps/flp/src/words.db'
     Class.forName("org.duckdb.DuckDBDriver")
 
     do
@@ -56,19 +56,22 @@ class DBAccess
       
       stmt = Statement this.jdbcCon.createStatement()
       rs = ResultSet stmt.executeQuery(sqlstmt)
-      
+
       loop while rs.next()
 	do
-	  predicate       = rs.getString(1)
-	  subject	  = rs.getString(2)
-	  object	  = rs.getString(3)
+	  predicate       = "'"rs.getString(1)"'"
+	  subject	  = "'"rs.getString(2)"'"
+	  object	  = "'"rs.getString(3)"'"
 	catch NullPointerException
 	  say 'Nullpointer in getPredicatesAndWrite()'
+	  say predicate
+	  say subject
+	  say object
 	end -- do
-	line = predicate'('subject','object
+	line = predicate'('subject','object').'
 	dest.println(line)
       end -- do
-      
+
       rs.close()
       stmt.close()
       dest.close()

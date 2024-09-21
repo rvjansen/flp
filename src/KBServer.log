@@ -4316,3 +4316,44 @@
 08 Jan 2022 03:47:58,627 INFO main com.rvjansen.KBServer - KBserver Constructing Repository: start load
 08 Jan 2022 03:49:59,090 INFO main com.rvjansen.KBServer - KBServer load took 140530 millisecs = 2 minutes and  20.53 seconds
 08 Jan 2022 03:49:59,187 INFO main com.rvjansen.KBServer - Control is being given to KBServer.
+18 Sept 2024 21:29:02,396 INFO main com.rvjansen.KBServer - KBServer starting.
+18 Sept 2024 21:29:13,393 INFO main com.rvjansen.KBServer - KBserver Constructing Repository: start load
+18 Sept 2024 21:29:59,617 INFO main com.rvjansen.KBServer - KBServer starting.
+18 Sept 2024 21:33:39,212 INFO main com.rvjansen.KBServer - KBServer starting.
+18 Sept 2024 21:35:06,826 INFO main com.rvjansen.KBServer - KBServer starting.
+18 Sept 2024 21:35:27,669 INFO main com.rvjansen.KBServer - KBserver Constructing Repository: start load
+18 Sept 2024 21:36:14,416 INFO main com.rvjansen.KBServer - KBServer load took 67520 millisecs = 1 minute and  7.52 seconds
+18 Sept 2024 21:36:14,443 INFO main com.rvjansen.KBServer - Control is being given to KBServer.
+18 Sept 2024 21:36:26,085 TRACE RMI TCP Connection(4)-192.168.178.121 com.rvjansen.KBServer - Request cur(X). started
+18 Sept 2024 21:36:26,120 TRACE RMI TCP Connection(4)-192.168.178.121 com.rvjansen.KBServer - Request ended
+18 Sept 2024 21:36:35,418 TRACE RMI TCP Connection(4)-192.168.178.121 com.rvjansen.KBServer - Request aru(X). started
+18 Sept 2024 21:36:35,454 TRACE RMI TCP Connection(4)-192.168.178.121 com.rvjansen.KBServer - Request ended
+19 Sept 2024 10:12:05,042 TRACE RMI TCP Connection(157)-192.168.178.121 com.rvjansen.KBServer - Request aru(X). started
+19 Sept 2024 10:12:05,076 TRACE RMI TCP Connection(157)-192.168.178.121 com.rvjansen.KBServer - Request ended
+20 Sept 2024 12:14:26,387 TRACE RMI TCP Connection(782)-192.168.178.121 com.rvjansen.KBServer - Request ahalt. started
+20 Sept 2024 12:14:26,458 TRACE RMI TCP Connection(782)-192.168.178.121 com.rvjansen.KBServer - Request ended
+20 Sept 2024 23:33:26,443 INFO main com.rvjansen.KBServer - KBServer starting.
+20 Sept 2024 23:33:49,175 INFO main com.rvjansen.KBServer - KBserver Constructing Repository: start load
+20 Sept 2024 23:37:39,288 INFO main com.rvjansen.KBServer - KBServer starting.
+20 Sept 2024 23:40:34,622 INFO main com.rvjansen.KBServer - KBServer starting.
+20 Sept 2024 23:40:56,017 INFO main com.rvjansen.KBServer - KBserver Constructing Repository: start load
+21 Sept 2024 00:05:22,140 INFO main com.rvjansen.KBServer - KBServer starting.
+21 Sept 2024 00:05:43,889 INFO main com.rvjansen.KBServer - KBserver Constructing Repository: start load
+21 Sept 2024 00:19:42,275 INFO main com.rvjansen.KBServer - KBServer starting.
+21 Sept 2024 00:20:04,209 INFO main com.rvjansen.KBServer - KBserver Constructing Repository: start load
+21 Sept 2024 01:33:55,778 INFO main com.rvjansen.KBServer - KBServer starting.
+21 Sept 2024 01:34:18,844 INFO main com.rvjansen.KBServer - KBserver Constructing Repository: start load
+21 Sept 2024 01:44:28,190 INFO main com.rvjansen.KBServer - KBServer starting.
+21 Sept 2024 01:44:49,944 INFO main com.rvjansen.KBServer - KBserver Constructing Repository: start load
+21 Sept 2024 02:05:52,378 INFO main com.rvjansen.KBServer - KBServer starting.
+21 Sept 2024 02:06:14,213 INFO main com.rvjansen.KBServer - KBserver Constructing Repository: start load
+21 Sept 2024 02:07:02,016 INFO main com.rvjansen.KBServer - KBServer load took 69555 millisecs = 1 minute and  9.56 seconds
+21 Sept 2024 02:07:02,044 INFO main com.rvjansen.KBServer - Control is being given to KBServer.
+21 Sept 2024 02:07:27,832 TRACE RMI TCP Connection(5)-127.0.0.1 com.rvjansen.KBServer - Request ob(X). started
+21 Sept 2024 02:07:27,843 TRACE RMI TCP Connection(5)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 02:07:35,700 TRACE RMI TCP Connection(5)-127.0.0.1 com.rvjansen.KBServer - Request pap(X). started
+21 Sept 2024 02:07:35,863 TRACE RMI TCP Connection(5)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 02:07:43,046 TRACE RMI TCP Connection(5)-127.0.0.1 com.rvjansen.KBServer - Request aru(X). started
+21 Sept 2024 02:07:43,071 TRACE RMI TCP Connection(5)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 02:07:49,331 TRACE RMI TCP Connection(5)-127.0.0.1 com.rvjansen.KBServer - Request cur(X). started
+21 Sept 2024 02:07:49,351 TRACE RMI TCP Connection(5)-127.0.0.1 com.rvjansen.KBServer - Request ended
