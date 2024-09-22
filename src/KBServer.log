@@ -4357,3 +4357,1049 @@
 21 Sept 2024 02:07:43,071 TRACE RMI TCP Connection(5)-127.0.0.1 com.rvjansen.KBServer - Request ended
 21 Sept 2024 02:07:49,331 TRACE RMI TCP Connection(5)-127.0.0.1 com.rvjansen.KBServer - Request cur(X). started
 21 Sept 2024 02:07:49,351 TRACE RMI TCP Connection(5)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 10:59:57,421 INFO main com.rvjansen.KBServer - KBServer starting.
+21 Sept 2024 11:00:19,870 INFO main com.rvjansen.KBServer - KBserver Constructing Repository: start load
+21 Sept 2024 11:01:07,185 INFO main com.rvjansen.KBServer - KBServer load took 69626 millisecs = 1 minute and  9.63 seconds
+21 Sept 2024 11:01:07,215 INFO main com.rvjansen.KBServer - Control is being given to KBServer.
+21 Sept 2024 12:09:20,234 TRACE RMI TCP Connection(17)-127.0.0.1 com.rvjansen.KBServer - Request aru(X). started
+21 Sept 2024 12:09:20,274 TRACE RMI TCP Connection(17)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:09:43,432 TRACE RMI TCP Connection(17)-127.0.0.1 com.rvjansen.KBServer - Request ob(X). started
+21 Sept 2024 12:09:43,459 TRACE RMI TCP Connection(17)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:09:46,531 TRACE RMI TCP Connection(17)-127.0.0.1 com.rvjansen.KBServer - Request obj(X). started
+21 Sept 2024 12:09:46,532 TRACE RMI TCP Connection(17)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:09:55,367 TRACE RMI TCP Connection(17)-127.0.0.1 com.rvjansen.KBServer - Request obj(X,Y). started
+21 Sept 2024 12:09:55,367 TRACE RMI TCP Connection(17)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:12:59,577 TRACE RMI TCP Connection(19)-127.0.0.1 com.rvjansen.KBServer - Request nm(X,Y). started
+21 Sept 2024 12:13:01,364 TRACE RMI TCP Connection(19)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:50,614 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('8701860C-F92A-495B-A0BF-C76316DE647C',Y). started
+21 Sept 2024 12:13:50,912 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:50,916 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'8701860C-F92A-495B-A0BF-C76316DE647C'). started
+21 Sept 2024 12:13:50,916 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:50,919 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('2120B840-1A5D-11E3-9BFD-0A0027000000',Y). started
+21 Sept 2024 12:13:50,919 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:50,921 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('1117CCE0-1A5D-11E3-8B81-0A0027000000',Y). started
+21 Sept 2024 12:13:50,921 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:50,923 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('ADFD9D7F-A05F-4DB3-8B40-C7813D3900DC',Y). started
+21 Sept 2024 12:13:50,923 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:50,925 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'8701860C-F92A-495B-A0BF-C76316DE647C'). started
+21 Sept 2024 12:13:50,925 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:50,926 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('39CE19A0-22FF-11E3-B3FD-E0F847277696',Y). started
+21 Sept 2024 12:13:50,926 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:50,927 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request domain(X,'39CE19A0-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:13:51,270 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,272 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('39CF7930-22FF-11E3-B3FD-E0F847277696',Y). started
+21 Sept 2024 12:13:51,272 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,272 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'39CF7930-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:13:51,273 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,273 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'39CF7930-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:13:51,273 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,274 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('39CA9730-22FF-11E3-B3FD-E0F847277696',Y). started
+21 Sept 2024 12:13:51,274 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,275 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request domain(X,'39CA9730-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:13:51,275 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,276 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('39CCBA10-22FF-11E3-B3FD-E0F847277696',Y). started
+21 Sept 2024 12:13:51,277 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,278 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'39CCBA10-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:13:51,279 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,279 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'39CCBA10-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:13:51,279 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,280 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('39CBA8A0-22FF-11E3-B3FD-E0F847277696',Y). started
+21 Sept 2024 12:13:51,281 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,281 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'39CBA8A0-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:13:51,281 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,282 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'39CBA8A0-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:13:51,282 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,283 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('39BE8940-22FF-11E3-B3FD-E0F847277696',Y). started
+21 Sept 2024 12:13:51,283 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,284 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request domain(X,'39BE8940-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:13:51,284 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,286 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('39C00FE0-22FF-11E3-B3FD-E0F847277696',Y). started
+21 Sept 2024 12:13:51,286 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,287 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'39C00FE0-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:13:51,287 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,288 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'39C00FE0-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:13:51,288 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,289 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B31A140-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,289 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,290 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request domain(X,'3B31A140-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,290 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,291 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B34D590-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,291 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,292 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B34D590-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,292 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,293 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('61E5F500-23B5-11E3-8F69-E0F847277696',Y). started
+21 Sept 2024 12:13:51,293 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,294 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B34D590-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,294 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,295 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B3300D0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,295 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,296 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B3300D0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,296 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,297 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B365C30-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,297 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,298 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('C9D17630-26E9-11E3-83C3-E0F847277696',Y). started
+21 Sept 2024 12:13:51,298 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,303 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B3300D0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,303 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,304 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B5AD420-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,304 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,305 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request domain(X,'3B5AD420-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,305 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,306 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B5D6C30-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,306 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,307 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B5D6C30-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,307 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,308 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B5D6C30-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,308 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,309 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B6B00C0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,309 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,309 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B6B00C0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,309 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,310 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B6B00C0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,310 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,311 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B6A1660-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,311 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,311 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B6A1660-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,312 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,312 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B6A1660-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,312 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,313 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B697A20-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,313 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,313 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B697A20-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,314 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,314 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B697A20-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,314 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,315 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B68B6D0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,315 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,316 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B68B6D0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,316 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,317 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B68B6D0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,317 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,317 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B681A90-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,317 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,318 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B681A90-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,318 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,321 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B681A90-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,321 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,322 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B673030-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,323 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,323 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B673030-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,323 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,324 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B673030-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,324 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,325 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B6693F0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,325 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,325 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B6693F0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,325 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,326 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B6693F0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,326 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,327 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B65D0A0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,327 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,328 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B65D0A0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,328 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,328 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B65D0A0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,328 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,329 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B655B70-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,329 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,330 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B655B70-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,330 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,330 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B655B70-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,330 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,331 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B644A00-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,331 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,332 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B644A00-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,332 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,332 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B644A00-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,332 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,334 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B63ADC0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,334 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,335 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B63ADC0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,335 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,335 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B63ADC0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,335 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,336 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B631180-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,336 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,337 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B631180-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,337 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,338 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B631180-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,338 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,338 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B627540-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,338 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,339 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B627540-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,339 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,339 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B627540-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,340 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,340 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B618AE0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,340 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,341 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B618AE0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,341 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,341 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B618AE0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,341 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,342 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B60C790-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,342 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,343 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B60C790-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,343 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,343 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B60C790-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,343 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,344 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B6BC410-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,344 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,345 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request domain(X,'3B6BC410-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,345 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,346 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B6D98D0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,346 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,346 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B6D98D0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,346 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,347 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B6D98D0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,347 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,348 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B6D23A0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,348 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,349 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B6D23A0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,349 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,350 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B6D23A0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,350 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,352 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B6C6050-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,352 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,353 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B6C6050-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,353 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,353 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B6C6050-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,354 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,355 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B6E3510-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,355 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,356 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request domain(X,'3B6E3510-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,356 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,357 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B7030E0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,357 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,357 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B7030E0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,357 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,358 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B7030E0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,358 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,358 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B6FBBB0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,358 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,359 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B6FBBB0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,359 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,359 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B6FBBB0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,359 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,382 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B6ED150-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,382 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,383 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B6ED150-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,383 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,384 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B6ED150-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,384 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,385 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B70CD20-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,385 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,386 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B70CD20-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,386 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,390 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B70CD20-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,390 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,392 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B5FDD30-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,392 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,393 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B5FDD30-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,393 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,394 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B5FDD30-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,394 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,395 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B5F19E0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,395 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,396 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B5F19E0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,396 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,397 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B5F19E0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,397 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,398 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B5E5690-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,398 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,399 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B5E5690-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,399 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,400 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B5E5690-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,400 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,401 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B5C5AC0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,401 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,403 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B5C5AC0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,403 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,404 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B5C5AC0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,404 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,405 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B5B7060-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,406 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,407 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B5B7060-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,407 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,409 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B5B7060-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,409 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,410 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B64BF30-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,410 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,412 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B64BF30-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,412 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,413 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B64BF30-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,413 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,415 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B374690-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,415 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,416 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request domain(X,'3B374690-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,416 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,417 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B3D3A00-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,418 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,419 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B3D3A00-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,419 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,420 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B3D3A00-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,420 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,421 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B43F0C0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,421 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,422 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B43F0C0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,422 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,422 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B43F0C0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,422 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,423 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B55F220-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,423 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,425 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request domain(X,'3B55F220-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,425 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,426 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B59C2B0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,426 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,427 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B59C2B0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,427 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,427 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B59C2B0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,427 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,428 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B58FF60-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,429 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,430 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B58FF60-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,430 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,432 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B58FF60-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,432 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,433 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B586320-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,433 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,433 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B586320-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,433 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,434 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B586320-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,434 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,438 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B579FD0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,439 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,440 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B579FD0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,440 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,440 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B579FD0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,440 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,441 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B56DC80-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,441 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,442 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B56DC80-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,442 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,442 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B56DC80-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,442 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,443 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B4CF170-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,444 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,444 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request domain(X,'3B4CF170-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,444 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,445 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B53CF40-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,445 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,446 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B53CF40-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,446 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,447 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B53CF40-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,447 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,448 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B5296C0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,448 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,448 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B5296C0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,448 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,449 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B5296C0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,449 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,449 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B51D370-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,449 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,450 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B51D370-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,450 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,450 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B51D370-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,450 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,451 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B50E910-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,451 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,451 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B50E910-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,451 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,452 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B50E910-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,452 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,453 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B4FD7A0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,453 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,454 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B4FD7A0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,454 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,454 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B4FD7A0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,454 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,455 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B4EED40-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,455 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,455 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B4EED40-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,456 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,456 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B4EED40-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,456 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,456 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B4E29F0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,456 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,457 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B4E29F0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,457 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,457 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B4E29F0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,457 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,458 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B42B840-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,458 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,458 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B42B840-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,458 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,459 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B42B840-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,459 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,462 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B417FC0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,462 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,462 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B417FC0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,462 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,463 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B417FC0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,463 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,464 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B402030-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,464 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,465 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B402030-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,465 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,465 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B402030-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,465 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,466 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B3E7280-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,466 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,467 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B3E7280-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,467 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,467 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B3E7280-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,467 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,468 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B3C0180-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,468 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,468 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B3C0180-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,468 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,469 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B3C0180-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,469 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,469 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B3A7AE0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,469 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,471 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B3A7AE0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,471 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,471 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B3A7AE0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,471 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,472 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B38A620-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,472 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,472 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B38A620-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,472 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,472 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B38A620-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,472 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,473 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B455050-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,473 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,473 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request domain(X,'3B455050-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,473 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,474 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B4B1CB0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,474 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,474 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B4B1CB0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,474 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,475 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B4B1CB0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,475 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,475 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B49E430-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,475 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,475 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B49E430-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,475 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,476 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B49E430-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,476 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,476 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B483680-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,476 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,477 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B483680-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,477 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,477 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B483680-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,477 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,477 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B463AB0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:13:51,477 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,478 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B463AB0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,478 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,478 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B463AB0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:13:51,478 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,479 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('39C8E980-22FF-11E3-B3FD-E0F847277696',Y). started
+21 Sept 2024 12:13:51,479 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,479 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'39C8E980-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:13:51,479 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,480 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'39C8E980-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:13:51,480 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,480 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('39C73BD0-22FF-11E3-B3FD-E0F847277696',Y). started
+21 Sept 2024 12:13:51,480 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,481 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'39C73BD0-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:13:51,481 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,481 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'39C73BD0-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:13:51,481 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,481 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('39C5DC40-22FF-11E3-B3FD-E0F847277696',Y). started
+21 Sept 2024 12:13:51,481 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,482 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'39C5DC40-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:13:51,482 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,482 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'39C5DC40-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:13:51,482 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,483 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('39C47CB0-22FF-11E3-B3FD-E0F847277696',Y). started
+21 Sept 2024 12:13:51,483 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,484 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'39C47CB0-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:13:51,484 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,485 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'39C47CB0-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:13:51,485 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,486 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('39C34430-22FF-11E3-B3FD-E0F847277696',Y). started
+21 Sept 2024 12:13:51,486 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,486 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'39C34430-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:13:51,486 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,487 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'39C34430-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:13:51,487 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,487 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request nm('39C1BD90-22FF-11E3-B3FD-E0F847277696',Y). started
+21 Sept 2024 12:13:51,487 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,488 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'39C1BD90-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:13:51,488 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:13:51,489 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'39C1BD90-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:13:51,489 TRACE RMI TCP Connection(21)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:19:49,520 TRACE RMI TCP Connection(25)-127.0.0.1 com.rvjansen.KBServer - Request ob(X,Y). started
+21 Sept 2024 12:19:51,527 TRACE RMI TCP Connection(25)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:20:26,627 TRACE RMI TCP Connection(26)-127.0.0.1 com.rvjansen.KBServer - Request ob(X,Y). started
+21 Sept 2024 12:20:28,460 TRACE RMI TCP Connection(26)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:21:02,463 TRACE RMI TCP Connection(27)-127.0.0.1 com.rvjansen.KBServer - Request ob(X,Y),nm(Y,Z). started
+21 Sept 2024 12:21:05,186 TRACE RMI TCP Connection(27)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:22:21,695 TRACE RMI TCP Connection(30)-127.0.0.1 com.rvjansen.KBServer - Request ob(X,Y). started
+21 Sept 2024 12:22:23,401 TRACE RMI TCP Connection(30)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:23:13,133 TRACE RMI TCP Connection(31)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B3300D0-22FF-11E3-80E8-E0F847277696',X). started
+21 Sept 2024 12:23:13,135 TRACE RMI TCP Connection(31)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:24:12,992 TRACE RMI TCP Connection(32)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B3300D0-22FF-11E3-80E8-E0F847277696',X). started
+21 Sept 2024 12:24:12,993 TRACE RMI TCP Connection(32)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:24:40,231 TRACE RMI TCP Connection(33)-127.0.0.1 com.rvjansen.KBServer - Request nm('90728600-2305-11E3-ACBE-E0F847277696',X). started
+21 Sept 2024 12:24:40,231 TRACE RMI TCP Connection(33)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:24:55,446 TRACE RMI TCP Connection(34)-127.0.0.1 com.rvjansen.KBServer - Request desc('90728600-2305-11E3-ACBE-E0F847277696',X). started
+21 Sept 2024 12:24:55,447 TRACE RMI TCP Connection(34)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:25:19,586 TRACE RMI TCP Connection(35)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'90728600-2305-11E3-ACBE-E0F847277696'). started
+21 Sept 2024 12:25:19,586 TRACE RMI TCP Connection(35)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:26:17,270 TRACE RMI TCP Connection(37)-127.0.0.1 com.rvjansen.KBServer - Request lang(X,'90728600-2305-11E3-ACBE-E0F847277696'). started
+21 Sept 2024 12:26:17,395 TRACE RMI TCP Connection(37)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:26:25,551 TRACE RMI TCP Connection(37)-127.0.0.1 com.rvjansen.KBServer - Request lang('90728600-2305-11E3-ACBE-E0F847277696',X). started
+21 Sept 2024 12:26:25,830 TRACE RMI TCP Connection(37)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:26:36,651 TRACE RMI TCP Connection(37)-127.0.0.1 com.rvjansen.KBServer - Request lang('90728600-2305-11E3-ACBE-E0F847277696',X),nm(X,Z). started
+21 Sept 2024 12:26:36,651 TRACE RMI TCP Connection(37)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:28:52,625 TRACE RMI TCP Connection(39)-127.0.0.1 com.rvjansen.KBServer - Request fin(X). started
+21 Sept 2024 12:28:52,827 TRACE RMI TCP Connection(39)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:29:08,070 TRACE RMI TCP Connection(39)-127.0.0.1 com.rvjansen.KBServer - Request fin(X),nm(X,Y). started
+21 Sept 2024 12:29:08,399 TRACE RMI TCP Connection(39)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:32:00,933 TRACE RMI TCP Connection(41)-127.0.0.1 com.rvjansen.KBServer - Request fin(X),nm(X,Y),sort(A,Y). started
+21 Sept 2024 12:32:00,935 TRACE RMI TCP Connection(41)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:32:35,112 TRACE RMI TCP Connection(43)-127.0.0.1 com.rvjansen.KBServer - Request fin(X),nm(X,Y),sort(Y). started
+21 Sept 2024 12:32:35,113 TRACE RMI TCP Connection(43)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:32:39,361 TRACE RMI TCP Connection(43)-127.0.0.1 com.rvjansen.KBServer - Request fin(X),nm(X,Y). started
+21 Sept 2024 12:32:39,691 TRACE RMI TCP Connection(43)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:35:01,884 TRACE RMI TCP Connection(44)-127.0.0.1 com.rvjansen.KBServer - Request aru(X),nm(X,Y). started
+21 Sept 2024 12:35:01,940 TRACE RMI TCP Connection(44)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:35:10,857 TRACE RMI TCP Connection(44)-127.0.0.1 com.rvjansen.KBServer - Request cur(X),nm(X,Y). started
+21 Sept 2024 12:35:10,899 TRACE RMI TCP Connection(44)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:35:44,601 TRACE RMI TCP Connection(45)-127.0.0.1 com.rvjansen.KBServer - Request pap(X),nm(X,Y). started
+21 Sept 2024 12:35:44,649 TRACE RMI TCP Connection(45)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:35:57,437 TRACE RMI TCP Connection(45)-127.0.0.1 com.rvjansen.KBServer - Request pap(X),nm(_X,Y). started
+21 Sept 2024 12:36:19,145 TRACE RMI TCP Connection(48)-127.0.0.1 com.rvjansen.KBServer - Request pap(X),nm(X,Y). started
+21 Sept 2024 12:36:19,197 TRACE RMI TCP Connection(48)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:36:21,737 TRACE RMI TCP Connection(48)-127.0.0.1 com.rvjansen.KBServer - Request pap(X),nm(X,Y). started
+21 Sept 2024 12:36:21,793 TRACE RMI TCP Connection(48)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:36:22,938 TRACE RMI TCP Connection(48)-127.0.0.1 com.rvjansen.KBServer - Request pap(X),nm(X,Y). started
+21 Sept 2024 12:36:22,994 TRACE RMI TCP Connection(48)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:36:24,276 TRACE RMI TCP Connection(48)-127.0.0.1 com.rvjansen.KBServer - Request pap(X),nm(X,Y). started
+21 Sept 2024 12:36:24,314 TRACE RMI TCP Connection(48)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:36:25,874 TRACE RMI TCP Connection(48)-127.0.0.1 com.rvjansen.KBServer - Request pap(X),nm(X,Y). started
+21 Sept 2024 12:36:25,909 TRACE RMI TCP Connection(48)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:36:31,516 TRACE RMI TCP Connection(48)-127.0.0.1 com.rvjansen.KBServer - Request pap(X),nm(_X,Y). started
+21 Sept 2024 12:36:55,285 TRACE RMI TCP Connection(52)-127.0.0.1 com.rvjansen.KBServer - Request pap(_X),nm(_X,Y). started
+21 Sept 2024 12:36:55,330 TRACE RMI TCP Connection(52)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:37:21,689 TRACE RMI TCP Connection(53)-127.0.0.1 com.rvjansen.KBServer - Request pap(_X),nm(_X,Y). started
+21 Sept 2024 12:37:21,732 TRACE RMI TCP Connection(53)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:37:52,027 TRACE RMI TCP Connection(54)-127.0.0.1 com.rvjansen.KBServer - Request pap(_X),nm(_X,Y),desc(_X). started
+21 Sept 2024 12:37:52,028 TRACE RMI TCP Connection(54)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:37:57,024 TRACE RMI TCP Connection(54)-127.0.0.1 com.rvjansen.KBServer - Request pap(_X),nm(_X,Y),desc(_X,Z). started
+21 Sept 2024 12:37:57,034 TRACE RMI TCP Connection(54)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:38:45,687 TRACE RMI TCP Connection(55)-127.0.0.1 com.rvjansen.KBServer - Request pap(X),desc(X,Y). started
+21 Sept 2024 12:38:45,691 TRACE RMI TCP Connection(55)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:38:47,193 TRACE RMI TCP Connection(55)-127.0.0.1 com.rvjansen.KBServer - Request pap(X),desc(X,Y). started
+21 Sept 2024 12:38:47,197 TRACE RMI TCP Connection(55)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:39:05,838 TRACE RMI TCP Connection(55)-127.0.0.1 com.rvjansen.KBServer - Request pap(X),def(X,Y). started
+21 Sept 2024 12:39:05,868 TRACE RMI TCP Connection(55)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:39:31,000 TRACE RMI TCP Connection(56)-127.0.0.1 com.rvjansen.KBServer - Request aru(X),def(X). started
+21 Sept 2024 12:39:31,001 TRACE RMI TCP Connection(56)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:40:13,908 TRACE RMI TCP Connection(57)-127.0.0.1 com.rvjansen.KBServer - Request look('spoon'). started
+21 Sept 2024 12:40:13,908 TRACE RMI TCP Connection(57)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:40:15,333 TRACE RMI TCP Connection(57)-127.0.0.1 com.rvjansen.KBServer - Request look('spoon'). started
+21 Sept 2024 12:40:15,333 TRACE RMI TCP Connection(57)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:40:53,714 TRACE RMI TCP Connection(58)-127.0.0.1 com.rvjansen.KBServer - Request look('aardappel'). started
+21 Sept 2024 12:40:53,714 TRACE RMI TCP Connection(58)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:41:03,874 TRACE RMI TCP Connection(58)-127.0.0.1 com.rvjansen.KBServer - Request look('aardappel',Y). started
+21 Sept 2024 12:41:04,481 TRACE RMI TCP Connection(58)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:41:48,243 TRACE RMI TCP Connection(60)-127.0.0.1 com.rvjansen.KBServer - Request scheme(X,Y). started
+21 Sept 2024 12:41:48,244 TRACE RMI TCP Connection(60)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:41:50,679 TRACE RMI TCP Connection(60)-127.0.0.1 com.rvjansen.KBServer - Request scheme(X). started
+21 Sept 2024 12:41:50,800 TRACE RMI TCP Connection(60)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:06,257 TRACE RMI TCP Connection(60)-127.0.0.1 com.rvjansen.KBServer - Request scheme(X),nm(X,Y). started
+21 Sept 2024 12:42:06,257 TRACE RMI TCP Connection(60)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,402 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('8701860C-F92A-495B-A0BF-C76316DE647C',Y). started
+21 Sept 2024 12:42:24,402 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,405 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'8701860C-F92A-495B-A0BF-C76316DE647C'). started
+21 Sept 2024 12:42:24,405 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,408 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('2120B840-1A5D-11E3-9BFD-0A0027000000',Y). started
+21 Sept 2024 12:42:24,408 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,409 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('1117CCE0-1A5D-11E3-8B81-0A0027000000',Y). started
+21 Sept 2024 12:42:24,409 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,411 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('ADFD9D7F-A05F-4DB3-8B40-C7813D3900DC',Y). started
+21 Sept 2024 12:42:24,411 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,412 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'8701860C-F92A-495B-A0BF-C76316DE647C'). started
+21 Sept 2024 12:42:24,412 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,414 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('39CE19A0-22FF-11E3-B3FD-E0F847277696',Y). started
+21 Sept 2024 12:42:24,414 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,414 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request domain(X,'39CE19A0-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:42:24,414 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,416 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('39CF7930-22FF-11E3-B3FD-E0F847277696',Y). started
+21 Sept 2024 12:42:24,416 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,417 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'39CF7930-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:42:24,417 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,417 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'39CF7930-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:42:24,417 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,418 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('39CA9730-22FF-11E3-B3FD-E0F847277696',Y). started
+21 Sept 2024 12:42:24,418 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,419 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request domain(X,'39CA9730-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:42:24,419 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,420 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('39CCBA10-22FF-11E3-B3FD-E0F847277696',Y). started
+21 Sept 2024 12:42:24,420 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,421 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'39CCBA10-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:42:24,421 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,421 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'39CCBA10-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:42:24,421 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,422 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('39CBA8A0-22FF-11E3-B3FD-E0F847277696',Y). started
+21 Sept 2024 12:42:24,422 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,423 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'39CBA8A0-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:42:24,423 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,423 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'39CBA8A0-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:42:24,423 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,424 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('39BE8940-22FF-11E3-B3FD-E0F847277696',Y). started
+21 Sept 2024 12:42:24,424 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,425 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request domain(X,'39BE8940-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:42:24,425 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,426 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('39C00FE0-22FF-11E3-B3FD-E0F847277696',Y). started
+21 Sept 2024 12:42:24,426 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,427 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'39C00FE0-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:42:24,427 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,427 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'39C00FE0-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:42:24,427 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,428 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B31A140-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,428 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,429 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request domain(X,'3B31A140-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,429 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,430 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B34D590-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,430 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,431 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B34D590-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,431 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,432 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('61E5F500-23B5-11E3-8F69-E0F847277696',Y). started
+21 Sept 2024 12:42:24,432 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,433 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B34D590-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,433 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,433 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B3300D0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,434 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,434 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B3300D0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,434 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,435 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B365C30-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,435 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,436 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('C9D17630-26E9-11E3-83C3-E0F847277696',Y). started
+21 Sept 2024 12:42:24,436 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,436 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B3300D0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,436 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,438 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B5AD420-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,438 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,439 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request domain(X,'3B5AD420-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,439 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,440 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B5D6C30-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,441 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,441 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B5D6C30-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,441 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,442 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B5D6C30-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,442 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,443 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B6B00C0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,443 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,443 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B6B00C0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,443 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,444 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B6B00C0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,444 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,444 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B6A1660-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,445 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,445 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B6A1660-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,445 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,446 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B6A1660-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,446 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,446 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B697A20-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,446 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,447 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B697A20-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,447 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,447 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B697A20-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,447 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,448 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B68B6D0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,448 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,448 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B68B6D0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,448 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,449 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B68B6D0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,449 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,449 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B681A90-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,449 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,450 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B681A90-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,450 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,451 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B681A90-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,451 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,452 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B673030-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,452 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,452 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B673030-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,452 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,453 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B673030-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,453 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,453 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B6693F0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,453 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,454 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B6693F0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,454 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,454 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B6693F0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,454 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,455 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B65D0A0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,455 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,455 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B65D0A0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,455 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,456 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B65D0A0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,456 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,456 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B655B70-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,456 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,457 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B655B70-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,457 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,457 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B655B70-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,457 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,458 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B644A00-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,458 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,459 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B644A00-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,459 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,459 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B644A00-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,459 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,460 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B63ADC0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,460 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,461 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B63ADC0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,461 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,461 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B63ADC0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,461 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,462 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B631180-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,462 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,463 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B631180-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,463 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,463 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B631180-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,463 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,464 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B627540-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,464 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,464 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B627540-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,464 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,465 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B627540-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,465 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,465 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B618AE0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,465 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,466 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B618AE0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,466 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,466 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B618AE0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,466 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,467 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B60C790-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,467 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,467 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B60C790-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,467 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,468 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B60C790-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,468 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,468 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B6BC410-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,468 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,469 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request domain(X,'3B6BC410-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,469 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,469 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B6D98D0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,469 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,470 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B6D98D0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,470 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,470 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B6D98D0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,470 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,471 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B6D23A0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,471 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,471 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B6D23A0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,471 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,471 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B6D23A0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,471 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,472 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B6C6050-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,472 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,473 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B6C6050-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,473 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,473 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B6C6050-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,473 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,474 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B6E3510-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,474 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,474 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request domain(X,'3B6E3510-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,474 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,485 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B7030E0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,485 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,486 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B7030E0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,486 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,486 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B7030E0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,486 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,487 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B6FBBB0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,487 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,487 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B6FBBB0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,487 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,488 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B6FBBB0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,488 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,488 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B6ED150-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,488 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,489 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B6ED150-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,489 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,489 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B6ED150-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,489 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,490 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B70CD20-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,490 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,491 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B70CD20-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,491 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,491 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B70CD20-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,491 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,492 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B5FDD30-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,492 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,492 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B5FDD30-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,492 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,493 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B5FDD30-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,493 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,494 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B5F19E0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,494 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,494 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B5F19E0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,494 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,495 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B5F19E0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,495 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,496 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B5E5690-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,496 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,496 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B5E5690-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,496 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,497 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B5E5690-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,497 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,497 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B5C5AC0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,497 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,498 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B5C5AC0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,498 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,499 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B5C5AC0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,499 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,500 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B5B7060-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,500 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,500 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B5B7060-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,500 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,500 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B5B7060-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,500 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,501 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B64BF30-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,501 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,502 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B64BF30-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,502 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,502 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B64BF30-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,502 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,503 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B374690-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,503 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,504 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request domain(X,'3B374690-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,504 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,506 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B3D3A00-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,506 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,506 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B3D3A00-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,506 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,507 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B3D3A00-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,507 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,507 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B43F0C0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,507 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,508 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B43F0C0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,508 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,508 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B43F0C0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,508 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,509 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B55F220-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,509 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,509 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request domain(X,'3B55F220-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,509 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,511 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B59C2B0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,511 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,512 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B59C2B0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,513 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,513 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B59C2B0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,513 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,514 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B58FF60-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,514 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,515 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B58FF60-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,515 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,515 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B58FF60-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,515 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,516 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B586320-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,516 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,517 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B586320-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,517 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,517 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B586320-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,517 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,518 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B579FD0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,518 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,521 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B579FD0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,521 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,521 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B579FD0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,521 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,522 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B56DC80-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,522 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,522 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B56DC80-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,522 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,524 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B56DC80-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,524 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,525 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B4CF170-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,525 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,525 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request domain(X,'3B4CF170-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,525 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,526 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B53CF40-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,526 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,527 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B53CF40-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,527 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,527 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B53CF40-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,527 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,528 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B5296C0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,528 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,528 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B5296C0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,528 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,529 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B5296C0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,529 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,529 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B51D370-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,530 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,530 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B51D370-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,530 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,531 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B51D370-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,531 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,531 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B50E910-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,531 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,532 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B50E910-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,532 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,532 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B50E910-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,532 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,533 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B4FD7A0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,533 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,533 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B4FD7A0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,533 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,534 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B4FD7A0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,534 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,534 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B4EED40-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,534 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,535 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B4EED40-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,535 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,535 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B4EED40-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,535 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,536 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B4E29F0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,536 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,539 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B4E29F0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,540 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,540 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B4E29F0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,540 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,541 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B42B840-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,541 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,541 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B42B840-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,541 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,541 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B42B840-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,541 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,542 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B417FC0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,542 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,543 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B417FC0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,543 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,543 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B417FC0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,543 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,544 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B402030-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,544 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,544 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B402030-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,544 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,544 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B402030-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,544 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,545 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B3E7280-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,545 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,545 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B3E7280-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,545 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,545 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B3E7280-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,546 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,546 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B3C0180-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,546 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,547 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B3C0180-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,547 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,547 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B3C0180-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,547 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,548 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B3A7AE0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,548 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,548 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B3A7AE0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,548 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,548 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B3A7AE0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,548 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,549 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B38A620-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,549 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,549 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B38A620-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,549 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,549 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B38A620-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,549 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,550 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B455050-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,550 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,550 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request domain(X,'3B455050-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,550 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,551 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B4B1CB0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,551 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,551 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B4B1CB0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,551 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,552 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B4B1CB0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,552 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,552 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B49E430-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,552 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,553 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B49E430-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,553 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,553 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B49E430-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,553 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,554 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B483680-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,554 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,554 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B483680-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,554 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,554 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B483680-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,554 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,555 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('3B463AB0-22FF-11E3-80E8-E0F847277696',Y). started
+21 Sept 2024 12:42:24,555 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,555 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'3B463AB0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,555 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,555 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'3B463AB0-22FF-11E3-80E8-E0F847277696'). started
+21 Sept 2024 12:42:24,555 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,556 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('39C8E980-22FF-11E3-B3FD-E0F847277696',Y). started
+21 Sept 2024 12:42:24,556 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,556 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'39C8E980-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:42:24,556 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,557 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'39C8E980-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:42:24,557 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,557 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('39C73BD0-22FF-11E3-B3FD-E0F847277696',Y). started
+21 Sept 2024 12:42:24,557 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,557 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'39C73BD0-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:42:24,557 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,558 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'39C73BD0-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:42:24,558 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,558 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('39C5DC40-22FF-11E3-B3FD-E0F847277696',Y). started
+21 Sept 2024 12:42:24,558 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,559 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'39C5DC40-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:42:24,559 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,559 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'39C5DC40-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:42:24,559 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,560 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('39C47CB0-22FF-11E3-B3FD-E0F847277696',Y). started
+21 Sept 2024 12:42:24,560 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,560 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'39C47CB0-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:42:24,560 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,560 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'39C47CB0-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:42:24,560 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,561 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('39C34430-22FF-11E3-B3FD-E0F847277696',Y). started
+21 Sept 2024 12:42:24,561 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,562 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'39C34430-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:42:24,562 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,562 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'39C34430-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:42:24,562 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,563 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request nm('39C1BD90-22FF-11E3-B3FD-E0F847277696',Y). started
+21 Sept 2024 12:42:24,563 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,563 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request desc(X,'39C1BD90-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:42:24,563 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 12:42:24,563 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request cl(X,'39C1BD90-22FF-11E3-B3FD-E0F847277696'). started
+21 Sept 2024 12:42:24,563 TRACE RMI TCP Connection(62)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 13:15:57,400 TRACE RMI TCP Connection(75)-127.0.0.1 com.rvjansen.KBServer - Request look('sacaboy',Y). started
+21 Sept 2024 13:15:57,401 TRACE RMI TCP Connection(75)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 13:20:08,940 TRACE RMI TCP Connection(78)-127.0.0.1 com.rvjansen.KBServer - Request look('verkavel',Y). started
+21 Sept 2024 13:20:08,941 TRACE RMI TCP Connection(78)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 13:20:29,136 TRACE RMI TCP Connection(79)-127.0.0.1 com.rvjansen.KBServer - Request look('waltaca',Y). started
+21 Sept 2024 13:20:29,136 TRACE RMI TCP Connection(79)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 13:20:39,925 TRACE RMI TCP Connection(79)-127.0.0.1 com.rvjansen.KBServer - Request look('wals',Y). started
+21 Sept 2024 13:20:39,925 TRACE RMI TCP Connection(79)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 13:20:46,968 TRACE RMI TCP Connection(79)-127.0.0.1 com.rvjansen.KBServer - Request look('wals',def). started
+21 Sept 2024 13:20:46,968 TRACE RMI TCP Connection(79)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 13:21:28,570 TRACE RMI TCP Connection(81)-127.0.0.1 com.rvjansen.KBServer - Request nm(Y,'wals'). started
+21 Sept 2024 13:21:28,571 TRACE RMI TCP Connection(81)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 13:21:33,232 TRACE RMI TCP Connection(81)-127.0.0.1 com.rvjansen.KBServer - Request nm(Y,'waltaca'). started
+21 Sept 2024 13:21:33,232 TRACE RMI TCP Connection(81)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 13:21:40,032 TRACE RMI TCP Connection(81)-127.0.0.1 com.rvjansen.KBServer - Request nm(Y,'verkavel'). started
+21 Sept 2024 13:21:40,032 TRACE RMI TCP Connection(81)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 13:22:07,861 TRACE RMI TCP Connection(81)-127.0.0.1 com.rvjansen.KBServer - Request nm(Y,'verkavel'),look(Y,Z). started
+21 Sept 2024 13:22:07,861 TRACE RMI TCP Connection(81)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 13:23:33,417 TRACE RMI TCP Connection(82)-127.0.0.1 com.rvjansen.KBServer - Request nm(Y,'verkavel'),lemmasynset(Y). started
+21 Sept 2024 13:23:33,421 TRACE RMI TCP Connection(82)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 13:24:23,779 TRACE RMI TCP Connection(87)-127.0.0.1 com.rvjansen.KBServer - Request nm(Y,'verkavel'),lang(Y,Z). started
+21 Sept 2024 13:24:23,779 TRACE RMI TCP Connection(87)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 13:24:34,104 TRACE RMI TCP Connection(87)-127.0.0.1 com.rvjansen.KBServer - Request nm(Y,'verkavel'),lang(Y,Z),nm(Z,A). started
+21 Sept 2024 13:24:34,105 TRACE RMI TCP Connection(87)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 13:24:51,885 TRACE RMI TCP Connection(87)-127.0.0.1 com.rvjansen.KBServer - Request nm(Y,'waltaca'),lang(Y,Z),nm(Z,A). started
+21 Sept 2024 13:24:51,886 TRACE RMI TCP Connection(87)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 13:25:19,690 TRACE RMI TCP Connection(88)-127.0.0.1 com.rvjansen.KBServer - Request look('aardappel',Z). started
+21 Sept 2024 13:25:19,691 TRACE RMI TCP Connection(88)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 13:42:20,554 TRACE RMI TCP Connection(96)-127.0.0.1 com.rvjansen.KBServer - Request nm(X,'aardappel'). started
+21 Sept 2024 13:42:20,554 TRACE RMI TCP Connection(96)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 13:42:46,006 TRACE RMI TCP Connection(97)-127.0.0.1 com.rvjansen.KBServer - Request nm(X,'aardappel'),lang(X,Y). started
+21 Sept 2024 13:42:46,006 TRACE RMI TCP Connection(97)-127.0.0.1 com.rvjansen.KBServer - Request ended
+21 Sept 2024 13:43:00,231 TRACE RMI TCP Connection(97)-127.0.0.1 com.rvjansen.KBServer - Request nm(X,'aardappel'),lang(X,Y),nm(Y,Z). started
+21 Sept 2024 13:43:00,231 TRACE RMI TCP Connection(97)-127.0.0.1 com.rvjansen.KBServer - Request ended
