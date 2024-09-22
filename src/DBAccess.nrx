@@ -28,7 +28,7 @@ class DBAccess
     -- url_ = 'jdbc:postgresql://localhost/rvjansen'
     -- Class.forName("org.postgresql.Driver")
 
-    url_ = 'jdbc:duckdb:/Volumes/data/apps/flp/src/words.db'
+    url_ = 'jdbc:duckdb:/Users/rvjansen/apps/flp/src/words.db'
     Class.forName("org.duckdb.DuckDBDriver")
 
     do

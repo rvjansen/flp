@@ -1,12 +1,13 @@
 /* rexx */
-i6stem=''; i6stem=i6stem
-i6stem[0]=2
-o6utstem=''
-i6stem[1]='.open words.db'
-i6stem[2]='select predicate from predicate;'
-address system 'duckdb' with -
-  input stem i6stem -
-  output stem o6utstem
+instem=''; instem=instem
+instem.0=3
+outstem=''
+instem.1='.mode column'
+instem.2='.open words.db'
+instem.3= "select predicate, object from predicate where object = 'aardappel' ;"
 
-say o6utstem.1
+address system 'duckdb' with input stem instem. output stem outstem.
 
+loop i=1 to outstem.0
+  say '|'outstem.i'|'
+end

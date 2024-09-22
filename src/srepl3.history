@@ -152,3 +152,5 @@
 1726918965982:nm(X,'aardappel'),lang(X,Y).
 1726918980209:nm(X,'aardappel'),lang(X,Y),nm(Y,Z).
 1726919244180:halt.
+1727040087411:nm(X,'aardappel'),lang(X,Y),nm(Y,Z).
+1727040099774:halt.

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.6.5)  6 JAN 2024 14:03
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.6.5)  22 SEP 2024 23:25
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1285,7 +1285,7 @@ Package marginnote Warning: Consecutive odd pages found.
 (marginnote)                changing the page numbering on page III.
 
 Package marginnote Info: Using workaround for absolute page number on input lin
-e 33.
+e 34.
 [4])
 \tf@toc=\write8
 \openout8 = `book.toc'.
@@ -1531,6 +1531,11 @@ theless
  []
 
 
+Underfull \hbox (badness 1546) in paragraph at lines 4--25
+\TU/MinionPro(1)/m/n/9 allegiance or responsibility; "his abandonment of his
+ []
+
+
 Underfull \hbox (badness 1067) in paragraph at lines 4--25
 \TU/MinionPro(1)/b/n/9 abilidat \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/Calibri-Ita
 lic(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 1. possession of the qualities (especiall
@@ -1545,10 +1550,10 @@ tc.)
  []
 
 
-Overfull \hbox (4.36458pt too wide) in paragraph at lines 4--25
-\TU/MinionPro(1)/b/n/9 abraso \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/ArialNarrow(0
-)/m/n/9 α \TU/MinionPro(1)/m/n/9 squeeze (someone) tightly in your arms,usually
-
+Overfull \hbox (3.64534pt too wide) in paragraph at lines 4--25
+\TU/MinionPro(1)/b/n/9 abraso \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/Calibri-Itali
+c(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 squeeze (someone) tightly in your arms,usua
+lly
  []
 
 
@@ -1558,14 +1563,32 @@ rrow(0)/m/n/9 α \TU/MinionPro(1)/m/n/9 surprisingly and unceremoniously
  []
 
 
+Overfull \hbox (7.42233pt too wide) in paragraph at lines 4--25
+\TU/MinionPro(1)/b/n/9 abrupto \TU/MinionPro(1)/m/it/9 adj \TU/LucidaSansUnicod
+e(0)/m/n/9 ␝\TU/Calibri-Italic(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 surprisingly a
+nd unceremoniously brusque
+ []
+
+
 Underfull \hbox (badness 1331) in paragraph at lines 4--25
 \TU/MinionPro(1)/b/n/9 absoluto \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/ArialNarrow
 (0)/m/n/9 α \TU/MinionPro(1)/m/n/9 1. complete and without restriction or
  []
 
 
+Underfull \hbox (badness 1038) in paragraph at lines 4--25
+\TU/MinionPro(1)/m/n/9 interest in butterflies absorbs her completely" 2. take
+ []
+
+
 Underfull \hbox (badness 1097) in paragraph at lines 4--25
 \TU/MinionPro(1)/m/n/9 without practical purpose or intention; "abstract rea-
+ []
+
+
+Overfull \hbox (5.26756pt too wide) in paragraph at lines 4--25
+\TU/MinionPro(1)/b/n/9 academico \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/ArialNarro
+w(0)/m/n/9 α \TU/MinionPro(1)/m/n/9 1. associated with academia or an academy;
  []
 
 
@@ -1583,11 +1606,6 @@ row(0)/m/n/9 α \TU/MinionPro(1)/m/n/9 make advances to someone,usually
 Underfull \hbox (badness 1024) in paragraph at lines 4--25
 \TU/MinionPro(1)/b/n/9 acercando \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/ArialNarro
 w(0)/m/n/9 α \TU/MinionPro(1)/m/n/9 of the relatively near future; "the ap-
- []
-
-
-Underfull \hbox (badness 1014) in paragraph at lines 4--25
-\TU/MinionPro(1)/m/n/9 tone piercing otherwise flowery prose"; "a barrage of
  []
 
 
@@ -1615,6 +1633,12 @@ Underfull \hbox (badness 1888) in paragraph at lines 4--25
  []
 
 
+Overfull \hbox (0.24557pt too wide) in paragraph at lines 4--25
+\TU/MinionPro(1)/b/n/9 admirador \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/ArialNarro
+w(0)/m/n/9 α \TU/MinionPro(1)/m/n/9 1. someone who admires a young woman;
+ []
+
+
 Overfull \hbox (58.28975pt too wide) in paragraph at lines 4--25
 \TU/MinionPro(1)/m/n/9 children from Nicaragua" 2. take up the cause,ideology,p
 ractice,method,of
@@ -1624,6 +1648,12 @@ ractice,method,of
 Overfull \hbox (30.62076pt too wide) in paragraph at lines 4--25
 \TU/MinionPro(1)/m/n/9 two children from Nicaragua" 2. take on a certain form,a
 ttribute,or
+ []
+
+
+Overfull \hbox (56.58575pt too wide) in paragraph at lines 4--25
+\TU/MinionPro(1)/m/n/9 imal form in these fables" 3. take up the cause,ideology
+,practice,method,of
  []
 
 
@@ -1639,18 +1669,8 @@ alic(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 a commercial enterprise that provides
  []
 
 
-Underfull \hbox (badness 1297) in paragraph at lines 4--25
-\TU/MinionPro(1)/m/n/9 Intelligence Agency"; "the Census Bureau"; "Office of
- []
-
-
-Underfull \hbox (badness 1762) in paragraph at lines 4--25
-\TU/MinionPro(1)/m/n/9 culture or farming; "agricultural engineering"; "mod-
- []
-
-
-Underfull \hbox (badness 1867) in paragraph at lines 4--25
-\TU/MinionPro(1)/m/n/9 quarters provided for public convenience; "overnight
+Underfull \hbox (badness 1132) in paragraph at lines 4--25
+\TU/MinionPro(1)/m/n/9 representations in order to accommodate a changing
  []
 
 
@@ -1669,20 +1689,9 @@ Underfull \hbox (badness 1629) in paragraph at lines 4--25
  []
 
 
-Underfull \hbox (badness 1072) in paragraph at lines 4--25
-\TU/MinionPro(1)/m/n/9 resources; "ambitious schedule"; "performed the most
- []
-
-
 Underfull \hbox (badness 1755) in paragraph at lines 4--25
 \TU/MinionPro(1)/m/n/9 in using analysis (i.e.,separating a whole--intellectual
 
- []
-
-
-Underfull \hbox (badness 1292) in paragraph at lines 4--25
-\TU/MinionPro(1)/b/n/9 anatomia \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/ArialNarrow
-(0)/m/n/9 α \TU/MinionPro(1)/m/n/9 1. a detailed analysis; "he studied the
  []
 
 
@@ -1707,6 +1716,12 @@ Underfull \hbox (badness 1565) in paragraph at lines 4--25
  []
 
 
+Underfull \hbox (badness 1496) in paragraph at lines 4--25
+\TU/MinionPro(1)/b/n/9 aplouso \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/Calibri-Ital
+ic(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 1. enthusiastic approval; "the book met
+ []
+
+
 Underfull \hbox (badness 1874) in paragraph at lines 4--25
 \TU/MinionPro(1)/m/n/9 one good; "although she fussed at them,she secretly
  []
@@ -1717,15 +1732,9 @@ Underfull \hbox (badness 1097) in paragraph at lines 4--25
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 4--25
-\TU/MinionPro(1)/b/n/9 argumento \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/ArialNarro
-w(0)/m/n/9 α \TU/MinionPro(1)/m/n/9 1. (computer science) a reference or
- []
-
-
-Overfull \hbox (37.94676pt too wide) in paragraph at lines 4--25
-\TU/MinionPro(1)/m/n/9 value that is passed to a function,procedure,subroutine,
-command,or
+Underfull \hbox (badness 1253) in paragraph at lines 4--25
+\TU/MinionPro(1)/m/n/9 science of architecture; "architectural history"; "archi
+-
  []
 
 
@@ -1736,13 +1745,17 @@ cial
 
 
 Underfull \hbox (badness 1515) in paragraph at lines 4--25
-\TU/MinionPro(1)/m/n/9 asphalt; "asphalt the driveway" 3. mixed asphalt and
+\TU/MinionPro(1)/m/n/9 wonder; "New York is an amazing city"; "the Grand
  []
 
 
-Overfull \hbox (0.68077pt too wide) in paragraph at lines 4--25
-\TU/MinionPro(1)/m/n/9 used as an analgesic anti-inflammatory drug (trade names
+Underfull \hbox (badness 1226) in paragraph at lines 4--25
+\TU/MinionPro(1)/m/n/9 plexity of the universe"; "this sea,whose gently awful
+ []
 
+
+Underfull \hbox (badness 1028) in paragraph at lines 4--25
+\TU/MinionPro(1)/m/n/9 as an analgesic anti-inflammatory drug (trade names
  []
 
 
@@ -1769,8 +1782,8 @@ ro-
  []
 
 
-Underfull \hbox (badness 1112) in paragraph at lines 4--25
-\TU/MinionPro(1)/m/n/9 "a base,degrading way of life"; "cheating is dishonor-
+Underfull \hbox (badness 1354) in paragraph at lines 4--25
+\TU/MinionPro(1)/m/n/9 usually to musical accompaniment; do or perform a
  []
 
 
@@ -1781,9 +1794,9 @@ ody; "We tricked the
  []
 
 
-Underfull \hbox (badness 1394) in paragraph at lines 4--25
-\TU/MinionPro(1)/b/n/9 balki \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/ArialNarrow(0)
-/m/n/9 α \TU/MinionPro(1)/m/n/9 1. a gymnastic apparatus used by women
+Underfull \hbox (badness 1558) in paragraph at lines 4--25
+\TU/MinionPro(1)/b/n/9 balki \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/Calibri-Italic
+(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 1. a gymnastic apparatus used by women
  []
 
 
@@ -1820,6 +1833,11 @@ cy;
  []
 
 
+Underfull \hbox (badness 1173) in paragraph at lines 4--25
+\TU/MinionPro(1)/m/n/9 tume"; "loud sport shirts"; "a meretricious yet stylish
+ []
+
+
 Overfull \hbox (0.89436pt too wide) in paragraph at lines 4--25
 \TU/MinionPro(1)/b/n/9 barbakoa \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/Calibri-Ita
 lic(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 warm-blooded egg-laying vertebrates char-
@@ -1827,9 +1845,9 @@ lic(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 warm-blooded egg-laying vertebrates char-
  []
 
 
-Underfull \hbox (badness 1107) in paragraph at lines 4--25
-\TU/MinionPro(1)/b/n/9 barbero \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/ArialNarrow(
-0)/m/n/9 α \TU/MinionPro(1)/m/n/9 a hairdresser who cuts hair and shaves
+Underfull \hbox (badness 1248) in paragraph at lines 4--25
+\TU/MinionPro(1)/b/n/9 barbero \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/Calibri-Ital
+ic(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 a hairdresser who cuts hair and shaves
  []
 
 
@@ -1876,9 +1894,9 @@ Overfull \hbox (1.76976pt too wide) in paragraph at lines 4--25
  []
 
 
-Underfull \hbox (badness 1448) in paragraph at lines 4--25
-\TU/MinionPro(1)/b/n/9 beyesa \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/ArialNarrow(0
-)/m/n/9 α \TU/MinionPro(1)/m/n/9 1. a very attractive or seductive looking
+Underfull \hbox (badness 1616) in paragraph at lines 4--25
+\TU/MinionPro(1)/b/n/9 beyesa \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/Calibri-Itali
+c(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 1. a very attractive or seductive looking
  []
 
 
@@ -1914,8 +1932,8 @@ c(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 air moving (sometimes with considerable
  []
 
 
-Underfull \hbox (badness 1052) in paragraph at lines 4--25
-\TU/MinionPro(1)/m/n/9 somebody or approach something or somebody; "He
+Underfull \hbox (badness 1038) in paragraph at lines 4--25
+\TU/MinionPro(1)/m/n/9 circumstances; "near neighbors"; "in the near future";
  []
 
 
@@ -1931,8 +1949,9 @@ I
  []
 
 
-Underfull \hbox (badness 1038) in paragraph at lines 4--25
-\TU/MinionPro(1)/m/n/9 ing; "muddleheaded ideas"; "your addled little brain";
+Overfull \hbox (2.00977pt too wide) in paragraph at lines 4--25
+\TU/MinionPro(1)/m/n/9 thinking; "muddleheaded ideas"; "your addled little brai
+n";
  []
 
 
@@ -1942,14 +1961,13 @@ ds;
  []
 
 
-Underfull \hbox (badness 1881) in paragraph at lines 4--25
-\TU/MinionPro(1)/m/n/9 ken or damaged; "earthenware pottery is breakable";
+Underfull \hbox (badness 1320) in paragraph at lines 4--25
+\TU/MinionPro(1)/m/n/9 shevik Revolution" 2. a Russian member of the left-
  []
 
 
-Underfull \hbox (badness 1418) in paragraph at lines 4--25
-\TU/MinionPro(1)/b/n/9 budismo \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/ArialNarrow(
-0)/m/n/9 α \TU/MinionPro(1)/m/n/9 1. a religion represented by the many
+Underfull \hbox (badness 1881) in paragraph at lines 4--25
+\TU/MinionPro(1)/m/n/9 ken or damaged; "earthenware pottery is breakable";
  []
 
 
@@ -1976,9 +1994,10 @@ Underfull \hbox (badness 1226) in paragraph at lines 4--25
  []
 
 
-Overfull \hbox (3.90575pt too wide) in paragraph at lines 4--25
-\TU/MinionPro(1)/m/n/9 Canada; "the border between the United States and Canada
-
+Underfull \hbox (badness 1082) in paragraph at lines 4--25
+\TU/MinionPro(1)/b/n/9 Canada \TU/MinionPro(1)/m/it/9 n \TU/LucidaSansUnicode(0
+)/m/n/9 ␝\TU/Calibri-Italic(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 a nation in north
+ern North America;
  []
 
 
@@ -2022,6 +2041,12 @@ rrow(0)/m/n/9 α \TU/MinionPro(1)/m/n/9 diagnostic procedure consisting of
  []
 
 
+Underfull \hbox (badness 1430) in paragraph at lines 4--25
+\TU/MinionPro(1)/b/n/9 carnivoor \TU/ArialNarrow(0)/m/n/9 α \TU/MinionPro(1)/m/
+n/9 any animal that feeds on flesh; "Tyran-
+ []
+
+
 Overfull \hbox (2.15356pt too wide) in paragraph at lines 4--25
 \TU/MinionPro(1)/b/n/9 carpinte \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/ArialNarrow
 (0)/m/n/9 α \TU/MinionPro(1)/m/n/9 a woodworker who makes or repairs wooden
@@ -2031,13 +2056,6 @@ Overfull \hbox (2.15356pt too wide) in paragraph at lines 4--25
 Overfull \hbox (1.76976pt too wide) in paragraph at lines 4--25
 \TU/MinionPro(1)/m/n/9 small personal items or accessories (especially by women
 );
- []
-
-
-Overfull \hbox (3.86958pt too wide) in paragraph at lines 4--25
-\TU/MinionPro(1)/b/n/9 cashipete \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/ArialNarro
-w(0)/m/n/9 α \TU/MinionPro(1)/m/n/9 kidney-shaped nut edible only when roasted 
-
  []
 
 
@@ -2065,12 +2083,6 @@ alic(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 intelligent somewhat arboreal ape of
  []
 
 
-Underfull \hbox (badness 1735) in paragraph at lines 4--25
-\TU/MinionPro(1)/b/n/9 chistoso \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/ArialNarrow
-(0)/m/n/9 α \TU/MinionPro(1)/m/n/9 1. arousing or provoking laughter; "an
- []
-
-
 Underfull \hbox (badness 1342) in paragraph at lines 4--25
 \TU/MinionPro(1)/m/n/9 courtroom antics" 2. providing enjoyment; pleasantly
  []
@@ -2081,19 +2093,24 @@ Underfull \hbox (badness 1092) in paragraph at lines 4--25
  []
 
 
-Underfull \hbox (badness 1253) in paragraph at lines 4--25
-\TU/MinionPro(1)/m/n/9 a carburetor" 7. struggle for breath; have insufficient
+Underfull \hbox (badness 1194) in paragraph at lines 4--25
+\TU/MinionPro(1)/m/n/9 is choking the cat" 2. become stultified,suppressed,or
  []
 
 
-Underfull \hbox (badness 1320) in paragraph at lines 4--25
-\TU/MinionPro(1)/m/n/9 given by a traveling company of acrobats,clowns,and
+Underfull \hbox (badness 2671) in paragraph at lines 4--25
+\TU/MinionPro(1)/m/n/9 ficulty,as when experiencing a strong emotion; "She
  []
 
 
 Underfull \hbox (badness 1038) in paragraph at lines 4--25
 \TU/MinionPro(1)/b/n/9 decolonisando \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/ArialN
 arrow(0)/m/n/9 α \TU/MinionPro(1)/m/n/9 grant independence to (a former
+ []
+
+
+Underfull \hbox (badness 1168) in paragraph at lines 4--25
+\TU/MinionPro(1)/m/n/9 protecting a country against potential enemies; "they
  []
 
 
@@ -2104,42 +2121,14 @@ propriate for defend-
  []
 
 
-Underfull \hbox (badness 1112) in paragraph at lines 4--25
-\TU/MinionPro(1)/b/n/9 defensivo \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/ArialNarro
-w(0)/m/n/9 α \TU/MinionPro(1)/m/n/9 intended or appropriate for defending
- []
-
-
-Overfull \hbox (14.68475pt too wide) in paragraph at lines 4--25
-\TU/MinionPro(1)/m/n/9 against or deterring aggression or attack; "defensive we
-apons";
- []
-
-
-Underfull \hbox (badness 1264) in paragraph at lines 4--25
-\TU/MinionPro(1)/b/n/9 definibel \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/ArialNarro
-w(0)/m/n/9 α \TU/MinionPro(1)/m/n/9 capable of being defined,limited,or ex-
- []
-
-
-Overfull \hbox (0.46457pt too wide) in paragraph at lines 4--25
-\TU/MinionPro(1)/b/n/9 definitivamente \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/Aria
-lNarrow(0)/m/n/9 α \TU/MinionPro(1)/m/n/9 without question and beyond doubt;
- []
-
-
 Underfull \hbox (badness 1424) in paragraph at lines 4--25
 \TU/MinionPro(1)/m/n/9 discussion devolved into a shouting match" 2. unre-
  []
 
 
-Underfull \hbox (badness 1087) in paragraph at lines 4--25
-\TU/MinionPro(1)/m/n/9 "She tends to put down younger women colleagues";
- []
-
-
-Underfull \hbox (badness 1009) in paragraph at lines 4--25
-\TU/MinionPro(1)/m/n/9 debauched aristocratic society"; "deplorably dissipated
+Underfull \hbox (badness 1308) in paragraph at lines 4--25
+\TU/MinionPro(1)/b/n/9 degrada \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/ArialNarrow(
+0)/m/n/9 α \TU/MinionPro(1)/m/n/9 1. reduce in worth or character,usually
  []
 
 
@@ -2156,13 +2145,15 @@ eme
  []
 
 
-Underfull \hbox (badness 1168) in paragraph at lines 4--25
-\TU/MinionPro(1)/m/n/9 treaties 2. blame for,make a claim of wrongdoing or
+Overfull \hbox (10.50934pt too wide) in paragraph at lines 4--25
+\TU/MinionPro(1)/b/n/9 dependiente \TU/MinionPro(1)/m/it/9 adj \TU/LucidaSansUn
+icode(0)/m/n/9 ␝\TU/Calibri-Italic(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 1. being u
+nder the power or sovereignty
  []
 
 
-Underfull \hbox (badness 1888) in paragraph at lines 4--25
-\TU/MinionPro(1)/m/n/9 against; "The neighbors accused the man of spousal
+Underfull \hbox (badness 1062) in paragraph at lines 4--25
+\TU/MinionPro(1)/m/n/9 of another or others; "subject peoples"; "a dependent
  []
 
 
@@ -2185,8 +2176,9 @@ Underfull \hbox (badness 1342) in paragraph at lines 4--25
  []
 
 
-Underfull \hbox (badness 1107) in paragraph at lines 4--25
-\TU/MinionPro(1)/m/n/9 spreading or apportioning 3. the commercial activity
+Underfull \hbox (badness 1394) in paragraph at lines 4--25
+\TU/MinionPro(1)/m/n/9 fibers"; "in complementary distribution" 2. (statistics)
+
  []
 
 
@@ -2202,20 +2194,10 @@ Underfull \hbox (badness 1168) in paragraph at lines 4--25
  []
 
 
-Underfull \hbox (badness 1253) in paragraph at lines 4--25
-\TU/MinionPro(1)/m/n/9 deriving from the essential nature of something; "an
- []
-
-
 Underfull \hbox (badness 1178) in paragraph at lines 4--25
 \TU/MinionPro(1)/b/n/9 Etiopia \TU/MinionPro(1)/m/it/9 n \TU/LucidaSansUnicode(
 0)/m/n/9 ␝\TU/Calibri-Italic(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 Ethiopia is a re
 public in northeastern
- []
-
-
-Underfull \hbox (badness 1077) in paragraph at lines 4--25
-\TU/MinionPro(1)/m/n/9 often produces bumper crops from apparently desert
  []
 
 
@@ -2230,31 +2212,20 @@ rupt
  []
 
 
-Underfull \hbox (badness 1442) in paragraph at lines 4--25
-\TU/MinionPro(1)/m/n/9 thing to someone that expresses praise; "He compli-
- []
-
-
 Underfull \hbox (badness 1817) in paragraph at lines 4--25
 \TU/MinionPro(1)/m/n/9 the room" 2. very great; limitless; "abysmal misery";
  []
 
 
-Overfull \hbox (1.10292pt too wide) in paragraph at lines 4--25
-\TU/MinionPro(1)/b/n/9 fia \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/ArialNarrow(0)/m
-/n/9 α \TU/MinionPro(1)/m/n/9 get temporarily; "May I borrow your lawn mower?" 
-
+Underfull \hbox (badness 1147) in paragraph at lines 4--25
+\TU/MinionPro(1)/b/n/9 fia \TU/MinionPro(1)/m/it/9 v \TU/LucidaSansUnicode(0)/m
+/n/9 ␝\TU/Calibri-Italic(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 get temporarily; "Ma
+y I borrow your lawn
  []
 
 
-Underfull \hbox (badness 1137) in paragraph at lines 4--25
-\TU/MinionPro(1)/b/n/9 Filipina \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/ArialNarrow
-(0)/m/n/9 α \TU/MinionPro(1)/m/n/9 1. a republic on the Philippine Islands;
- []
-
-
-Underfull \hbox (badness 1881) in paragraph at lines 4--25
-\TU/MinionPro(1)/m/n/9 ken or damaged; "earthenware pottery is breakable";
+Underfull \hbox (badness 1622) in paragraph at lines 4--25
+\TU/MinionPro(1)/m/n/9 Germans and Scandinavians and British"; "Germanic
  []
 
 
@@ -2262,6 +2233,17 @@ Underfull \hbox (badness 1997) in paragraph at lines 4--25
 \TU/MinionPro(1)/b/n/9 goberná \TU/MinionPro(1)/m/it/9 adj \TU/LucidaSansUnicod
 e(0)/m/n/9 ␝\TU/Calibri-Italic(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 1. exercise au
 thoritative control or
+ []
+
+
+Underfull \hbox (badness 1028) in paragraph at lines 4--25
+\TU/MinionPro(1)/m/n/9 Greece or the Greeks or the Greek language; "Greek
+ []
+
+
+Overfull \hbox (2.82277pt too wide) in paragraph at lines 4--25
+\TU/MinionPro(1)/m/n/9 above the earth s surface; "the altitude gave her a head
+ache"
  []
 
 
@@ -2291,6 +2273,11 @@ Underfull \hbox (badness 1755) in paragraph at lines 4--25
 Overfull \hbox (3.27278pt too wide) in paragraph at lines 4--25
 \TU/MinionPro(1)/m/n/9 "came to an abrupt stop"; "an abrupt change in the weath
 er"
+ []
+
+
+Underfull \hbox (badness 1609) in paragraph at lines 4--25
+\TU/MinionPro(1)/m/n/9 European language belonging to the West Germanic
  []
 
 
@@ -2331,6 +2318,11 @@ Underfull \hbox (badness 1226) in paragraph at lines 4--25
  []
 
 
+Underfull \hbox (badness 1259) in paragraph at lines 4--25
+\TU/MinionPro(1)/m/n/9 apparent individual nature of something; "each town
+ []
+
+
 Overfull \hbox (2.20833pt too wide) in paragraph at lines 4--25
 \TU/MinionPro(1)/b/n/9 karpinté \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/Calibri-Ita
 lic(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 a woodworker who makes or repairs wooden
@@ -2357,18 +2349,6 @@ ts,discontent,displeasure,or
  []
 
 
-Underfull \hbox (badness 1337) in paragraph at lines 4--25
-\TU/MinionPro(1)/b/n/9 kolonia \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/Calibri-Ital
-ic(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 1. (microbiology) a group of organisms
- []
-
-
-Underfull \hbox (badness 1033) in paragraph at lines 4--25
-\TU/MinionPro(1)/m/n/9 religious beliefs,or adopt a religious belief; "She con-
-
- []
-
-
 Overfull \hbox (3.89134pt too wide) in paragraph at lines 4--25
 \TU/MinionPro(1)/b/n/9 kompará \TU/MinionPro(1)/m/it/9 adj \TU/LucidaSansUnicod
 e(0)/m/n/9 ␝\TU/Calibri-Italic(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 1. consider or
@@ -2378,6 +2358,11 @@ e(0)/m/n/9 ␝\TU/Calibri-Italic(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 1. consider 
 
 Underfull \hbox (badness 1253) in paragraph at lines 4--25
 \TU/MinionPro(1)/m/n/9 gentleman"; "consummate happiness"; "a consummate
+ []
+
+
+Underfull \hbox (badness 1048) in paragraph at lines 4--25
+\TU/MinionPro(1)/m/n/9 nism; "Communist Party"; "communist governments";
  []
 
 
@@ -2449,11 +2434,6 @@ Overfull \hbox (0.44676pt too wide) in paragraph at lines 4--25
  []
 
 
-Underfull \hbox (badness 1067) in paragraph at lines 4--25
-\TU/MinionPro(1)/m/n/9 deny formally (an allegation of fact by the opposing
- []
-
-
 Overfull \hbox (1.70976pt too wide) in paragraph at lines 4--25
 \TU/MinionPro(1)/m/n/9 an intense emotion such as embarrassment,amusement,or
  []
@@ -2461,6 +2441,18 @@ Overfull \hbox (1.70976pt too wide) in paragraph at lines 4--25
 
 Underfull \hbox (badness 2150) in paragraph at lines 4--25
 \TU/MinionPro(1)/m/n/9 and administrative authority; appointed in Christian
+ []
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 4--25
+\TU/MinionPro(1)/b/n/9 oumentá \TU/MinionPro(1)/m/it/9 adj \TU/LucidaSansUnicod
+e(0)/m/n/9 ␝\TU/Calibri-Italic(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 1. enlarge or 
+increase; "The recent
+ []
+
+
+Underfull \hbox (badness 1609) in paragraph at lines 4--25
+\TU/MinionPro(1)/m/n/9 4. the occurrence of an abrupt,transient loss or im-
  []
 
 
@@ -2474,11 +2466,6 @@ Underfull \hbox (badness 1087) in paragraph at lines 4--25
  []
 
 
-Underfull \hbox (badness 1052) in paragraph at lines 4--25
-\TU/MinionPro(1)/m/n/9 dinner"; "comb the wool" 3. straighten with a comb;
- []
-
-
 Overfull \hbox (15.32133pt too wide) in paragraph at lines 4--25
 \TU/MinionPro(1)/b/n/9 presis \TU/MinionPro(1)/m/it/9 adj \TU/LucidaSansUnicode
 (0)/m/n/9 ␝\TU/Calibri-Italic(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 1. (of ideas,im
@@ -2486,20 +2473,28 @@ ages,representations,expressions)
  []
 
 
-Underfull \hbox (badness 2042) in paragraph at lines 4--25
-\TU/MinionPro(1)/m/n/9 events) having extremely unfortunate or dire conse-
- []
-
-
-Underfull \hbox (badness 1331) in paragraph at lines 4--25
+Underfull \hbox (badness 1412) in paragraph at lines 4--25
 \TU/MinionPro(1)/b/n/9 profundidat \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/Calibri-
-Italic(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 1. degree of psychological or intel-
+Italic(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 1. the attribute or quality of being
  []
 
 
-Overfull \hbox (12.38976pt too wide) in paragraph at lines 4--25
-\TU/MinionPro(1)/m/n/9 guaranteed not to run" 2. draw blood; "In the old days,d
-octors
+Overfull \hbox (0.84572pt too wide) in paragraph at lines 4--25
+\TU/MinionPro(1)/m/n/9 nomination" 2. an adherent of Protestantism 3. the Prote
+s-
+ []
+
+
+Underfull \hbox (badness 1043) in paragraph at lines 4--25
+\TU/MinionPro(1)/b/n/9 rabia \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/Calibri-Italic
+(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 1. feeling or showing anger; "angry at the
+ []
+
+
+Underfull \hbox (badness 1383) in paragraph at lines 4--25
+\TU/MinionPro(1)/b/n/9 sangra \TU/MinionPro(1)/m/it/9 v \TU/LucidaSansUnicode(0
+)/m/n/9 ␝\TU/Calibri-Italic(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 1. be diffused; "
+These dyes and colors
  []
 
 
@@ -2509,14 +2504,21 @@ c(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 objectivity and detachment; "her manner
  []
 
 
-Underfull \hbox (badness 1163) in paragraph at lines 4--25
-\TU/MinionPro(1)/b/n/9 seña \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/ArialNarrow(0)/
-m/n/9 α \TU/MinionPro(1)/m/n/9 a written symbol that is used to represent
+Underfull \hbox (badness 1292) in paragraph at lines 4--25
+\TU/MinionPro(1)/b/n/9 seña \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/Calibri-Italic(
+0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 a written symbol that is used to represent
  []
 
 
-Underfull \hbox (badness 1038) in paragraph at lines 4--25
-\TU/MinionPro(1)/m/n/9 ing; "muddleheaded ideas"; "your addled little brain";
+Underfull \hbox (badness 1137) in paragraph at lines 4--25
+\TU/MinionPro(1)/m/n/9 "he was certain to fail"; "his fate is certain"; "In thi
+s
+ []
+
+
+Overfull \hbox (2.00977pt too wide) in paragraph at lines 4--25
+\TU/MinionPro(1)/m/n/9 thinking; "muddleheaded ideas"; "your addled little brai
+n";
  []
 
 
@@ -2532,13 +2534,8 @@ te the nature,quality,ability,extent,or
  []
 
 
-Underfull \hbox (badness 1642) in paragraph at lines 4--25
-\TU/MinionPro(1)/m/n/9 "refrigerated carriers have revolutionized the grocery
- []
-
-
-Underfull \hbox (badness 1292) in paragraph at lines 4--25
-\TU/MinionPro(1)/m/n/9 carrying many passengers; used for public transport;
+Underfull \hbox (badness 1199) in paragraph at lines 4--25
+\TU/MinionPro(1)/m/n/9 one whose employment involves carrying something;
  []
 
 
@@ -2548,19 +2545,8 @@ he
  []
 
 
-Underfull \hbox (badness 1721) in paragraph at lines 4--25
-\TU/MinionPro(1)/b/n/9 vak \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/Calibri-Italic(0
-)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 1. a partitioned section,chamber,or separate
- []
-
-
 Underfull \hbox (badness 5119) in paragraph at lines 4--25
 \TU/MinionPro(1)/m/n/9 goslavia included Slovenia,Croatia,Macedonia,Bosnia-
- []
-
-
-Underfull \hbox (badness 4805) in paragraph at lines 4--25
-\TU/MinionPro(1)/m/n/9 "caustic jokes about political assassination,talk-show
  []
 
 
@@ -4419,11 +4405,16 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [317]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [318]
+[319
+
+]
 \openout2 = `pap-cat.aux'.
 
-
-(./pap-cat.tex
+ (./pap-cat.tex
 Chapter 6.
 )
 Underfull \hbox (badness 5652) in paragraph at lines 4--26
@@ -4445,21 +4436,9 @@ Underfull \hbox (badness 1137) in paragraph at lines 4--26
  []
 
 
-Underfull \hbox (badness 1178) in paragraph at lines 4--26
-\TU/MinionPro(1)/m/n/9 properis, injuriar, insult, maltratar, motada, pervertir
-,
- []
-
-
 Underfull \hbox (badness 2119) in paragraph at lines 4--26
 \TU/MinionPro(1)/b/n/9 acelera \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/ArialNarrow(
 0)/m/n/9 α \TU/MinionPro(1)/m/n/9 afanyar-se , accelerar, activar, alleugerir,
- []
-
-
-Underfull \hbox (badness 1533) in paragraph at lines 4--26
-\TU/MinionPro(1)/b/n/9 adecua \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/ArialNarrow(0
-)/m/n/9 α \TU/MinionPro(1)/m/n/9 capaç , adequat, adient, apte, covenient,
  []
 
 
@@ -4487,9 +4466,10 @@ amuntegar-se , col·leccionar
  []
 
 
-Overfull \hbox (8.54057pt too wide) in paragraph at lines 4--26
-\TU/MinionPro(1)/b/n/9 Alemania \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/ArialNarrow
-(0)/m/n/9 α \TU/MinionPro(1)/m/n/9 Alemanya Occidental , Alemanya , República
+Underfull \hbox (badness 1708) in paragraph at lines 4--26
+\TU/MinionPro(1)/b/n/9 Alemania \TU/MinionPro(1)/m/it/9 n \TU/LucidaSansUnicode
+(0)/m/n/9 ␝\TU/Calibri-Italic(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 Alemanya Occide
+ntal , Alemanya ,
  []
 
 
@@ -4510,19 +4490,6 @@ Overfull \hbox (4.43735pt too wide) in paragraph at lines 4--26
 \TU/MinionPro(1)/b/n/9 armonisá \TU/MinionPro(1)/m/it/9 adj \TU/LucidaSansUnico
 de(0)/m/n/9 ␝\TU/Calibri-Italic(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 adir-se , con
 cordar, escaure, harmonitzar 
- []
-
-
-Underfull \hbox (badness 1796) in paragraph at lines 4--26
-\TU/MinionPro(1)/b/n/9 asombroso \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/ArialNarro
-w(0)/m/n/9 α \TU/MinionPro(1)/m/n/9 increïble , admirable, impressionant,
- []
-
-
-Overfull \hbox (10.90158pt too wide) in paragraph at lines 4--26
-\TU/MinionPro(1)/b/n/9 atletismo \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/ArialNarro
-w(0)/m/n/9 α \TU/MinionPro(1)/m/n/9 competició atlètica , concurs atlètic , atl
-etisme,
  []
 
 
@@ -4558,6 +4525,13 @@ Underfull \hbox (badness 3735) in paragraph at lines 4--26
  []
 
 
+Underfull \hbox (badness 1062) in paragraph at lines 4--26
+\TU/MinionPro(1)/b/n/9 bispou \TU/MinionPro(1)/m/it/9 adj \TU/LucidaSansUnicode
+(0)/m/n/9 ␝\TU/Calibri-Italic(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 enginyós , inte
+l·ligent , sagaç , astut,
+ []
+
+
 Underfull \hbox (badness 1158) in paragraph at lines 4--26
 \TU/MinionPro(1)/b/n/9 chèrcha \TU/MinionPro(1)/m/it/9 n \TU/LucidaSansUnicode(
 0)/m/n/9 ␝\TU/Calibri-Italic(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 amoïnar , burlar
@@ -4575,12 +4549,6 @@ Underfull \hbox (badness 1067) in paragraph at lines 4--26
 \TU/MinionPro(1)/b/n/9 dediká \TU/MinionPro(1)/m/it/9 adj \TU/LucidaSansUnicode
 (0)/m/n/9 ␝\TU/Calibri-Italic(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 consagrar-se , 
 dedicar-se , consagrar,
- []
-
-
-Underfull \hbox (badness 1694) in paragraph at lines 4--26
-\TU/MinionPro(1)/b/n/9 depresivo \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/ArialNarro
-w(0)/m/n/9 α \TU/MinionPro(1)/m/n/9 alacaigut, capbaix, capmoix, deprimit,
  []
 
 
@@ -4618,9 +4586,10 @@ Italic(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 circumstàncies , destí , fat, fortun
  []
 
 
-Underfull \hbox (badness 2573) in paragraph at lines 4--26
-\TU/MinionPro(1)/b/n/9 drama \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/ArialNarrow(0)
-/m/n/9 α \TU/MinionPro(1)/m/n/9 dramatúrgia , dramàtica , esdeveniment
+Overfull \hbox (10.52136pt too wide) in paragraph at lines 4--26
+\TU/MinionPro(1)/b/n/9 drama \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/Calibri-Italic
+(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 dramatúrgia , dramàtica , esdeveniment dramà
+tic
  []
 
 
@@ -4771,9 +4740,10 @@ onsolat, descoratjador,
  []
 
 
-Underfull \hbox (badness 1005) in paragraph at lines 4--26
-\TU/MinionPro(1)/b/n/9 zoya \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/ArialNarrow(0)/
-m/n/9 α \TU/MinionPro(1)/m/n/9 anivellar-se , compensar-se , equilibrar-se ,
+Underfull \hbox (badness 1158) in paragraph at lines 4--26
+\TU/MinionPro(1)/b/n/9 zoya \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/Calibri-Italic(
+0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 anivellar-se , compensar-se , equilibrar-se ,
+
  []
 
 
@@ -4787,25 +4757,25 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [319
+ [321
 
 
 
 
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
+Package marginnote Warning: Consecutive odd pages found.
+(marginnote)                Note, it is not recommended to use consecutive
+(marginnote)                odd pages in a double-ended document.
+(marginnote)                The pages of your document should always
+(marginnote)                be a sequence: odd-even-odd-even-...
+(marginnote)                Maybe you've forgotten a \cleardoublepage before
+(marginnote)                changing the page numbering on page 321.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Package marginnote Info: Using workaround for absolute page number on input lin
+e 26.
 
- [320]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [321]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -4932,12 +4902,25 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [342]
-[343
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [343]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [344]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [345]
 \openout2 = `cat-pap.aux'.
 
- (./cat-pap.tex
+
+(./cat-pap.tex
 Chapter 7.
 )
 Underfull \hbox (badness 10000) in paragraph at lines 4--27
@@ -4950,7 +4933,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [345
+ [347
 
 
 
@@ -4964,23 +4947,11 @@ Package marginnote Warning: Consecutive odd pages found.
 (marginnote)                The pages of your document should always
 (marginnote)                be a sequence: odd-even-odd-even-...
 (marginnote)                Maybe you've forgotten a \cleardoublepage before
-(marginnote)                changing the page numbering on page 345.
+(marginnote)                changing the page numbering on page 347.
 
 Package marginnote Info: Using workaround for absolute page number on input lin
 e 27.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [346]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [347]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -5173,7 +5144,19 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [379]
-[380
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [380]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [381]
+[382
 
 ]
 \openout2 = `pap-cmn.aux'.
@@ -5210,25 +5193,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [381
+ [383
 
 
 
 
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [382]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [383]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -5253,7 +5224,19 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [387]
-[388
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [388]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [389]
+[390
 
 ]
 \openout2 = `cmn-pap.aux'.
@@ -5271,25 +5254,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [389
+ [391
 
 
 
 
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [390]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [391]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -5326,7 +5297,19 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [397]
-[398
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [398]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [399]
+[400
 
 ]
 \openout2 = `pap-dan.aux'.
@@ -5371,25 +5354,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [399
+ [401
 
 
 
 
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [400]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [401]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -5422,7 +5393,19 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [406]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [407]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [408]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [409]
 \openout2 = `dan-pap.aux'.
 
 
@@ -5439,7 +5422,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [409
+ [411
 
 
 
@@ -5453,23 +5436,11 @@ Package marginnote Warning: Consecutive odd pages found.
 (marginnote)                The pages of your document should always
 (marginnote)                be a sequence: odd-even-odd-even-...
 (marginnote)                Maybe you've forgotten a \cleardoublepage before
-(marginnote)                changing the page numbering on page 409.
+(marginnote)                changing the page numbering on page 411.
 
 Package marginnote Info: Using workaround for absolute page number on input lin
 e 31.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [410]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [411]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -5506,7 +5477,19 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [417]
-[418
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [418]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [419]
+[420
 
 ]
 \openout2 = `pap-eng.aux'.
@@ -5514,12 +5497,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  (./pap-eng.tex
 Chapter 12.
 )
-Underfull \hbox (badness 1168) in paragraph at lines 4--32
-\TU/MinionPro(1)/b/n/9 aardappel \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/ArialNarro
-w(0)/m/n/9 α \TU/MinionPro(1)/m/n/9 Irish potato , white potato , murphy,
- []
-
-
 Underfull \hbox (badness 2809) in paragraph at lines 4--32
 \TU/MinionPro(1)/b/n/9 abattoir \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/ArialNarrow
 (0)/m/n/9 α \TU/MinionPro(1)/m/n/9 abattoir, butchery, shambles, slaughter-
@@ -5531,9 +5508,9 @@ Underfull \hbox (badness 2941) in paragraph at lines 4--32
  []
 
 
-Underfull \hbox (badness 2134) in paragraph at lines 4--32
-\TU/MinionPro(1)/b/n/9 abogado \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/ArialNarrow(
-0)/m/n/9 α \TU/MinionPro(1)/m/n/9 counselor-at-law , advocate, advocator,
+Underfull \hbox (badness 2486) in paragraph at lines 4--32
+\TU/MinionPro(1)/b/n/9 abogado \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/Calibri-Ital
+ic(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 counselor-at-law , advocate, advocator,
  []
 
 
@@ -5643,9 +5620,10 @@ m
  []
 
 
-Underfull \hbox (badness 1389) in paragraph at lines 4--32
-\TU/MinionPro(1)/b/n/9 amor \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/ArialNarrow(0)/
-m/n/9 α \TU/MinionPro(1)/m/n/9 affection, affectionateness, fondness, heart,
+Underfull \hbox (badness 1661) in paragraph at lines 4--32
+\TU/MinionPro(1)/b/n/9 amor \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/Calibri-Italic(
+0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 affection, affectionateness, fondness, heart,
+
  []
 
 
@@ -5696,6 +5674,13 @@ ic(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 calculator, computer, estimator, figurer,
  []
 
 
+Underfull \hbox (badness 2368) in paragraph at lines 4--32
+\TU/MinionPro(1)/b/n/9 barata \TU/MinionPro(1)/m/it/9 adj \TU/LucidaSansUnicode
+(0)/m/n/9 ␝\TU/Calibri-Italic(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 brassy, bum, ch
+eap, cheesy, chinchy,
+ []
+
+
 Underfull \hbox (badness 1043) in paragraph at lines 4--32
 \TU/MinionPro(1)/b/n/9 barbaridat \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/Calibri-I
 talic(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 atrociousness, atrocity, barbarity, bar
@@ -5706,13 +5691,6 @@ talic(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 atrociousness, atrocity, barbarity, bar
 Underfull \hbox (badness 1721) in paragraph at lines 4--32
 \TU/MinionPro(1)/b/n/9 barok \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/ArialNarrow(0)
 /m/n/9 α \TU/MinionPro(1)/m/n/9 Baroque , baroque, churrigueresco, chur-
- []
-
-
-Overfull \hbox (2.48358pt too wide) in paragraph at lines 4--32
-\TU/MinionPro(1)/b/n/9 bebe \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/ArialNarrow(0)/
-m/n/9 α \TU/MinionPro(1)/m/n/9 booze, deglutition, drink, fuddle, imbibe, pledg
-e,
  []
 
 
@@ -5731,6 +5709,13 @@ Underfull \hbox (badness 1077) in paragraph at lines 4--32
 Underfull \hbox (badness 1117) in paragraph at lines 4--32
 \TU/MinionPro(1)/m/n/9 fanny, foliage, folio, fundament, hindquarters, keister,
 
+ []
+
+
+Underfull \hbox (badness 1173) in paragraph at lines 4--32
+\TU/MinionPro(1)/b/n/9 bochincha \TU/MinionPro(1)/m/it/9 n \TU/LucidaSansUnicod
+e(0)/m/n/9 ␝\TU/Calibri-Italic(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 topsy-turvydom
+ , topsy-turvyness ,
  []
 
 
@@ -6086,25 +6071,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [419
+ [421
 
 
 
 
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [420]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [421]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -6281,7 +6254,19 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [450]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [451]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [452]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [453]
 \openout2 = `eng-pap.aux'.
 
 
@@ -6298,7 +6283,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [453
+ [455
 
 
 
@@ -6312,23 +6297,11 @@ Package marginnote Warning: Consecutive odd pages found.
 (marginnote)                The pages of your document should always
 (marginnote)                be a sequence: odd-even-odd-even-...
 (marginnote)                Maybe you've forgotten a \cleardoublepage before
-(marginnote)                changing the page numbering on page 453.
+(marginnote)                changing the page numbering on page 455.
 
 Package marginnote Info: Using workaround for absolute page number on input lin
 e 33.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [454]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [455]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -6661,7 +6634,19 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [510]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [511]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [512]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [513]
 \openout2 = `pap-eus.aux'.
 
 
@@ -6713,10 +6698,17 @@ Italic(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 alkoholiko, ardozale, dipsomaniako,
  []
 
 
-Overfull \hbox (2.4416pt too wide) in paragraph at lines 4--34
-\TU/MinionPro(1)/b/n/9 anarkista \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/ArialNarro
-w(0)/m/n/9 α \TU/MinionPro(1)/m/n/9 anarkiazale, anarkista, nihilista, sindikal
-ista 
+Overfull \hbox (1.72237pt too wide) in paragraph at lines 4--34
+\TU/MinionPro(1)/b/n/9 anarkista \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/Calibri-It
+alic(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 anarkiazale, anarkista, nihilista, sindi
+kalista 
+ []
+
+
+Overfull \hbox (0.56735pt too wide) in paragraph at lines 4--34
+\TU/MinionPro(1)/b/n/9 anatomia \TU/MinionPro(1)/m/it/9 n \TU/LucidaSansUnicode
+(0)/m/n/9 ␝\TU/Calibri-Italic(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 anatomia, eite,
+ gorpuzkera, haragi, itxura,
  []
 
 
@@ -6739,10 +6731,10 @@ Underfull \hbox (badness 1708) in paragraph at lines 4--34
  []
 
 
-Overfull \hbox (15.60858pt too wide) in paragraph at lines 4--34
-\TU/MinionPro(1)/b/n/9 bagamunderia \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/ArialNa
-rrow(0)/m/n/9 α \TU/MinionPro(1)/m/n/9 burrunba, danbateko, dunbots, harrabots,
-
+Overfull \hbox (14.88934pt too wide) in paragraph at lines 4--34
+\TU/MinionPro(1)/b/n/9 bagamunderia \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/Calibri
+-Italic(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 burrunba, danbateko, dunbots, harrabo
+ts,
  []
 
 
@@ -6777,16 +6769,9 @@ trakets,
  []
 
 
-Overfull \hbox (0.19458pt too wide) in paragraph at lines 4--34
-\TU/MinionPro(1)/b/n/9 bataya \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/ArialNarrow(0
-)/m/n/9 α \TU/MinionPro(1)/m/n/9 bataila, borrokatu, ekintza, gatazka, gudukatu
-,
- []
-
-
-Underfull \hbox (badness 2005) in paragraph at lines 4--34
-\TU/MinionPro(1)/b/n/9 bestia \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/ArialNarrow(0
-)/m/n/9 α \TU/MinionPro(1)/m/n/9 abere, animalia, basati, bihozgabe, fauna,
+Underfull \hbox (badness 1014) in paragraph at lines 4--34
+\TU/MinionPro(1)/b/n/9 barica \TU/ArialNarrow(0)/m/n/9 α \TU/MinionPro(1)/m/n/9
+ sabel handi , tripa handi , abdomen, sabel,
  []
 
 
@@ -6811,10 +6796,10 @@ code(0)/m/n/9 ␝\TU/Calibri-Italic(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 boltxebik
  []
 
 
-Overfull \hbox (4.10359pt too wide) in paragraph at lines 4--34
-\TU/MinionPro(1)/b/n/9 bonansa \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/ArialNarrow(
-0)/m/n/9 α \TU/MinionPro(1)/m/n/9 ustekabeko irabazi , mauka, onaldi, oparoaldi
- 
+Overfull \hbox (9.53435pt too wide) in paragraph at lines 4--34
+\TU/MinionPro(1)/b/n/9 bonansa \TU/MinionPro(1)/m/it/9 n \TU/LucidaSansUnicode(
+0)/m/n/9 ␝\TU/Calibri-Italic(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 ustekabeko iraba
+zi , mauka, onaldi, oparoaldi 
  []
 
 
@@ -6829,12 +6814,6 @@ Underfull \hbox (badness 1132) in paragraph at lines 4--34
 \TU/MinionPro(1)/b/n/9 bròns \TU/MinionPro(1)/m/it/9 n \TU/LucidaSansUnicode(0)
 /m/n/9 ␝\TU/Calibri-Italic(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 brontze kolorekoa 
 , beltzarandu, belztu,
- []
-
-
-Underfull \hbox (badness 3323) in paragraph at lines 4--34
-\TU/MinionPro(1)/b/n/9 buracheria \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/ArialNarr
-ow(0)/m/n/9 α \TU/MinionPro(1)/m/n/9 alkoholismo, hordikeria, horditasun,
  []
 
 
@@ -6875,16 +6854,17 @@ Underfull \hbox (badness 4048) in paragraph at lines 4--34
  []
 
 
-Overfull \hbox (1.85059pt too wide) in paragraph at lines 4--34
-\TU/MinionPro(1)/b/n/9 dader \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/ArialNarrow(0)
-/m/n/9 α \TU/MinionPro(1)/m/n/9 arduradun, erantzule, errudun, gaizkin, hoben-
+Overfull \hbox (1.13135pt too wide) in paragraph at lines 4--34
+\TU/MinionPro(1)/b/n/9 dader \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/Calibri-Italic
+(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 arduradun, erantzule, errudun, gaizkin, hobe
+n-
  []
 
 
-Overfull \hbox (11.5166pt too wide) in paragraph at lines 4--34
-\TU/MinionPro(1)/b/n/9 deber \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/ArialNarrow(0)
-/m/n/9 α \TU/MinionPro(1)/m/n/9 behar, betebehar, betekizun, eginbehar, eginkiz
-un,
+Overfull \hbox (10.79736pt too wide) in paragraph at lines 4--34
+\TU/MinionPro(1)/b/n/9 deber \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/Calibri-Italic
+(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 behar, betebehar, betekizun, eginbehar, egin
+kizun,
  []
 
 
@@ -6919,6 +6899,13 @@ Underfull \hbox (badness 1424) in paragraph at lines 4--34
  []
 
 
+Overfull \hbox (5.27135pt too wide) in paragraph at lines 4--34
+\TU/MinionPro(1)/b/n/9 diabel \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/Calibri-Itali
+c(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 deabru, demonio, demontre, galtzagorri, mam
+u,
+ []
+
+
 Underfull \hbox (badness 2521) in paragraph at lines 4--34
 \TU/MinionPro(1)/b/n/9 direkshon \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/Calibri-It
 alic(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 aholku, gerentzia, gidaritza, gobernu,
@@ -6929,12 +6916,6 @@ Overfull \hbox (17.05235pt too wide) in paragraph at lines 4--34
 \TU/MinionPro(1)/b/n/9 distinguí \TU/MinionPro(1)/m/it/9 adj \TU/LucidaSansUnic
 ode(0)/m/n/9 ␝\TU/Calibri-Italic(0)/m/n/9 ϲ \TU/MinionPro(1)/m/n/9 bereizi, des
 berdindu, deskribatu, ezberdindu 
- []
-
-
-Underfull \hbox (badness 3557) in paragraph at lines 4--34
-\TU/MinionPro(1)/b/n/9 drama \TU/LucidaSansUnicode(0)/m/n/9 ␝\TU/ArialNarrow(0)
-/m/n/9 α \TU/MinionPro(1)/m/n/9 antzerki, antzezlan, drama, dramatismo,
  []
 
 
@@ -7082,7 +7063,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [513
+ [515
 
 
 
@@ -7096,23 +7077,11 @@ Package marginnote Warning: Consecutive odd pages found.
 (marginnote)                The pages of your document should always
 (marginnote)                be a sequence: odd-even-odd-even-...
 (marginnote)                Maybe you've forgotten a \cleardoublepage before
-(marginnote)                changing the page numbering on page 513.
+(marginnote)                changing the page numbering on page 515.
 
 Package marginnote Info: Using workaround for absolute page number on input lin
 e 34.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [514]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [515]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -7215,7 +7184,19 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [532]
-[533
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [533]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [534]
+[535
 
 ]
 \openout2 = `eus-pap.aux'.
@@ -7233,7 +7214,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [535
+ [537
 
 
 
@@ -7247,23 +7228,11 @@ Package marginnote Warning: Consecutive odd pages found.
 (marginnote)                The pages of your document should always
 (marginnote)                be a sequence: odd-even-odd-even-...
 (marginnote)                Maybe you've forgotten a \cleardoublepage before
-(marginnote)                changing the page numbering on page 535.
+(marginnote)                changing the page numbering on page 537.
 
 Package marginnote Info: Using workaround for absolute page number on input lin
 e 35.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [536]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [537]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -7416,11 +7385,28 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [562]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [563]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [564]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [565]
+[566
+
+]
 \openout2 = `pap-fas.aux'.
 
-
-(./pap-fas.tex
+ (./pap-fas.tex
 Chapter 16.
 
 Package fontspec Info: Could not resolve font "XB Zar/I" (it probably doesn't
@@ -7456,37 +7442,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [565
+ [567
 
 
 
 
 
 ]
-
-Package marginnote Warning: Consecutive odd pages found.
-(marginnote)                Note, it is not recommended to use consecutive
-(marginnote)                odd pages in a double-ended document.
-(marginnote)                The pages of your document should always
-(marginnote)                be a sequence: odd-even-odd-even-...
-(marginnote)                Maybe you've forgotten a \cleardoublepage before
-(marginnote)                changing the page numbering on page 565.
-
-Package marginnote Info: Using workaround for absolute page number on input lin
-e 36.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [566]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [567]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -7555,7 +7517,19 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [578]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [579]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [580]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [581]
 \openout2 = `fas-pap.aux'.
 
 
@@ -7574,7 +7548,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [581
+ [583
 
 
 
@@ -7588,23 +7562,11 @@ Package marginnote Warning: Consecutive odd pages found.
 (marginnote)                The pages of your document should always
 (marginnote)                be a sequence: odd-even-odd-even-...
 (marginnote)                Maybe you've forgotten a \cleardoublepage before
-(marginnote)                changing the page numbering on page 581.
+(marginnote)                changing the page numbering on page 583.
 
 Package marginnote Info: Using workaround for absolute page number on input lin
 e 37.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [582]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [583]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -7713,7 +7675,19 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [601]
-[602
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [602]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [603]
+[604
 
 ]
 \openout2 = `pap-fin.aux'.
@@ -7726,25 +7700,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [603
+ [605
 
 
 
 
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [604]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [605]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -7942,13 +7904,26 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [638])
-[639
+ [638]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [639]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [640]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+) [641]
 \openout2 = `fin-pap.aux'.
 
- (./fin-pap.tex
+
+(./fin-pap.tex
 Chapter 19.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -7956,7 +7931,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [641
+ [643
 
 
 
@@ -7970,23 +7945,11 @@ Package marginnote Warning: Consecutive odd pages found.
 (marginnote)                The pages of your document should always
 (marginnote)                be a sequence: odd-even-odd-even-...
 (marginnote)                Maybe you've forgotten a \cleardoublepage before
-(marginnote)                changing the page numbering on page 641.
+(marginnote)                changing the page numbering on page 643.
 
 Package marginnote Info: Using workaround for absolute page number on input lin
 e 108.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [642]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [643]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -8313,7 +8276,19 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [697]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-) [698]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [698]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [699]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+) [700]
 \openout2 = `pap-fra.aux'.
 
 
@@ -8325,7 +8300,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [699
+ [701
 
 
 
@@ -8337,33 +8312,18 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [700]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [701]
-Missing character: There is no ^^9c (U+009C) in font Minion Pro/OT:script=latn;
-language=dflt;!
-Missing character: There is no ^^9c (U+009C) in font Minion Pro/OT:script=latn;
-language=dflt;!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [702]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Missing character: There is no ^^9c (U+009C) in font Minion Pro/OT:script=latn;
-language=dflt;!
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [703]
+Missing character: There is no ^^9c (U+009C) in font Minion Pro/OT:script=latn;
+language=dflt;!
+Missing character: There is no ^^9c (U+009C) in font Minion Pro/OT:script=latn;
+language=dflt;!
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -8372,6 +8332,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [704]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+Missing character: There is no ^^9c (U+009C) in font Minion Pro/OT:script=latn;
+language=dflt;!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -8466,9 +8429,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [720]
-Missing character: There is no ^^9c (U+009C) in font Minion Pro/OT:script=latn;
-language=dflt;!
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -8481,6 +8441,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [722]
+Missing character: There is no ^^9c (U+009C) in font Minion Pro/OT:script=latn;
+language=dflt;!
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -8493,9 +8456,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [724]
-Missing character: There is no ^^9c (U+009C) in font Minion Pro/OT:script=latn;
-language=dflt;!
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -8505,15 +8465,30 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [726]
 Missing character: There is no ^^9c (U+009C) in font Minion Pro/OT:script=latn;
 language=dflt;!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [726]
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-) [727]
+ [727]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Missing character: There is no ^^9c (U+009C) in font Minion Pro/OT:script=latn;
+language=dflt;!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [728]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+) [729]
 \openout2 = `fra-pap.aux'.
 
 
@@ -8525,7 +8500,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [729
+ [731
 
 
 
@@ -8539,7 +8514,7 @@ Package marginnote Warning: Consecutive odd pages found.
 (marginnote)                The pages of your document should always
 (marginnote)                be a sequence: odd-even-odd-even-...
 (marginnote)                Maybe you've forgotten a \cleardoublepage before
-(marginnote)                changing the page numbering on page 729.
+(marginnote)                changing the page numbering on page 731.
 
 Package marginnote Info: Using workaround for absolute page number on input lin
 e 107.
@@ -8549,24 +8524,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [730]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [731]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [732]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-Missing character: There is no ^^9c (U+009C) in font Minion Pro Bold/OT:script=
-latn;language=dflt;!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -8579,6 +8539,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [734]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+Missing character: There is no ^^9c (U+009C) in font Minion Pro Bold/OT:script=
+latn;language=dflt;!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -8622,9 +8585,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Missing character: There is no ^^9c (U+009C) in font Minion Pro Bold/OT:script=
-latn;language=dflt;!
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [742]
@@ -8636,6 +8596,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [743]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+Missing character: There is no ^^9c (U+009C) in font Minion Pro Bold/OT:script=
+latn;language=dflt;!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -8783,8 +8746,20 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [768])
-[769
+ [768]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [769]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [770])
+[771
 
 ]
 \openout2 = `pap-glg.aux'.
@@ -8797,7 +8772,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [771
+ [773
 
 
 
@@ -8811,23 +8786,11 @@ Package marginnote Warning: Consecutive odd pages found.
 (marginnote)                The pages of your document should always
 (marginnote)                be a sequence: odd-even-odd-even-...
 (marginnote)                Maybe you've forgotten a \cleardoublepage before
-(marginnote)                changing the page numbering on page 771.
+(marginnote)                changing the page numbering on page 773.
 
 Package marginnote Info: Using workaround for absolute page number on input lin
 e 100.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [772]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [773]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -8881,8 +8844,20 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [782])
-[783
+ [782]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [783]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [784])
+[785
 
 ]
 \openout2 = `glg-pap.aux'.
@@ -8895,7 +8870,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [785
+ [787
 
 
 
@@ -8909,23 +8884,11 @@ Package marginnote Warning: Consecutive odd pages found.
 (marginnote)                The pages of your document should always
 (marginnote)                be a sequence: odd-even-odd-even-...
 (marginnote)                Maybe you've forgotten a \cleardoublepage before
-(marginnote)                changing the page numbering on page 785.
+(marginnote)                changing the page numbering on page 787.
 
 Package marginnote Info: Using workaround for absolute page number on input lin
 e 107.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [786]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [787]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -8997,8 +8960,20 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [799])
-[800
+ [799]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [800]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [801])
+[802
 
 ]
 \openout2 = `pap-ind.aux'.
@@ -9011,25 +8986,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [801
+ [803
 
 
 
 
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [802]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [803]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -9326,7 +9289,19 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [852]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-) [853]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [853]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [854]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+) [855]
 \openout2 = `ind-pap.aux'.
 
 
@@ -9338,7 +9313,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [855
+ [857
 
 
 
@@ -9352,23 +9327,11 @@ Package marginnote Warning: Consecutive odd pages found.
 (marginnote)                The pages of your document should always
 (marginnote)                be a sequence: odd-even-odd-even-...
 (marginnote)                Maybe you've forgotten a \cleardoublepage before
-(marginnote)                changing the page numbering on page 855.
+(marginnote)                changing the page numbering on page 857.
 
 Package marginnote Info: Using workaround for absolute page number on input lin
 e 107.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [856]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [857]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -9833,11 +9796,28 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [934]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-) [935]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [935]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [936]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [937])
+[938
+
+]
 \openout2 = `pap-ita.aux'.
 
-
-(./pap-ita.tex
+ (./pap-ita.tex
 Chapter 26.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -9845,37 +9825,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [937
+ [939
 
 
 
 
 
 ]
-
-Package marginnote Warning: Consecutive odd pages found.
-(marginnote)                Note, it is not recommended to use consecutive
-(marginnote)                odd pages in a double-ended document.
-(marginnote)                The pages of your document should always
-(marginnote)                be a sequence: odd-even-odd-even-...
-(marginnote)                Maybe you've forgotten a \cleardoublepage before
-(marginnote)                changing the page numbering on page 937.
-
-Package marginnote Info: Using workaround for absolute page number on input lin
-e 87.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [938]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [939]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -10016,11 +9972,28 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [962]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-) [963]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [963]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [964]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [965])
+[966
+
+]
 \openout2 = `ita-pap.aux'.
 
-
-(./ita-pap.tex
+ (./ita-pap.tex
 Chapter 27.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -10028,37 +10001,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [965
+ [967
 
 
 
 
 
 ]
-
-Package marginnote Warning: Consecutive odd pages found.
-(marginnote)                Note, it is not recommended to use consecutive
-(marginnote)                odd pages in a double-ended document.
-(marginnote)                The pages of your document should always
-(marginnote)                be a sequence: odd-even-odd-even-...
-(marginnote)                Maybe you've forgotten a \cleardoublepage before
-(marginnote)                changing the page numbering on page 965.
-
-Package marginnote Info: Using workaround for absolute page number on input lin
-e 107.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [966]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [967]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -10283,11 +10232,28 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1004]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-) [1005]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1005]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1006]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1007])
+[1008
+
+]
 \openout2 = `pap-jpn.aux'.
 
-
-(./pap-jpn.tex
+ (./pap-jpn.tex
 Chapter 28.
 
 Package fontspec Info: Could not resolve font "PMingLiU/BI" (it probably
@@ -10318,37 +10284,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1007
+ [1009
 
 
 
 
 
 ]
-
-Package marginnote Warning: Consecutive odd pages found.
-(marginnote)                Note, it is not recommended to use consecutive
-(marginnote)                odd pages in a double-ended document.
-(marginnote)                The pages of your document should always
-(marginnote)                be a sequence: odd-even-odd-even-...
-(marginnote)                Maybe you've forgotten a \cleardoublepage before
-(marginnote)                changing the page numbering on page 1007.
-
-Package marginnote Info: Using workaround for absolute page number on input lin
-e 53.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1008]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1009]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -10663,11 +10605,28 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1061]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-) [1062]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1062]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1063]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1064])
+[1065
+
+]
 \openout2 = `jpn-pap.aux'.
 
-
-(./jpn-pap.tex
+ (./jpn-pap.tex
 Chapter 29.
 
 LaTeX Font Warning: Font shape `TU/PMingLiU(0)/b/n' undefined
@@ -10679,37 +10638,25 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1063
+ [1067
 
 
 
 
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
+Package marginnote Warning: Consecutive odd pages found.
+(marginnote)                Note, it is not recommended to use consecutive
+(marginnote)                odd pages in a double-ended document.
+(marginnote)                The pages of your document should always
+(marginnote)                be a sequence: odd-even-odd-even-...
+(marginnote)                Maybe you've forgotten a \cleardoublepage before
+(marginnote)                changing the page numbering on page 1067.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Package marginnote Info: Using workaround for absolute page number on input lin
+e 107.
 
- [1064]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1065]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1066]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1067]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -11450,37 +11397,22 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1190]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-) [1191]
-\openout2 = `pap-nno.aux'.
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-(./pap-nno.tex
-Chapter 30.
-
+ [1191]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1193
+ [1192]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-
-]
-
-Package marginnote Warning: Consecutive odd pages found.
-(marginnote)                Note, it is not recommended to use consecutive
-(marginnote)                odd pages in a double-ended document.
-(marginnote)                The pages of your document should always
-(marginnote)                be a sequence: odd-even-odd-even-...
-(marginnote)                Maybe you've forgotten a \cleardoublepage before
-(marginnote)                changing the page numbering on page 1193.
-
-Package marginnote Info: Using workaround for absolute page number on input lin
-e 105.
-
+ [1193]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -11492,19 +11424,27 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1195]
+ [1195])
+[1196
+
+]
+\openout2 = `pap-nno.aux'.
+
+ (./pap-nno.tex
+Chapter 30.
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1196]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ [1197
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1197]
+
+
+]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -11519,25 +11459,16 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1199]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-) [1200]
-\openout2 = `nno-pap.aux'.
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-(./nno-pap.tex
-Chapter 31.
-
+ [1200]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1201
-
-
-
-
-
-]
+ [1201]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -11552,16 +11483,25 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1203]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+) [1204]
+\openout2 = `nno-pap.aux'.
+
+
+(./nno-pap.tex
+Chapter 31.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1204]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1205]
+ [1205
+
+
+
+
+
+]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -11573,8 +11513,32 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1207])
-[1208
+ [1207]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1208]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1209]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1210]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1211])
+[1212
 
 ]
 \openout2 = `pap-nob.aux'.
@@ -11587,37 +11551,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1209
+ [1213
 
 
 
 
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1210]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1211]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1212]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1213]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -11638,7 +11578,31 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1216]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-) [1217]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1217]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1218]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1219]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1220]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+) [1221]
 \openout2 = `nob-pap.aux'.
 
 
@@ -11650,7 +11614,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1219
+ [1223
 
 
 
@@ -11664,35 +11628,11 @@ Package marginnote Warning: Consecutive odd pages found.
 (marginnote)                The pages of your document should always
 (marginnote)                be a sequence: odd-even-odd-even-...
 (marginnote)                Maybe you've forgotten a \cleardoublepage before
-(marginnote)                changing the page numbering on page 1219.
+(marginnote)                changing the page numbering on page 1223.
 
 Package marginnote Info: Using workaround for absolute page number on input lin
 e 107.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1220]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1221]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1222]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1223]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -11710,8 +11650,32 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1226])
-[1227
+ [1226]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1227]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1228]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1229]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1230])
+[1231
 
 ]
 \openout2 = `pap-pol.aux'.
@@ -11724,7 +11688,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1229
+ [1233
 
 
 
@@ -11738,35 +11702,11 @@ Package marginnote Warning: Consecutive odd pages found.
 (marginnote)                The pages of your document should always
 (marginnote)                be a sequence: odd-even-odd-even-...
 (marginnote)                Maybe you've forgotten a \cleardoublepage before
-(marginnote)                changing the page numbering on page 1229.
+(marginnote)                changing the page numbering on page 1233.
 
 Package marginnote Info: Using workaround for absolute page number on input lin
-e 98.
+e 97.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1230]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1231]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1232]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1233]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -11799,37 +11739,22 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1238]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-) [1239]
-\openout2 = `pol-pap.aux'.
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-(./pol-pap.tex
-Chapter 35.
-
+ [1239]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1241
+ [1240]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-
-]
-
-Package marginnote Warning: Consecutive odd pages found.
-(marginnote)                Note, it is not recommended to use consecutive
-(marginnote)                odd pages in a double-ended document.
-(marginnote)                The pages of your document should always
-(marginnote)                be a sequence: odd-even-odd-even-...
-(marginnote)                Maybe you've forgotten a \cleardoublepage before
-(marginnote)                changing the page numbering on page 1241.
-
-Package marginnote Info: Using workaround for absolute page number on input lin
-e 107.
-
+ [1241]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -11841,19 +11766,27 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1243]
+ [1243])
+[1244
+
+]
+\openout2 = `pol-pap.aux'.
+
+ (./pol-pap.tex
+Chapter 35.
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1244]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ [1245
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1245]
+
+
+]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -11907,8 +11840,32 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1254])
-[1255
+ [1254]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1255]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1256]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1257]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1258])
+[1259
 
 ]
 \openout2 = `pap-por.aux'.
@@ -11921,7 +11878,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1257
+ [1261
 
 
 
@@ -11935,35 +11892,11 @@ Package marginnote Warning: Consecutive odd pages found.
 (marginnote)                The pages of your document should always
 (marginnote)                be a sequence: odd-even-odd-even-...
 (marginnote)                Maybe you've forgotten a \cleardoublepage before
-(marginnote)                changing the page numbering on page 1257.
+(marginnote)                changing the page numbering on page 1261.
 
 Package marginnote Info: Using workaround for absolute page number on input lin
 e 85.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1258]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1259]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1260]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1261]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -12089,8 +12022,32 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1282])
-[1283
+ [1282]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1283]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1284]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1285]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1286])
+[1287
 
 ]
 \openout2 = `por-pap.aux'.
@@ -12103,7 +12060,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1285
+ [1289
 
 
 
@@ -12117,35 +12074,11 @@ Package marginnote Warning: Consecutive odd pages found.
 (marginnote)                The pages of your document should always
 (marginnote)                be a sequence: odd-even-odd-even-...
 (marginnote)                Maybe you've forgotten a \cleardoublepage before
-(marginnote)                changing the page numbering on page 1285.
+(marginnote)                changing the page numbering on page 1289.
 
 Package marginnote Info: Using workaround for absolute page number on input lin
 e 107.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1286]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1287]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1288]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1289]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -12349,27 +12282,19 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1323])
-[1324
-
-]
-\openout2 = `pap-spa.aux'.
-
- (./pap-spa.tex
-Chapter 38.
-
+ [1323]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1325
+ [1324]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-
-]
+ [1325]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -12384,16 +12309,25 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1327]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+) [1328]
+\openout2 = `pap-spa.aux'.
+
+
+(./pap-spa.tex
+Chapter 38.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1328]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1329]
+ [1329
+
+
+
+
+
+]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -12483,8 +12417,32 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1344])
-[1345
+ [1344]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1345]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1346]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1347]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1348])
+[1349
 
 ]
 \openout2 = `spa-pap.aux'.
@@ -12497,7 +12455,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1347
+ [1351
 
 
 
@@ -12511,35 +12469,11 @@ Package marginnote Warning: Consecutive odd pages found.
 (marginnote)                The pages of your document should always
 (marginnote)                be a sequence: odd-even-odd-even-...
 (marginnote)                Maybe you've forgotten a \cleardoublepage before
-(marginnote)                changing the page numbering on page 1347.
+(marginnote)                changing the page numbering on page 1351.
 
 Package marginnote Info: Using workaround for absolute page number on input lin
 e 107.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1348]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1349]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1350]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1351]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -12665,8 +12599,32 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1372])
-[1373
+ [1372]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1373]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1374]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1375]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1376])
+[1377
 
 ]
 \openout2 = `pap-tha.aux'.
@@ -12700,7 +12658,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1375
+ [1379
 
 
 
@@ -12714,35 +12672,11 @@ Package marginnote Warning: Consecutive odd pages found.
 (marginnote)                The pages of your document should always
 (marginnote)                be a sequence: odd-even-odd-even-...
 (marginnote)                Maybe you've forgotten a \cleardoublepage before
-(marginnote)                changing the page numbering on page 1375.
+(marginnote)                changing the page numbering on page 1379.
 
 Package marginnote Info: Using workaround for absolute page number on input lin
-e 94.
+e 95.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1376]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1377]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1378]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1379]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -12874,8 +12808,32 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1401])
-[1402
+ [1401]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1402]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1403]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1404]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1405])
+[1406
 
 ]
 \openout2 = `tha-pap.aux'.
@@ -12888,37 +12846,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1403
+ [1407
 
 
 
 
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1404]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1405]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1406]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1407]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -13128,13 +13062,38 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1442])
-[1443
+ [1442]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1443]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1444]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1445]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1446]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+) [1447]
 \openout2 = `pap-zsm.aux'.
 
- (./pap-zsm.tex
+
+(./pap-zsm.tex
 Chapter 42.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -13142,7 +13101,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1445
+ [1449
 
 
 
@@ -13156,35 +13115,11 @@ Package marginnote Warning: Consecutive odd pages found.
 (marginnote)                The pages of your document should always
 (marginnote)                be a sequence: odd-even-odd-even-...
 (marginnote)                Maybe you've forgotten a \cleardoublepage before
-(marginnote)                changing the page numbering on page 1445.
+(marginnote)                changing the page numbering on page 1449.
 
 Package marginnote Info: Using workaround for absolute page number on input lin
 e 48.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1446]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1447]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1448]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1449]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -13436,28 +13371,19 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1491])
+ [1491]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1492]
-\openout2 = `zsm-pap.aux'.
-
-
-(./zsm-pap.tex
-Chapter 43.
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1493
-
-
-
-
-
-]
+ [1493]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -13472,16 +13398,25 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1495]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+) [1496]
+\openout2 = `zsm-pap.aux'.
+
+
+(./zsm-pap.tex
+Chapter 43.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1496]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1497]
+ [1497
+
+
+
+
+
+]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -13886,8 +13821,37 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1564]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-) [1565]
-(./book.bbl) (./book.ind) [1567
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1565]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1566]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1567]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1568]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1569])
+[1570
+
+] (./book.bbl) (./book.ind) [1571
 
 
 
@@ -13895,21 +13859,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ]
 
-Package marginnote Warning: Consecutive odd pages found.
-(marginnote)                Note, it is not recommended to use consecutive
-(marginnote)                odd pages in a double-ended document.
-(marginnote)                The pages of your document should always
-(marginnote)                be a sequence: odd-even-odd-even-...
-(marginnote)                Maybe you've forgotten a \cleardoublepage before
-(marginnote)                changing the page numbering on page 1567.
-
-Package marginnote Info: Using workaround for absolute page number on input lin
-e 71.
-
 Package caption Warning: Unused \captionsetup[lstlisting] on input line 40.
 See the caption package documentation for explanation.
 
-[1568
+[1572
 
 ] (./book.aux (./preface.aux) (./aboutbook.aux) (./legenda.aux)
 (./grammatica.aux) (./Papiamento-English.aux) (./pap-cat.aux) (./cat-pap.aux)
@@ -13934,6 +13887,6 @@ Here is how much of TeX's memory you used:
  52590 multiletter control sequences out of 15000+600000
  518761 words of font info for 181 fonts, out of 8000000 for 9000
  1349 hyphenation exceptions out of 8191
- 107i,12n,108p,2379b,905s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 107i,12n,108p,2407b,905s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on book.pdf (1546 pages).
+Output written on book.pdf (1555 pages).
